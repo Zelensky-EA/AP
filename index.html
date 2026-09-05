@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#10231f">
+  <meta name="description" content="Anatomy & Physiology daily learning navigator, course map, vocabulary, and system resources.">
+  <title>Anatomy & Physiology · Course Navigator</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,500;6..72,650&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <a class="brand" href="#today" aria-label="Anatomy and Physiology Navigator home">
+      <span class="brand-mark" aria-hidden="true"><span></span></span>
+      <span><strong>Anatomy &amp; Physiology</strong><small>Course Navigator</small></span>
+    </a>
+    <button class="menu-toggle" aria-expanded="false" aria-controls="site-nav">Menu</button>
+    <nav id="site-nav" aria-label="Main navigation">
+      <a href="#today" data-nav="today">Today</a>
+      <a href="#calendar" data-nav="calendar">Daily Navigator</a>
+      <a href="#systems" data-nav="systems">Body Systems</a>
+      <a href="#resources" data-nav="resources">Resources</a>
+      <button class="search-button" id="open-search" aria-label="Search course"><span aria-hidden="true">⌕</span> Search</button>
+    </nav>
+  </header>
+
+  <main id="main"></main>
+
+  <footer>
+    <div class="footer-brand"><span class="brand-mark mini" aria-hidden="true"><span></span></span><strong>Anatomy &amp; Physiology</strong></div>
+    <p>Structure tells a story. Physiology explains what happens next.</p>
+    <p class="source-note">Course sequence aligned to BIOZONE Anatomy &amp; Physiology, 3rd Edition.</p>
+  </footer>
+
+  <dialog id="search-dialog">
+    <form method="dialog" class="search-shell">
+      <div class="search-top">
+        <span aria-hidden="true">⌕</span>
+        <input id="global-search" type="search" autocomplete="off" placeholder="Search topics, targets, or vocabulary…" aria-label="Search course">
+        <button value="cancel" aria-label="Close search">×</button>
+      </div>
+      <div id="search-results" class="search-results" aria-live="polite"></div>
+    </form>
+  </dialog>
+
+  <template id="system-card-template">
+    <a class="system-card">
+      <div class="system-art" aria-hidden="true"><span class="system-glyph"></span><span class="unit-number"></span></div>
+      <div class="system-card-copy"><p class="eyebrow"></p><h3></h3><p class="card-kicker"></p><span class="card-link">Explore system <b>→</b></span></div>
+    </a>
+  </template>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
