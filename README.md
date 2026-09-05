@@ -18,8 +18,8 @@ Then open `http://localhost:8080`.
 - `app.js` renders the homepage, Daily Navigator, course atlas, all 13 unit/system guides, resource page, and global search.
 - The Daily Navigator attempts to read the published Google Sheet CSV at page load. If that request is blocked by the host or browser, the site displays the saved framework schedule and clearly labels it as such.
 
-## Deploy
+## Deploy with GitHub Actions
 
-The folder is ready for any static host: Google Sites embed, GitHub Pages, Netlify, Cloudflare Pages, or a school web server. No build command is required.
+The included `.github/workflows/deploy.yml` workflow publishes the site through GitHub Pages whenever changes are pushed to the `main` branch. In the repository's **Settings → Pages**, set **Source** to **GitHub Actions**. No build command is required.
 
 When the framework workbook changes, regenerate `data.js` from the workbook before redeploying to refresh the topic data.
