@@ -159,3 +159,14 @@ dialog{background:#d8d3e4;color:#302943;border:3px outset #fff;border-radius:0}.
 
 @media(max-width:950px){nav{background:#c9c4d8;border-color:#51496e}.today-content{grid-template-columns:1fr}.today-primary{border-right:0;border-bottom:2px groove #fff}.system-layout{grid-template-columns:1fr}}
 @media(max-width:680px){.home-today{padding-top:30px}.home-toolbar{display:block}.home-toolbar>div:last-child{display:none}.home-toolbar h1{font-size:32px}.today-grid{grid-template-columns:1fr}.today-grid>div+div{border-left:0;border-top:2px groove #fff}.systems-section{padding-inline:14px}.section-heading{display:block}.system-card h3{font-size:23px}}
+
+/* Clean 90s display type: readable titles inside the retro interface. */
+h1,h2,h3,.brand strong{font-family:"Trebuchet MS",Tahoma,Geneva,Arial,sans-serif;letter-spacing:-.025em;font-weight:700}
+.brand strong{font-size:20px;letter-spacing:-.015em}
+.home-toolbar h1{font-size:38px;line-height:1.05}
+.today-content h2{font-size:clamp(27px,2.5vw,38px);line-height:1.12;letter-spacing:-.035em}
+.section-heading h2{letter-spacing:-.035em}.system-card h3{font-size:22px;line-height:1.2;letter-spacing:-.02em}
+.navigator-hero h1,.system-hero h1,.resources-hero h1{letter-spacing:-.04em}
+.topic-item h3{letter-spacing:-.01em}.vocab-card h2,.connections-card h2,.resource-card h2{letter-spacing:-.025em}
+
+@media(max-width:680px){.home-toolbar h1{font-size:30px}.today-content h2{font-size:28px}.system-card h3{font-size:21px}}
