@@ -53,6 +53,456 @@ window.COURSE_DATA = {
         "body cavity",
         "serous membrane"
       ],
+      "vocabularyRecords": [
+        {
+          "term": "anatomy",
+          "priority": "Core",
+          "topic": "0.1",
+          "topicTitle": "Introduction to Anatomy & Physiology",
+          "connection": "Distinguish anatomy from physiology and relate structure to function across levels of organization."
+        },
+        {
+          "term": "physiology",
+          "priority": "Core",
+          "topic": "0.1",
+          "topicTitle": "Introduction to Anatomy & Physiology",
+          "connection": "Distinguish anatomy from physiology and relate structure to function across levels of organization."
+        },
+        {
+          "term": "structure",
+          "priority": "Core",
+          "topic": "0.1",
+          "topicTitle": "Introduction to Anatomy & Physiology",
+          "connection": "Distinguish anatomy from physiology and relate structure to function across levels of organization."
+        },
+        {
+          "term": "function",
+          "priority": "Core",
+          "topic": "0.1",
+          "topicTitle": "Introduction to Anatomy & Physiology",
+          "connection": "Distinguish anatomy from physiology and relate structure to function across levels of organization."
+        },
+        {
+          "term": "complementarity of structure and function",
+          "priority": "Core",
+          "topic": "0.1",
+          "topicTitle": "Introduction to Anatomy & Physiology",
+          "connection": "Distinguish anatomy from physiology and relate structure to function across levels of organization."
+        },
+        {
+          "term": "organism",
+          "priority": "Core",
+          "topic": "0.1",
+          "topicTitle": "Introduction to Anatomy & Physiology",
+          "connection": "Distinguish anatomy from physiology and relate structure to function across levels of organization."
+        },
+        {
+          "term": "organ system",
+          "priority": "Core",
+          "topic": "0.1",
+          "topicTitle": "Introduction to Anatomy & Physiology",
+          "connection": "Distinguish anatomy from physiology and relate structure to function across levels of organization."
+        },
+        {
+          "term": "organ",
+          "priority": "Core",
+          "topic": "0.1",
+          "topicTitle": "Introduction to Anatomy & Physiology",
+          "connection": "Distinguish anatomy from physiology and relate structure to function across levels of organization."
+        },
+        {
+          "term": "tissue",
+          "priority": "Core",
+          "topic": "0.1",
+          "topicTitle": "Introduction to Anatomy & Physiology",
+          "connection": "Distinguish anatomy from physiology and relate structure to function across levels of organization."
+        },
+        {
+          "term": "cell",
+          "priority": "Core",
+          "topic": "0.1",
+          "topicTitle": "Introduction to Anatomy & Physiology",
+          "connection": "Distinguish anatomy from physiology and relate structure to function across levels of organization."
+        },
+        {
+          "term": "organelle",
+          "priority": "Core",
+          "topic": "0.1",
+          "topicTitle": "Introduction to Anatomy & Physiology",
+          "connection": "Distinguish anatomy from physiology and relate structure to function across levels of organization."
+        },
+        {
+          "term": "anatomical position",
+          "priority": "Core",
+          "topic": "0.2",
+          "topicTitle": "Anatomical Position & Directional Terms",
+          "connection": "Use standard anatomical position and directional terminology."
+        },
+        {
+          "term": "superior",
+          "priority": "Core",
+          "topic": "0.2",
+          "topicTitle": "Anatomical Position & Directional Terms",
+          "connection": "Use standard anatomical position and directional terminology."
+        },
+        {
+          "term": "inferior",
+          "priority": "Core",
+          "topic": "0.2",
+          "topicTitle": "Anatomical Position & Directional Terms",
+          "connection": "Use standard anatomical position and directional terminology."
+        },
+        {
+          "term": "anterior",
+          "priority": "Core",
+          "topic": "0.2",
+          "topicTitle": "Anatomical Position & Directional Terms",
+          "connection": "Use standard anatomical position and directional terminology."
+        },
+        {
+          "term": "posterior",
+          "priority": "Core",
+          "topic": "0.2",
+          "topicTitle": "Anatomical Position & Directional Terms",
+          "connection": "Use standard anatomical position and directional terminology."
+        },
+        {
+          "term": "ventral",
+          "priority": "Core",
+          "topic": "0.2",
+          "topicTitle": "Anatomical Position & Directional Terms",
+          "connection": "Use standard anatomical position and directional terminology."
+        },
+        {
+          "term": "dorsal",
+          "priority": "Core",
+          "topic": "0.2",
+          "topicTitle": "Anatomical Position & Directional Terms",
+          "connection": "Use standard anatomical position and directional terminology."
+        },
+        {
+          "term": "medial",
+          "priority": "Core",
+          "topic": "0.2",
+          "topicTitle": "Anatomical Position & Directional Terms",
+          "connection": "Use standard anatomical position and directional terminology."
+        },
+        {
+          "term": "lateral",
+          "priority": "Core",
+          "topic": "0.2",
+          "topicTitle": "Anatomical Position & Directional Terms",
+          "connection": "Use standard anatomical position and directional terminology."
+        },
+        {
+          "term": "intermediate",
+          "priority": "Core",
+          "topic": "0.2",
+          "topicTitle": "Anatomical Position & Directional Terms",
+          "connection": "Use standard anatomical position and directional terminology."
+        },
+        {
+          "term": "proximal",
+          "priority": "Core",
+          "topic": "0.2",
+          "topicTitle": "Anatomical Position & Directional Terms",
+          "connection": "Use standard anatomical position and directional terminology."
+        },
+        {
+          "term": "distal",
+          "priority": "Core",
+          "topic": "0.2",
+          "topicTitle": "Anatomical Position & Directional Terms",
+          "connection": "Use standard anatomical position and directional terminology."
+        },
+        {
+          "term": "superficial",
+          "priority": "Core",
+          "topic": "0.2",
+          "topicTitle": "Anatomical Position & Directional Terms",
+          "connection": "Use standard anatomical position and directional terminology."
+        },
+        {
+          "term": "deep",
+          "priority": "Core",
+          "topic": "0.2",
+          "topicTitle": "Anatomical Position & Directional Terms",
+          "connection": "Use standard anatomical position and directional terminology."
+        },
+        {
+          "term": "ipsilateral",
+          "priority": "Core",
+          "topic": "0.2",
+          "topicTitle": "Anatomical Position & Directional Terms",
+          "connection": "Use standard anatomical position and directional terminology."
+        },
+        {
+          "term": "contralateral",
+          "priority": "Core",
+          "topic": "0.2",
+          "topicTitle": "Anatomical Position & Directional Terms",
+          "connection": "Use standard anatomical position and directional terminology."
+        },
+        {
+          "term": "sagittal plane",
+          "priority": "Core",
+          "topic": "0.3",
+          "topicTitle": "Body Planes & Sections",
+          "connection": "Identify anatomical planes and interpret sections."
+        },
+        {
+          "term": "midsagittal plane",
+          "priority": "Core",
+          "topic": "0.3",
+          "topicTitle": "Body Planes & Sections",
+          "connection": "Identify anatomical planes and interpret sections."
+        },
+        {
+          "term": "parasagittal plane",
+          "priority": "Honors Extension",
+          "topic": "0.3",
+          "topicTitle": "Body Planes & Sections",
+          "connection": "Identify anatomical planes and interpret sections."
+        },
+        {
+          "term": "frontal plane",
+          "priority": "Core",
+          "topic": "0.3",
+          "topicTitle": "Body Planes & Sections",
+          "connection": "Identify anatomical planes and interpret sections."
+        },
+        {
+          "term": "coronal plane",
+          "priority": "Core",
+          "topic": "0.3",
+          "topicTitle": "Body Planes & Sections",
+          "connection": "Identify anatomical planes and interpret sections."
+        },
+        {
+          "term": "transverse plane",
+          "priority": "Core",
+          "topic": "0.3",
+          "topicTitle": "Body Planes & Sections",
+          "connection": "Identify anatomical planes and interpret sections."
+        },
+        {
+          "term": "horizontal plane",
+          "priority": "Core",
+          "topic": "0.3",
+          "topicTitle": "Body Planes & Sections",
+          "connection": "Identify anatomical planes and interpret sections."
+        },
+        {
+          "term": "oblique plane",
+          "priority": "Honors Extension",
+          "topic": "0.3",
+          "topicTitle": "Body Planes & Sections",
+          "connection": "Identify anatomical planes and interpret sections."
+        },
+        {
+          "term": "cross section",
+          "priority": "Core",
+          "topic": "0.3",
+          "topicTitle": "Body Planes & Sections",
+          "connection": "Identify anatomical planes and interpret sections."
+        },
+        {
+          "term": "longitudinal section",
+          "priority": "Core",
+          "topic": "0.3",
+          "topicTitle": "Body Planes & Sections",
+          "connection": "Identify anatomical planes and interpret sections."
+        },
+        {
+          "term": "axial region",
+          "priority": "Core",
+          "topic": "0.4",
+          "topicTitle": "Body Regions & Anatomical Landmarks",
+          "connection": "Identify axial and appendicular regions and landmarks."
+        },
+        {
+          "term": "appendicular region",
+          "priority": "Core",
+          "topic": "0.4",
+          "topicTitle": "Body Regions & Anatomical Landmarks",
+          "connection": "Identify axial and appendicular regions and landmarks."
+        },
+        {
+          "term": "cephalic",
+          "priority": "Core",
+          "topic": "0.4",
+          "topicTitle": "Body Regions & Anatomical Landmarks",
+          "connection": "Identify axial and appendicular regions and landmarks."
+        },
+        {
+          "term": "cervical",
+          "priority": "Core",
+          "topic": "0.4",
+          "topicTitle": "Body Regions & Anatomical Landmarks",
+          "connection": "Identify axial and appendicular regions and landmarks."
+        },
+        {
+          "term": "thoracic",
+          "priority": "Core",
+          "topic": "0.4",
+          "topicTitle": "Body Regions & Anatomical Landmarks",
+          "connection": "Identify axial and appendicular regions and landmarks."
+        },
+        {
+          "term": "abdominal",
+          "priority": "Core",
+          "topic": "0.4",
+          "topicTitle": "Body Regions & Anatomical Landmarks",
+          "connection": "Identify axial and appendicular regions and landmarks."
+        },
+        {
+          "term": "pelvic",
+          "priority": "Core",
+          "topic": "0.4",
+          "topicTitle": "Body Regions & Anatomical Landmarks",
+          "connection": "Identify axial and appendicular regions and landmarks."
+        },
+        {
+          "term": "upper limb",
+          "priority": "Core",
+          "topic": "0.4",
+          "topicTitle": "Body Regions & Anatomical Landmarks",
+          "connection": "Identify axial and appendicular regions and landmarks."
+        },
+        {
+          "term": "lower limb",
+          "priority": "Core",
+          "topic": "0.4",
+          "topicTitle": "Body Regions & Anatomical Landmarks",
+          "connection": "Identify axial and appendicular regions and landmarks."
+        },
+        {
+          "term": "abdominopelvic quadrant",
+          "priority": "Core",
+          "topic": "0.4",
+          "topicTitle": "Body Regions & Anatomical Landmarks",
+          "connection": "Identify axial and appendicular regions and landmarks."
+        },
+        {
+          "term": "abdominopelvic region",
+          "priority": "Core",
+          "topic": "0.4",
+          "topicTitle": "Body Regions & Anatomical Landmarks",
+          "connection": "Identify axial and appendicular regions and landmarks."
+        },
+        {
+          "term": "dorsal body cavity",
+          "priority": "Core",
+          "topic": "0.5",
+          "topicTitle": "Body Cavities & Membranes",
+          "connection": "Distinguish body cavities and relate serous membranes to organ protection."
+        },
+        {
+          "term": "cranial cavity",
+          "priority": "Core",
+          "topic": "0.5",
+          "topicTitle": "Body Cavities & Membranes",
+          "connection": "Distinguish body cavities and relate serous membranes to organ protection."
+        },
+        {
+          "term": "vertebral cavity",
+          "priority": "Core",
+          "topic": "0.5",
+          "topicTitle": "Body Cavities & Membranes",
+          "connection": "Distinguish body cavities and relate serous membranes to organ protection."
+        },
+        {
+          "term": "ventral body cavity",
+          "priority": "Core",
+          "topic": "0.5",
+          "topicTitle": "Body Cavities & Membranes",
+          "connection": "Distinguish body cavities and relate serous membranes to organ protection."
+        },
+        {
+          "term": "thoracic cavity",
+          "priority": "Core",
+          "topic": "0.5",
+          "topicTitle": "Body Cavities & Membranes",
+          "connection": "Distinguish body cavities and relate serous membranes to organ protection."
+        },
+        {
+          "term": "abdominopelvic cavity",
+          "priority": "Core",
+          "topic": "0.5",
+          "topicTitle": "Body Cavities & Membranes",
+          "connection": "Distinguish body cavities and relate serous membranes to organ protection."
+        },
+        {
+          "term": "abdominal cavity",
+          "priority": "Core",
+          "topic": "0.5",
+          "topicTitle": "Body Cavities & Membranes",
+          "connection": "Distinguish body cavities and relate serous membranes to organ protection."
+        },
+        {
+          "term": "pelvic cavity",
+          "priority": "Core",
+          "topic": "0.5",
+          "topicTitle": "Body Cavities & Membranes",
+          "connection": "Distinguish body cavities and relate serous membranes to organ protection."
+        },
+        {
+          "term": "pleural cavity",
+          "priority": "Core",
+          "topic": "0.5",
+          "topicTitle": "Body Cavities & Membranes",
+          "connection": "Distinguish body cavities and relate serous membranes to organ protection."
+        },
+        {
+          "term": "pericardial cavity",
+          "priority": "Core",
+          "topic": "0.5",
+          "topicTitle": "Body Cavities & Membranes",
+          "connection": "Distinguish body cavities and relate serous membranes to organ protection."
+        },
+        {
+          "term": "mediastinum",
+          "priority": "Core",
+          "topic": "0.5",
+          "topicTitle": "Body Cavities & Membranes",
+          "connection": "Distinguish body cavities and relate serous membranes to organ protection."
+        },
+        {
+          "term": "serous membrane",
+          "priority": "Core",
+          "topic": "0.5",
+          "topicTitle": "Body Cavities & Membranes",
+          "connection": "Distinguish body cavities and relate serous membranes to organ protection."
+        },
+        {
+          "term": "parietal layer",
+          "priority": "Core",
+          "topic": "0.5",
+          "topicTitle": "Body Cavities & Membranes",
+          "connection": "Distinguish body cavities and relate serous membranes to organ protection."
+        },
+        {
+          "term": "visceral layer",
+          "priority": "Core",
+          "topic": "0.5",
+          "topicTitle": "Body Cavities & Membranes",
+          "connection": "Distinguish body cavities and relate serous membranes to organ protection."
+        },
+        {
+          "term": "serous fluid",
+          "priority": "Core",
+          "topic": "0.5",
+          "topicTitle": "Body Cavities & Membranes",
+          "connection": "Distinguish body cavities and relate serous membranes to organ protection."
+        },
+        {
+          "term": "peritoneum",
+          "priority": "Core",
+          "topic": "0.5",
+          "topicTitle": "Body Cavities & Membranes",
+          "connection": "Distinguish body cavities and relate serous membranes to organ protection."
+        }
+      ],
       "topics": [
         {
           "unit": "Unit 0",
@@ -172,6 +622,1009 @@ window.COURSE_DATA = {
         "connective tissue",
         "muscle tissue",
         "nervous tissue"
+      ],
+      "vocabularyRecords": [
+        {
+          "term": "atom",
+          "priority": "Core",
+          "topic": "1.1",
+          "topicTitle": "Cell Chemistry & Structure",
+          "connection": "Identify major cell components, chemical elements, and specialized cellular features."
+        },
+        {
+          "term": "element",
+          "priority": "Core",
+          "topic": "1.1",
+          "topicTitle": "Cell Chemistry & Structure",
+          "connection": "Identify major cell components, chemical elements, and specialized cellular features."
+        },
+        {
+          "term": "ion",
+          "priority": "Core",
+          "topic": "1.1",
+          "topicTitle": "Cell Chemistry & Structure",
+          "connection": "Identify major cell components, chemical elements, and specialized cellular features."
+        },
+        {
+          "term": "electrolyte",
+          "priority": "Core",
+          "topic": "1.1",
+          "topicTitle": "Cell Chemistry & Structure",
+          "connection": "Identify major cell components, chemical elements, and specialized cellular features."
+        },
+        {
+          "term": "molecule",
+          "priority": "Core",
+          "topic": "1.1",
+          "topicTitle": "Cell Chemistry & Structure",
+          "connection": "Identify major cell components, chemical elements, and specialized cellular features."
+        },
+        {
+          "term": "compound",
+          "priority": "Core",
+          "topic": "1.1",
+          "topicTitle": "Cell Chemistry & Structure",
+          "connection": "Identify major cell components, chemical elements, and specialized cellular features."
+        },
+        {
+          "term": "covalent bond",
+          "priority": "Core",
+          "topic": "1.1",
+          "topicTitle": "Cell Chemistry & Structure",
+          "connection": "Identify major cell components, chemical elements, and specialized cellular features."
+        },
+        {
+          "term": "ionic bond",
+          "priority": "Core",
+          "topic": "1.1",
+          "topicTitle": "Cell Chemistry & Structure",
+          "connection": "Identify major cell components, chemical elements, and specialized cellular features."
+        },
+        {
+          "term": "hydrogen bond",
+          "priority": "Honors Extension",
+          "topic": "1.1",
+          "topicTitle": "Cell Chemistry & Structure",
+          "connection": "Identify major cell components, chemical elements, and specialized cellular features."
+        },
+        {
+          "term": "pH",
+          "priority": "Core",
+          "topic": "1.1",
+          "topicTitle": "Cell Chemistry & Structure",
+          "connection": "Identify major cell components, chemical elements, and specialized cellular features."
+        },
+        {
+          "term": "acid",
+          "priority": "Core",
+          "topic": "1.1",
+          "topicTitle": "Cell Chemistry & Structure",
+          "connection": "Identify major cell components, chemical elements, and specialized cellular features."
+        },
+        {
+          "term": "base",
+          "priority": "Core",
+          "topic": "1.1",
+          "topicTitle": "Cell Chemistry & Structure",
+          "connection": "Identify major cell components, chemical elements, and specialized cellular features."
+        },
+        {
+          "term": "buffer",
+          "priority": "Core",
+          "topic": "1.1",
+          "topicTitle": "Cell Chemistry & Structure",
+          "connection": "Identify major cell components, chemical elements, and specialized cellular features."
+        },
+        {
+          "term": "water",
+          "priority": "Core",
+          "topic": "1.1",
+          "topicTitle": "Cell Chemistry & Structure",
+          "connection": "Identify major cell components, chemical elements, and specialized cellular features."
+        },
+        {
+          "term": "carbohydrate",
+          "priority": "Core",
+          "topic": "1.1",
+          "topicTitle": "Cell Chemistry & Structure",
+          "connection": "Identify major cell components, chemical elements, and specialized cellular features."
+        },
+        {
+          "term": "lipid",
+          "priority": "Core",
+          "topic": "1.1",
+          "topicTitle": "Cell Chemistry & Structure",
+          "connection": "Identify major cell components, chemical elements, and specialized cellular features."
+        },
+        {
+          "term": "protein",
+          "priority": "Core",
+          "topic": "1.1",
+          "topicTitle": "Cell Chemistry & Structure",
+          "connection": "Identify major cell components, chemical elements, and specialized cellular features."
+        },
+        {
+          "term": "nucleic acid",
+          "priority": "Core",
+          "topic": "1.1",
+          "topicTitle": "Cell Chemistry & Structure",
+          "connection": "Identify major cell components, chemical elements, and specialized cellular features."
+        },
+        {
+          "term": "ATP",
+          "priority": "Core",
+          "topic": "1.1",
+          "topicTitle": "Cell Chemistry & Structure",
+          "connection": "Identify major cell components, chemical elements, and specialized cellular features."
+        },
+        {
+          "term": "cell",
+          "priority": "Core",
+          "topic": "1.1",
+          "topicTitle": "Cell Chemistry & Structure",
+          "connection": "Identify major cell components, chemical elements, and specialized cellular features."
+        },
+        {
+          "term": "plasma membrane",
+          "priority": "Core",
+          "topic": "1.1",
+          "topicTitle": "Cell Chemistry & Structure",
+          "connection": "Identify major cell components, chemical elements, and specialized cellular features."
+        },
+        {
+          "term": "cytoplasm",
+          "priority": "Core",
+          "topic": "1.1",
+          "topicTitle": "Cell Chemistry & Structure",
+          "connection": "Identify major cell components, chemical elements, and specialized cellular features."
+        },
+        {
+          "term": "cytosol",
+          "priority": "Core",
+          "topic": "1.1",
+          "topicTitle": "Cell Chemistry & Structure",
+          "connection": "Identify major cell components, chemical elements, and specialized cellular features."
+        },
+        {
+          "term": "nucleus",
+          "priority": "Core",
+          "topic": "1.1",
+          "topicTitle": "Cell Chemistry & Structure",
+          "connection": "Identify major cell components, chemical elements, and specialized cellular features."
+        },
+        {
+          "term": "fluid mosaic model",
+          "priority": "Core",
+          "topic": "1.2",
+          "topicTitle": "Cell Membrane Structure & Function",
+          "connection": "Relate fluid-mosaic membrane structure to transport and communication."
+        },
+        {
+          "term": "phospholipid",
+          "priority": "Core",
+          "topic": "1.2",
+          "topicTitle": "Cell Membrane Structure & Function",
+          "connection": "Relate fluid-mosaic membrane structure to transport and communication."
+        },
+        {
+          "term": "phospholipid bilayer",
+          "priority": "Core",
+          "topic": "1.2",
+          "topicTitle": "Cell Membrane Structure & Function",
+          "connection": "Relate fluid-mosaic membrane structure to transport and communication."
+        },
+        {
+          "term": "hydrophilic",
+          "priority": "Core",
+          "topic": "1.2",
+          "topicTitle": "Cell Membrane Structure & Function",
+          "connection": "Relate fluid-mosaic membrane structure to transport and communication."
+        },
+        {
+          "term": "hydrophobic",
+          "priority": "Core",
+          "topic": "1.2",
+          "topicTitle": "Cell Membrane Structure & Function",
+          "connection": "Relate fluid-mosaic membrane structure to transport and communication."
+        },
+        {
+          "term": "cholesterol",
+          "priority": "Core",
+          "topic": "1.2",
+          "topicTitle": "Cell Membrane Structure & Function",
+          "connection": "Relate fluid-mosaic membrane structure to transport and communication."
+        },
+        {
+          "term": "glycolipid",
+          "priority": "Core",
+          "topic": "1.2",
+          "topicTitle": "Cell Membrane Structure & Function",
+          "connection": "Relate fluid-mosaic membrane structure to transport and communication."
+        },
+        {
+          "term": "glycoprotein",
+          "priority": "Core",
+          "topic": "1.2",
+          "topicTitle": "Cell Membrane Structure & Function",
+          "connection": "Relate fluid-mosaic membrane structure to transport and communication."
+        },
+        {
+          "term": "integral protein",
+          "priority": "Core",
+          "topic": "1.2",
+          "topicTitle": "Cell Membrane Structure & Function",
+          "connection": "Relate fluid-mosaic membrane structure to transport and communication."
+        },
+        {
+          "term": "peripheral protein",
+          "priority": "Honors Extension",
+          "topic": "1.2",
+          "topicTitle": "Cell Membrane Structure & Function",
+          "connection": "Relate fluid-mosaic membrane structure to transport and communication."
+        },
+        {
+          "term": "channel protein",
+          "priority": "Core",
+          "topic": "1.2",
+          "topicTitle": "Cell Membrane Structure & Function",
+          "connection": "Relate fluid-mosaic membrane structure to transport and communication."
+        },
+        {
+          "term": "carrier protein",
+          "priority": "Core",
+          "topic": "1.2",
+          "topicTitle": "Cell Membrane Structure & Function",
+          "connection": "Relate fluid-mosaic membrane structure to transport and communication."
+        },
+        {
+          "term": "receptor",
+          "priority": "Core",
+          "topic": "1.2",
+          "topicTitle": "Cell Membrane Structure & Function",
+          "connection": "Relate fluid-mosaic membrane structure to transport and communication."
+        },
+        {
+          "term": "cell-adhesion molecule",
+          "priority": "Core",
+          "topic": "1.2",
+          "topicTitle": "Cell Membrane Structure & Function",
+          "connection": "Relate fluid-mosaic membrane structure to transport and communication."
+        },
+        {
+          "term": "selective permeability",
+          "priority": "Core",
+          "topic": "1.2",
+          "topicTitle": "Cell Membrane Structure & Function",
+          "connection": "Relate fluid-mosaic membrane structure to transport and communication."
+        },
+        {
+          "term": "organelle",
+          "priority": "Core",
+          "topic": "1.3",
+          "topicTitle": "Organelles, Cytoskeleton & Metabolism",
+          "connection": "Relate organelles and cytoskeleton to cellular metabolism and organization."
+        },
+        {
+          "term": "metabolism",
+          "priority": "Core",
+          "topic": "1.3",
+          "topicTitle": "Organelles, Cytoskeleton & Metabolism",
+          "connection": "Relate organelles and cytoskeleton to cellular metabolism and organization."
+        },
+        {
+          "term": "anabolism",
+          "priority": "Core",
+          "topic": "1.3",
+          "topicTitle": "Organelles, Cytoskeleton & Metabolism",
+          "connection": "Relate organelles and cytoskeleton to cellular metabolism and organization."
+        },
+        {
+          "term": "catabolism",
+          "priority": "Core",
+          "topic": "1.3",
+          "topicTitle": "Organelles, Cytoskeleton & Metabolism",
+          "connection": "Relate organelles and cytoskeleton to cellular metabolism and organization."
+        },
+        {
+          "term": "nucleolus",
+          "priority": "Core",
+          "topic": "1.3",
+          "topicTitle": "Organelles, Cytoskeleton & Metabolism",
+          "connection": "Relate organelles and cytoskeleton to cellular metabolism and organization."
+        },
+        {
+          "term": "chromatin",
+          "priority": "Core",
+          "topic": "1.3",
+          "topicTitle": "Organelles, Cytoskeleton & Metabolism",
+          "connection": "Relate organelles and cytoskeleton to cellular metabolism and organization."
+        },
+        {
+          "term": "ribosome",
+          "priority": "Core",
+          "topic": "1.3",
+          "topicTitle": "Organelles, Cytoskeleton & Metabolism",
+          "connection": "Relate organelles and cytoskeleton to cellular metabolism and organization."
+        },
+        {
+          "term": "rough endoplasmic reticulum",
+          "priority": "Core",
+          "topic": "1.3",
+          "topicTitle": "Organelles, Cytoskeleton & Metabolism",
+          "connection": "Relate organelles and cytoskeleton to cellular metabolism and organization."
+        },
+        {
+          "term": "smooth endoplasmic reticulum",
+          "priority": "Core",
+          "topic": "1.3",
+          "topicTitle": "Organelles, Cytoskeleton & Metabolism",
+          "connection": "Relate organelles and cytoskeleton to cellular metabolism and organization."
+        },
+        {
+          "term": "Golgi apparatus",
+          "priority": "Core",
+          "topic": "1.3",
+          "topicTitle": "Organelles, Cytoskeleton & Metabolism",
+          "connection": "Relate organelles and cytoskeleton to cellular metabolism and organization."
+        },
+        {
+          "term": "vesicle",
+          "priority": "Core",
+          "topic": "1.3",
+          "topicTitle": "Organelles, Cytoskeleton & Metabolism",
+          "connection": "Relate organelles and cytoskeleton to cellular metabolism and organization."
+        },
+        {
+          "term": "lysosome",
+          "priority": "Core",
+          "topic": "1.3",
+          "topicTitle": "Organelles, Cytoskeleton & Metabolism",
+          "connection": "Relate organelles and cytoskeleton to cellular metabolism and organization."
+        },
+        {
+          "term": "peroxisome",
+          "priority": "Honors Extension",
+          "topic": "1.3",
+          "topicTitle": "Organelles, Cytoskeleton & Metabolism",
+          "connection": "Relate organelles and cytoskeleton to cellular metabolism and organization."
+        },
+        {
+          "term": "mitochondrion",
+          "priority": "Core",
+          "topic": "1.3",
+          "topicTitle": "Organelles, Cytoskeleton & Metabolism",
+          "connection": "Relate organelles and cytoskeleton to cellular metabolism and organization."
+        },
+        {
+          "term": "centrosome",
+          "priority": "Core",
+          "topic": "1.3",
+          "topicTitle": "Organelles, Cytoskeleton & Metabolism",
+          "connection": "Relate organelles and cytoskeleton to cellular metabolism and organization."
+        },
+        {
+          "term": "centriole",
+          "priority": "Core",
+          "topic": "1.3",
+          "topicTitle": "Organelles, Cytoskeleton & Metabolism",
+          "connection": "Relate organelles and cytoskeleton to cellular metabolism and organization."
+        },
+        {
+          "term": "cytoskeleton",
+          "priority": "Core",
+          "topic": "1.3",
+          "topicTitle": "Organelles, Cytoskeleton & Metabolism",
+          "connection": "Relate organelles and cytoskeleton to cellular metabolism and organization."
+        },
+        {
+          "term": "microfilament",
+          "priority": "Core",
+          "topic": "1.3",
+          "topicTitle": "Organelles, Cytoskeleton & Metabolism",
+          "connection": "Relate organelles and cytoskeleton to cellular metabolism and organization."
+        },
+        {
+          "term": "intermediate filament",
+          "priority": "Core",
+          "topic": "1.3",
+          "topicTitle": "Organelles, Cytoskeleton & Metabolism",
+          "connection": "Relate organelles and cytoskeleton to cellular metabolism and organization."
+        },
+        {
+          "term": "microtubule",
+          "priority": "Core",
+          "topic": "1.3",
+          "topicTitle": "Organelles, Cytoskeleton & Metabolism",
+          "connection": "Relate organelles and cytoskeleton to cellular metabolism and organization."
+        },
+        {
+          "term": "cilia",
+          "priority": "Core",
+          "topic": "1.3",
+          "topicTitle": "Organelles, Cytoskeleton & Metabolism",
+          "connection": "Relate organelles and cytoskeleton to cellular metabolism and organization."
+        },
+        {
+          "term": "flagellum",
+          "priority": "Core",
+          "topic": "1.3",
+          "topicTitle": "Organelles, Cytoskeleton & Metabolism",
+          "connection": "Relate organelles and cytoskeleton to cellular metabolism and organization."
+        },
+        {
+          "term": "passive transport",
+          "priority": "Core",
+          "topic": "1.4",
+          "topicTitle": "Passive Transport",
+          "connection": "Explain diffusion, osmosis, tonicity, and facilitated diffusion."
+        },
+        {
+          "term": "concentration gradient",
+          "priority": "Core",
+          "topic": "1.4",
+          "topicTitle": "Passive Transport",
+          "connection": "Explain diffusion, osmosis, tonicity, and facilitated diffusion."
+        },
+        {
+          "term": "diffusion",
+          "priority": "Core",
+          "topic": "1.4",
+          "topicTitle": "Passive Transport",
+          "connection": "Explain diffusion, osmosis, tonicity, and facilitated diffusion."
+        },
+        {
+          "term": "simple diffusion",
+          "priority": "Core",
+          "topic": "1.4",
+          "topicTitle": "Passive Transport",
+          "connection": "Explain diffusion, osmosis, tonicity, and facilitated diffusion."
+        },
+        {
+          "term": "facilitated diffusion",
+          "priority": "Core",
+          "topic": "1.4",
+          "topicTitle": "Passive Transport",
+          "connection": "Explain diffusion, osmosis, tonicity, and facilitated diffusion."
+        },
+        {
+          "term": "osmosis",
+          "priority": "Core",
+          "topic": "1.4",
+          "topicTitle": "Passive Transport",
+          "connection": "Explain diffusion, osmosis, tonicity, and facilitated diffusion."
+        },
+        {
+          "term": "solute",
+          "priority": "Core",
+          "topic": "1.4",
+          "topicTitle": "Passive Transport",
+          "connection": "Explain diffusion, osmosis, tonicity, and facilitated diffusion."
+        },
+        {
+          "term": "solvent",
+          "priority": "Core",
+          "topic": "1.4",
+          "topicTitle": "Passive Transport",
+          "connection": "Explain diffusion, osmosis, tonicity, and facilitated diffusion."
+        },
+        {
+          "term": "equilibrium",
+          "priority": "Core",
+          "topic": "1.4",
+          "topicTitle": "Passive Transport",
+          "connection": "Explain diffusion, osmosis, tonicity, and facilitated diffusion."
+        },
+        {
+          "term": "tonicity",
+          "priority": "Core",
+          "topic": "1.4",
+          "topicTitle": "Passive Transport",
+          "connection": "Explain diffusion, osmosis, tonicity, and facilitated diffusion."
+        },
+        {
+          "term": "isotonic",
+          "priority": "Core",
+          "topic": "1.4",
+          "topicTitle": "Passive Transport",
+          "connection": "Explain diffusion, osmosis, tonicity, and facilitated diffusion."
+        },
+        {
+          "term": "hypotonic",
+          "priority": "Core",
+          "topic": "1.4",
+          "topicTitle": "Passive Transport",
+          "connection": "Explain diffusion, osmosis, tonicity, and facilitated diffusion."
+        },
+        {
+          "term": "hypertonic",
+          "priority": "Core",
+          "topic": "1.4",
+          "topicTitle": "Passive Transport",
+          "connection": "Explain diffusion, osmosis, tonicity, and facilitated diffusion."
+        },
+        {
+          "term": "aquaporin",
+          "priority": "Core",
+          "topic": "1.4",
+          "topicTitle": "Passive Transport",
+          "connection": "Explain diffusion, osmosis, tonicity, and facilitated diffusion."
+        },
+        {
+          "term": "osmotic pressure",
+          "priority": "Core",
+          "topic": "1.4",
+          "topicTitle": "Passive Transport",
+          "connection": "Explain diffusion, osmosis, tonicity, and facilitated diffusion."
+        },
+        {
+          "term": "filtration",
+          "priority": "Core",
+          "topic": "1.4",
+          "topicTitle": "Passive Transport",
+          "connection": "Explain diffusion, osmosis, tonicity, and facilitated diffusion."
+        },
+        {
+          "term": "active transport",
+          "priority": "Core",
+          "topic": "1.5",
+          "topicTitle": "Active & Vesicular Transport",
+          "connection": "Explain active transport, ion pumps, endocytosis, and exocytosis."
+        },
+        {
+          "term": "primary active transport",
+          "priority": "Core",
+          "topic": "1.5",
+          "topicTitle": "Active & Vesicular Transport",
+          "connection": "Explain active transport, ion pumps, endocytosis, and exocytosis."
+        },
+        {
+          "term": "secondary active transport",
+          "priority": "Honors Extension",
+          "topic": "1.5",
+          "topicTitle": "Active & Vesicular Transport",
+          "connection": "Explain active transport, ion pumps, endocytosis, and exocytosis."
+        },
+        {
+          "term": "sodium-potassium pump",
+          "priority": "Core",
+          "topic": "1.5",
+          "topicTitle": "Active & Vesicular Transport",
+          "connection": "Explain active transport, ion pumps, endocytosis, and exocytosis."
+        },
+        {
+          "term": "ATPase",
+          "priority": "Core",
+          "topic": "1.5",
+          "topicTitle": "Active & Vesicular Transport",
+          "connection": "Explain active transport, ion pumps, endocytosis, and exocytosis."
+        },
+        {
+          "term": "electrochemical gradient",
+          "priority": "Core",
+          "topic": "1.5",
+          "topicTitle": "Active & Vesicular Transport",
+          "connection": "Explain active transport, ion pumps, endocytosis, and exocytosis."
+        },
+        {
+          "term": "symport",
+          "priority": "Honors Extension",
+          "topic": "1.5",
+          "topicTitle": "Active & Vesicular Transport",
+          "connection": "Explain active transport, ion pumps, endocytosis, and exocytosis."
+        },
+        {
+          "term": "antiport",
+          "priority": "Honors Extension",
+          "topic": "1.5",
+          "topicTitle": "Active & Vesicular Transport",
+          "connection": "Explain active transport, ion pumps, endocytosis, and exocytosis."
+        },
+        {
+          "term": "vesicular transport",
+          "priority": "Core",
+          "topic": "1.5",
+          "topicTitle": "Active & Vesicular Transport",
+          "connection": "Explain active transport, ion pumps, endocytosis, and exocytosis."
+        },
+        {
+          "term": "endocytosis",
+          "priority": "Core",
+          "topic": "1.5",
+          "topicTitle": "Active & Vesicular Transport",
+          "connection": "Explain active transport, ion pumps, endocytosis, and exocytosis."
+        },
+        {
+          "term": "phagocytosis",
+          "priority": "Core",
+          "topic": "1.5",
+          "topicTitle": "Active & Vesicular Transport",
+          "connection": "Explain active transport, ion pumps, endocytosis, and exocytosis."
+        },
+        {
+          "term": "pinocytosis",
+          "priority": "Core",
+          "topic": "1.5",
+          "topicTitle": "Active & Vesicular Transport",
+          "connection": "Explain active transport, ion pumps, endocytosis, and exocytosis."
+        },
+        {
+          "term": "receptor-mediated endocytosis",
+          "priority": "Core",
+          "topic": "1.5",
+          "topicTitle": "Active & Vesicular Transport",
+          "connection": "Explain active transport, ion pumps, endocytosis, and exocytosis."
+        },
+        {
+          "term": "exocytosis",
+          "priority": "Core",
+          "topic": "1.5",
+          "topicTitle": "Active & Vesicular Transport",
+          "connection": "Explain active transport, ion pumps, endocytosis, and exocytosis."
+        },
+        {
+          "term": "cell cycle",
+          "priority": "Core",
+          "topic": "1.6",
+          "topicTitle": "Cell Cycle, Mitosis & Cancer",
+          "connection": "Describe the cell cycle and explain how failures in regulation contribute to cancer."
+        },
+        {
+          "term": "interphase",
+          "priority": "Core",
+          "topic": "1.6",
+          "topicTitle": "Cell Cycle, Mitosis & Cancer",
+          "connection": "Describe the cell cycle and explain how failures in regulation contribute to cancer."
+        },
+        {
+          "term": "G1 phase",
+          "priority": "Core",
+          "topic": "1.6",
+          "topicTitle": "Cell Cycle, Mitosis & Cancer",
+          "connection": "Describe the cell cycle and explain how failures in regulation contribute to cancer."
+        },
+        {
+          "term": "S phase",
+          "priority": "Core",
+          "topic": "1.6",
+          "topicTitle": "Cell Cycle, Mitosis & Cancer",
+          "connection": "Describe the cell cycle and explain how failures in regulation contribute to cancer."
+        },
+        {
+          "term": "G2 phase",
+          "priority": "Core",
+          "topic": "1.6",
+          "topicTitle": "Cell Cycle, Mitosis & Cancer",
+          "connection": "Describe the cell cycle and explain how failures in regulation contribute to cancer."
+        },
+        {
+          "term": "mitosis",
+          "priority": "Core",
+          "topic": "1.6",
+          "topicTitle": "Cell Cycle, Mitosis & Cancer",
+          "connection": "Describe the cell cycle and explain how failures in regulation contribute to cancer."
+        },
+        {
+          "term": "prophase",
+          "priority": "Core",
+          "topic": "1.6",
+          "topicTitle": "Cell Cycle, Mitosis & Cancer",
+          "connection": "Describe the cell cycle and explain how failures in regulation contribute to cancer."
+        },
+        {
+          "term": "metaphase",
+          "priority": "Core",
+          "topic": "1.6",
+          "topicTitle": "Cell Cycle, Mitosis & Cancer",
+          "connection": "Describe the cell cycle and explain how failures in regulation contribute to cancer."
+        },
+        {
+          "term": "anaphase",
+          "priority": "Core",
+          "topic": "1.6",
+          "topicTitle": "Cell Cycle, Mitosis & Cancer",
+          "connection": "Describe the cell cycle and explain how failures in regulation contribute to cancer."
+        },
+        {
+          "term": "telophase",
+          "priority": "Core",
+          "topic": "1.6",
+          "topicTitle": "Cell Cycle, Mitosis & Cancer",
+          "connection": "Describe the cell cycle and explain how failures in regulation contribute to cancer."
+        },
+        {
+          "term": "cytokinesis",
+          "priority": "Core",
+          "topic": "1.6",
+          "topicTitle": "Cell Cycle, Mitosis & Cancer",
+          "connection": "Describe the cell cycle and explain how failures in regulation contribute to cancer."
+        },
+        {
+          "term": "chromosome",
+          "priority": "Core",
+          "topic": "1.6",
+          "topicTitle": "Cell Cycle, Mitosis & Cancer",
+          "connection": "Describe the cell cycle and explain how failures in regulation contribute to cancer."
+        },
+        {
+          "term": "chromatid",
+          "priority": "Core",
+          "topic": "1.6",
+          "topicTitle": "Cell Cycle, Mitosis & Cancer",
+          "connection": "Describe the cell cycle and explain how failures in regulation contribute to cancer."
+        },
+        {
+          "term": "centromere",
+          "priority": "Core",
+          "topic": "1.6",
+          "topicTitle": "Cell Cycle, Mitosis & Cancer",
+          "connection": "Describe the cell cycle and explain how failures in regulation contribute to cancer."
+        },
+        {
+          "term": "spindle fiber",
+          "priority": "Core",
+          "topic": "1.6",
+          "topicTitle": "Cell Cycle, Mitosis & Cancer",
+          "connection": "Describe the cell cycle and explain how failures in regulation contribute to cancer."
+        },
+        {
+          "term": "cell-cycle checkpoint",
+          "priority": "Core",
+          "topic": "1.6",
+          "topicTitle": "Cell Cycle, Mitosis & Cancer",
+          "connection": "Describe the cell cycle and explain how failures in regulation contribute to cancer."
+        },
+        {
+          "term": "apoptosis",
+          "priority": "Core",
+          "topic": "1.6",
+          "topicTitle": "Cell Cycle, Mitosis & Cancer",
+          "connection": "Describe the cell cycle and explain how failures in regulation contribute to cancer."
+        },
+        {
+          "term": "proto-oncogene",
+          "priority": "Honors Extension",
+          "topic": "1.6",
+          "topicTitle": "Cell Cycle, Mitosis & Cancer",
+          "connection": "Describe the cell cycle and explain how failures in regulation contribute to cancer."
+        },
+        {
+          "term": "oncogene",
+          "priority": "Honors Extension",
+          "topic": "1.6",
+          "topicTitle": "Cell Cycle, Mitosis & Cancer",
+          "connection": "Describe the cell cycle and explain how failures in regulation contribute to cancer."
+        },
+        {
+          "term": "tumor-suppressor gene",
+          "priority": "Honors Extension",
+          "topic": "1.6",
+          "topicTitle": "Cell Cycle, Mitosis & Cancer",
+          "connection": "Describe the cell cycle and explain how failures in regulation contribute to cancer."
+        },
+        {
+          "term": "cancer",
+          "priority": "Core",
+          "topic": "1.6",
+          "topicTitle": "Cell Cycle, Mitosis & Cancer",
+          "connection": "Describe the cell cycle and explain how failures in regulation contribute to cancer."
+        },
+        {
+          "term": "benign tumor",
+          "priority": "Core",
+          "topic": "1.6",
+          "topicTitle": "Cell Cycle, Mitosis & Cancer",
+          "connection": "Describe the cell cycle and explain how failures in regulation contribute to cancer."
+        },
+        {
+          "term": "malignant tumor",
+          "priority": "Core",
+          "topic": "1.6",
+          "topicTitle": "Cell Cycle, Mitosis & Cancer",
+          "connection": "Describe the cell cycle and explain how failures in regulation contribute to cancer."
+        },
+        {
+          "term": "metastasis",
+          "priority": "Core",
+          "topic": "1.6",
+          "topicTitle": "Cell Cycle, Mitosis & Cancer",
+          "connection": "Describe the cell cycle and explain how failures in regulation contribute to cancer."
+        },
+        {
+          "term": "cell differentiation",
+          "priority": "Core",
+          "topic": "1.7",
+          "topicTitle": "Levels of Organization & Human Tissues",
+          "connection": "Relate levels of organization and the four major tissue types to function."
+        },
+        {
+          "term": "stem cell",
+          "priority": "Core",
+          "topic": "1.7",
+          "topicTitle": "Levels of Organization & Human Tissues",
+          "connection": "Relate levels of organization and the four major tissue types to function."
+        },
+        {
+          "term": "tissue",
+          "priority": "Core",
+          "topic": "1.7",
+          "topicTitle": "Levels of Organization & Human Tissues",
+          "connection": "Relate levels of organization and the four major tissue types to function."
+        },
+        {
+          "term": "epithelial tissue",
+          "priority": "Core",
+          "topic": "1.7",
+          "topicTitle": "Levels of Organization & Human Tissues",
+          "connection": "Relate levels of organization and the four major tissue types to function."
+        },
+        {
+          "term": "connective tissue",
+          "priority": "Core",
+          "topic": "1.7",
+          "topicTitle": "Levels of Organization & Human Tissues",
+          "connection": "Relate levels of organization and the four major tissue types to function."
+        },
+        {
+          "term": "muscle tissue",
+          "priority": "Core",
+          "topic": "1.7",
+          "topicTitle": "Levels of Organization & Human Tissues",
+          "connection": "Relate levels of organization and the four major tissue types to function."
+        },
+        {
+          "term": "nervous tissue",
+          "priority": "Core",
+          "topic": "1.7",
+          "topicTitle": "Levels of Organization & Human Tissues",
+          "connection": "Relate levels of organization and the four major tissue types to function."
+        },
+        {
+          "term": "simple epithelium",
+          "priority": "Core",
+          "topic": "1.7",
+          "topicTitle": "Levels of Organization & Human Tissues",
+          "connection": "Relate levels of organization and the four major tissue types to function."
+        },
+        {
+          "term": "stratified epithelium",
+          "priority": "Core",
+          "topic": "1.7",
+          "topicTitle": "Levels of Organization & Human Tissues",
+          "connection": "Relate levels of organization and the four major tissue types to function."
+        },
+        {
+          "term": "squamous",
+          "priority": "Core",
+          "topic": "1.7",
+          "topicTitle": "Levels of Organization & Human Tissues",
+          "connection": "Relate levels of organization and the four major tissue types to function."
+        },
+        {
+          "term": "cuboidal",
+          "priority": "Core",
+          "topic": "1.7",
+          "topicTitle": "Levels of Organization & Human Tissues",
+          "connection": "Relate levels of organization and the four major tissue types to function."
+        },
+        {
+          "term": "columnar",
+          "priority": "Core",
+          "topic": "1.7",
+          "topicTitle": "Levels of Organization & Human Tissues",
+          "connection": "Relate levels of organization and the four major tissue types to function."
+        },
+        {
+          "term": "gland",
+          "priority": "Core",
+          "topic": "1.7",
+          "topicTitle": "Levels of Organization & Human Tissues",
+          "connection": "Relate levels of organization and the four major tissue types to function."
+        },
+        {
+          "term": "extracellular matrix",
+          "priority": "Core",
+          "topic": "1.7",
+          "topicTitle": "Levels of Organization & Human Tissues",
+          "connection": "Relate levels of organization and the four major tissue types to function."
+        },
+        {
+          "term": "collagen",
+          "priority": "Core",
+          "topic": "1.7",
+          "topicTitle": "Levels of Organization & Human Tissues",
+          "connection": "Relate levels of organization and the four major tissue types to function."
+        },
+        {
+          "term": "elastic fiber",
+          "priority": "Core",
+          "topic": "1.7",
+          "topicTitle": "Levels of Organization & Human Tissues",
+          "connection": "Relate levels of organization and the four major tissue types to function."
+        },
+        {
+          "term": "fibroblast",
+          "priority": "Core",
+          "topic": "1.7",
+          "topicTitle": "Levels of Organization & Human Tissues",
+          "connection": "Relate levels of organization and the four major tissue types to function."
+        },
+        {
+          "term": "adipose tissue",
+          "priority": "Core",
+          "topic": "1.7",
+          "topicTitle": "Levels of Organization & Human Tissues",
+          "connection": "Relate levels of organization and the four major tissue types to function."
+        },
+        {
+          "term": "cartilage",
+          "priority": "Core",
+          "topic": "1.7",
+          "topicTitle": "Levels of Organization & Human Tissues",
+          "connection": "Relate levels of organization and the four major tissue types to function."
+        },
+        {
+          "term": "bone tissue",
+          "priority": "Core",
+          "topic": "1.7",
+          "topicTitle": "Levels of Organization & Human Tissues",
+          "connection": "Relate levels of organization and the four major tissue types to function."
+        },
+        {
+          "term": "blood",
+          "priority": "Core",
+          "topic": "1.7",
+          "topicTitle": "Levels of Organization & Human Tissues",
+          "connection": "Relate levels of organization and the four major tissue types to function."
+        },
+        {
+          "term": "skeletal muscle",
+          "priority": "Core",
+          "topic": "1.7",
+          "topicTitle": "Levels of Organization & Human Tissues",
+          "connection": "Relate levels of organization and the four major tissue types to function."
+        },
+        {
+          "term": "cardiac muscle",
+          "priority": "Core",
+          "topic": "1.7",
+          "topicTitle": "Levels of Organization & Human Tissues",
+          "connection": "Relate levels of organization and the four major tissue types to function."
+        },
+        {
+          "term": "smooth muscle",
+          "priority": "Core",
+          "topic": "1.7",
+          "topicTitle": "Levels of Organization & Human Tissues",
+          "connection": "Relate levels of organization and the four major tissue types to function."
+        },
+        {
+          "term": "neuron",
+          "priority": "Core",
+          "topic": "1.7",
+          "topicTitle": "Levels of Organization & Human Tissues",
+          "connection": "Relate levels of organization and the four major tissue types to function."
+        },
+        {
+          "term": "neuroglia",
+          "priority": "Core",
+          "topic": "1.7",
+          "topicTitle": "Levels of Organization & Human Tissues",
+          "connection": "Relate levels of organization and the four major tissue types to function."
+        },
+        {
+          "term": "organ",
+          "priority": "Core",
+          "topic": "1.7",
+          "topicTitle": "Levels of Organization & Human Tissues",
+          "connection": "Relate levels of organization and the four major tissue types to function."
+        },
+        {
+          "term": "organ system",
+          "priority": "Core",
+          "topic": "1.7",
+          "topicTitle": "Levels of Organization & Human Tissues",
+          "connection": "Relate levels of organization and the four major tissue types to function."
+        }
       ],
       "topics": [
         {
@@ -313,6 +1766,694 @@ window.COURSE_DATA = {
         "thermoregulation",
         "vasodilation",
         "vasoconstriction"
+      ],
+      "vocabularyRecords": [
+        {
+          "term": "homeostasis",
+          "priority": "Core",
+          "topic": "2.1",
+          "topicTitle": "Homeostasis & Stimulus–Response",
+          "connection": "Explain the need for homeostasis using a stimulus-response model."
+        },
+        {
+          "term": "internal environment",
+          "priority": "Core",
+          "topic": "2.1",
+          "topicTitle": "Homeostasis & Stimulus–Response",
+          "connection": "Explain the need for homeostasis using a stimulus-response model."
+        },
+        {
+          "term": "dynamic equilibrium",
+          "priority": "Core",
+          "topic": "2.1",
+          "topicTitle": "Homeostasis & Stimulus–Response",
+          "connection": "Explain the need for homeostasis using a stimulus-response model."
+        },
+        {
+          "term": "stimulus",
+          "priority": "Core",
+          "topic": "2.1",
+          "topicTitle": "Homeostasis & Stimulus–Response",
+          "connection": "Explain the need for homeostasis using a stimulus-response model."
+        },
+        {
+          "term": "receptor",
+          "priority": "Core",
+          "topic": "2.1",
+          "topicTitle": "Homeostasis & Stimulus–Response",
+          "connection": "Explain the need for homeostasis using a stimulus-response model."
+        },
+        {
+          "term": "control center",
+          "priority": "Core",
+          "topic": "2.1",
+          "topicTitle": "Homeostasis & Stimulus–Response",
+          "connection": "Explain the need for homeostasis using a stimulus-response model."
+        },
+        {
+          "term": "integrator",
+          "priority": "Core",
+          "topic": "2.1",
+          "topicTitle": "Homeostasis & Stimulus–Response",
+          "connection": "Explain the need for homeostasis using a stimulus-response model."
+        },
+        {
+          "term": "effector",
+          "priority": "Core",
+          "topic": "2.1",
+          "topicTitle": "Homeostasis & Stimulus–Response",
+          "connection": "Explain the need for homeostasis using a stimulus-response model."
+        },
+        {
+          "term": "response",
+          "priority": "Core",
+          "topic": "2.1",
+          "topicTitle": "Homeostasis & Stimulus–Response",
+          "connection": "Explain the need for homeostasis using a stimulus-response model."
+        },
+        {
+          "term": "set point",
+          "priority": "Core",
+          "topic": "2.1",
+          "topicTitle": "Homeostasis & Stimulus–Response",
+          "connection": "Explain the need for homeostasis using a stimulus-response model."
+        },
+        {
+          "term": "normal range",
+          "priority": "Core",
+          "topic": "2.1",
+          "topicTitle": "Homeostasis & Stimulus–Response",
+          "connection": "Explain the need for homeostasis using a stimulus-response model."
+        },
+        {
+          "term": "physiological variable",
+          "priority": "Core",
+          "topic": "2.1",
+          "topicTitle": "Homeostasis & Stimulus–Response",
+          "connection": "Explain the need for homeostasis using a stimulus-response model."
+        },
+        {
+          "term": "feedback loop",
+          "priority": "Core",
+          "topic": "2.2",
+          "topicTitle": "Feedback Loops",
+          "connection": "Compare positive and negative feedback using physiological examples."
+        },
+        {
+          "term": "negative feedback",
+          "priority": "Core",
+          "topic": "2.2",
+          "topicTitle": "Feedback Loops",
+          "connection": "Compare positive and negative feedback using physiological examples."
+        },
+        {
+          "term": "positive feedback",
+          "priority": "Core",
+          "topic": "2.2",
+          "topicTitle": "Feedback Loops",
+          "connection": "Compare positive and negative feedback using physiological examples."
+        },
+        {
+          "term": "thermoregulation",
+          "priority": "Core",
+          "topic": "2.2",
+          "topicTitle": "Feedback Loops",
+          "connection": "Compare positive and negative feedback using physiological examples."
+        },
+        {
+          "term": "blood-glucose regulation",
+          "priority": "Core",
+          "topic": "2.2",
+          "topicTitle": "Feedback Loops",
+          "connection": "Compare positive and negative feedback using physiological examples."
+        },
+        {
+          "term": "blood clotting",
+          "priority": "Core",
+          "topic": "2.2",
+          "topicTitle": "Feedback Loops",
+          "connection": "Compare positive and negative feedback using physiological examples."
+        },
+        {
+          "term": "labor contraction",
+          "priority": "Core",
+          "topic": "2.2",
+          "topicTitle": "Feedback Loops",
+          "connection": "Compare positive and negative feedback using physiological examples."
+        },
+        {
+          "term": "anatomical position",
+          "priority": "Core",
+          "topic": "2.3",
+          "topicTitle": "Anatomical Language, Cavities & Membranes",
+          "connection": "Use anatomical terms and distinguish cavities and membranes."
+        },
+        {
+          "term": "proximal",
+          "priority": "Core",
+          "topic": "2.3",
+          "topicTitle": "Anatomical Language, Cavities & Membranes",
+          "connection": "Use anatomical terms and distinguish cavities and membranes."
+        },
+        {
+          "term": "distal",
+          "priority": "Core",
+          "topic": "2.3",
+          "topicTitle": "Anatomical Language, Cavities & Membranes",
+          "connection": "Use anatomical terms and distinguish cavities and membranes."
+        },
+        {
+          "term": "medial",
+          "priority": "Core",
+          "topic": "2.3",
+          "topicTitle": "Anatomical Language, Cavities & Membranes",
+          "connection": "Use anatomical terms and distinguish cavities and membranes."
+        },
+        {
+          "term": "lateral",
+          "priority": "Core",
+          "topic": "2.3",
+          "topicTitle": "Anatomical Language, Cavities & Membranes",
+          "connection": "Use anatomical terms and distinguish cavities and membranes."
+        },
+        {
+          "term": "superficial",
+          "priority": "Core",
+          "topic": "2.3",
+          "topicTitle": "Anatomical Language, Cavities & Membranes",
+          "connection": "Use anatomical terms and distinguish cavities and membranes."
+        },
+        {
+          "term": "deep",
+          "priority": "Core",
+          "topic": "2.3",
+          "topicTitle": "Anatomical Language, Cavities & Membranes",
+          "connection": "Use anatomical terms and distinguish cavities and membranes."
+        },
+        {
+          "term": "anterior",
+          "priority": "Core",
+          "topic": "2.3",
+          "topicTitle": "Anatomical Language, Cavities & Membranes",
+          "connection": "Use anatomical terms and distinguish cavities and membranes."
+        },
+        {
+          "term": "posterior",
+          "priority": "Core",
+          "topic": "2.3",
+          "topicTitle": "Anatomical Language, Cavities & Membranes",
+          "connection": "Use anatomical terms and distinguish cavities and membranes."
+        },
+        {
+          "term": "superior",
+          "priority": "Core",
+          "topic": "2.3",
+          "topicTitle": "Anatomical Language, Cavities & Membranes",
+          "connection": "Use anatomical terms and distinguish cavities and membranes."
+        },
+        {
+          "term": "inferior",
+          "priority": "Core",
+          "topic": "2.3",
+          "topicTitle": "Anatomical Language, Cavities & Membranes",
+          "connection": "Use anatomical terms and distinguish cavities and membranes."
+        },
+        {
+          "term": "dorsal cavity",
+          "priority": "Core",
+          "topic": "2.3",
+          "topicTitle": "Anatomical Language, Cavities & Membranes",
+          "connection": "Use anatomical terms and distinguish cavities and membranes."
+        },
+        {
+          "term": "ventral cavity",
+          "priority": "Core",
+          "topic": "2.3",
+          "topicTitle": "Anatomical Language, Cavities & Membranes",
+          "connection": "Use anatomical terms and distinguish cavities and membranes."
+        },
+        {
+          "term": "serous membrane",
+          "priority": "Core",
+          "topic": "2.3",
+          "topicTitle": "Anatomical Language, Cavities & Membranes",
+          "connection": "Use anatomical terms and distinguish cavities and membranes."
+        },
+        {
+          "term": "parietal membrane",
+          "priority": "Core",
+          "topic": "2.3",
+          "topicTitle": "Anatomical Language, Cavities & Membranes",
+          "connection": "Use anatomical terms and distinguish cavities and membranes."
+        },
+        {
+          "term": "visceral membrane",
+          "priority": "Core",
+          "topic": "2.3",
+          "topicTitle": "Anatomical Language, Cavities & Membranes",
+          "connection": "Use anatomical terms and distinguish cavities and membranes."
+        },
+        {
+          "term": "pathogen",
+          "priority": "Core",
+          "topic": "2.4",
+          "topicTitle": "Maintaining Homeostasis & Diagnostic Medicine",
+          "connection": "Explain coordinated homeostatic responses and the use of diagnostic technologies."
+        },
+        {
+          "term": "injury",
+          "priority": "Core",
+          "topic": "2.4",
+          "topicTitle": "Maintaining Homeostasis & Diagnostic Medicine",
+          "connection": "Explain coordinated homeostatic responses and the use of diagnostic technologies."
+        },
+        {
+          "term": "inflammation",
+          "priority": "Core",
+          "topic": "2.4",
+          "topicTitle": "Maintaining Homeostasis & Diagnostic Medicine",
+          "connection": "Explain coordinated homeostatic responses and the use of diagnostic technologies."
+        },
+        {
+          "term": "diagnosis",
+          "priority": "Core",
+          "topic": "2.4",
+          "topicTitle": "Maintaining Homeostasis & Diagnostic Medicine",
+          "connection": "Explain coordinated homeostatic responses and the use of diagnostic technologies."
+        },
+        {
+          "term": "prognosis",
+          "priority": "Core",
+          "topic": "2.4",
+          "topicTitle": "Maintaining Homeostasis & Diagnostic Medicine",
+          "connection": "Explain coordinated homeostatic responses and the use of diagnostic technologies."
+        },
+        {
+          "term": "medical imaging",
+          "priority": "Core",
+          "topic": "2.4",
+          "topicTitle": "Maintaining Homeostasis & Diagnostic Medicine",
+          "connection": "Explain coordinated homeostatic responses and the use of diagnostic technologies."
+        },
+        {
+          "term": "radiography",
+          "priority": "Core",
+          "topic": "2.4",
+          "topicTitle": "Maintaining Homeostasis & Diagnostic Medicine",
+          "connection": "Explain coordinated homeostatic responses and the use of diagnostic technologies."
+        },
+        {
+          "term": "X-ray",
+          "priority": "Core",
+          "topic": "2.4",
+          "topicTitle": "Maintaining Homeostasis & Diagnostic Medicine",
+          "connection": "Explain coordinated homeostatic responses and the use of diagnostic technologies."
+        },
+        {
+          "term": "computed tomography",
+          "priority": "Core",
+          "topic": "2.4",
+          "topicTitle": "Maintaining Homeostasis & Diagnostic Medicine",
+          "connection": "Explain coordinated homeostatic responses and the use of diagnostic technologies."
+        },
+        {
+          "term": "CT scan",
+          "priority": "Core",
+          "topic": "2.4",
+          "topicTitle": "Maintaining Homeostasis & Diagnostic Medicine",
+          "connection": "Explain coordinated homeostatic responses and the use of diagnostic technologies."
+        },
+        {
+          "term": "magnetic resonance imaging",
+          "priority": "Core",
+          "topic": "2.4",
+          "topicTitle": "Maintaining Homeostasis & Diagnostic Medicine",
+          "connection": "Explain coordinated homeostatic responses and the use of diagnostic technologies."
+        },
+        {
+          "term": "MRI",
+          "priority": "Core",
+          "topic": "2.4",
+          "topicTitle": "Maintaining Homeostasis & Diagnostic Medicine",
+          "connection": "Explain coordinated homeostatic responses and the use of diagnostic technologies."
+        },
+        {
+          "term": "ultrasonography",
+          "priority": "Core",
+          "topic": "2.4",
+          "topicTitle": "Maintaining Homeostasis & Diagnostic Medicine",
+          "connection": "Explain coordinated homeostatic responses and the use of diagnostic technologies."
+        },
+        {
+          "term": "endoscopy",
+          "priority": "Core",
+          "topic": "2.4",
+          "topicTitle": "Maintaining Homeostasis & Diagnostic Medicine",
+          "connection": "Explain coordinated homeostatic responses and the use of diagnostic technologies."
+        },
+        {
+          "term": "biopsy",
+          "priority": "Core",
+          "topic": "2.4",
+          "topicTitle": "Maintaining Homeostasis & Diagnostic Medicine",
+          "connection": "Explain coordinated homeostatic responses and the use of diagnostic technologies."
+        },
+        {
+          "term": "blood test",
+          "priority": "Core",
+          "topic": "2.4",
+          "topicTitle": "Maintaining Homeostasis & Diagnostic Medicine",
+          "connection": "Explain coordinated homeostatic responses and the use of diagnostic technologies."
+        },
+        {
+          "term": "reference range",
+          "priority": "Core",
+          "topic": "2.4",
+          "topicTitle": "Maintaining Homeostasis & Diagnostic Medicine",
+          "connection": "Explain coordinated homeostatic responses and the use of diagnostic technologies."
+        },
+        {
+          "term": "integumentary system",
+          "priority": "Core",
+          "topic": "2.5",
+          "topicTitle": "Integumentary System",
+          "connection": "Relate skin structure and accessory structures to homeostatic functions."
+        },
+        {
+          "term": "skin",
+          "priority": "Core",
+          "topic": "2.5",
+          "topicTitle": "Integumentary System",
+          "connection": "Relate skin structure and accessory structures to homeostatic functions."
+        },
+        {
+          "term": "cutaneous membrane",
+          "priority": "Core",
+          "topic": "2.5",
+          "topicTitle": "Integumentary System",
+          "connection": "Relate skin structure and accessory structures to homeostatic functions."
+        },
+        {
+          "term": "epidermis",
+          "priority": "Core",
+          "topic": "2.5",
+          "topicTitle": "Integumentary System",
+          "connection": "Relate skin structure and accessory structures to homeostatic functions."
+        },
+        {
+          "term": "dermis",
+          "priority": "Core",
+          "topic": "2.5",
+          "topicTitle": "Integumentary System",
+          "connection": "Relate skin structure and accessory structures to homeostatic functions."
+        },
+        {
+          "term": "hypodermis",
+          "priority": "Core",
+          "topic": "2.5",
+          "topicTitle": "Integumentary System",
+          "connection": "Relate skin structure and accessory structures to homeostatic functions."
+        },
+        {
+          "term": "subcutaneous tissue",
+          "priority": "Core",
+          "topic": "2.5",
+          "topicTitle": "Integumentary System",
+          "connection": "Relate skin structure and accessory structures to homeostatic functions."
+        },
+        {
+          "term": "stratum basale",
+          "priority": "Core",
+          "topic": "2.5",
+          "topicTitle": "Integumentary System",
+          "connection": "Relate skin structure and accessory structures to homeostatic functions."
+        },
+        {
+          "term": "stratum spinosum",
+          "priority": "Core",
+          "topic": "2.5",
+          "topicTitle": "Integumentary System",
+          "connection": "Relate skin structure and accessory structures to homeostatic functions."
+        },
+        {
+          "term": "stratum granulosum",
+          "priority": "Core",
+          "topic": "2.5",
+          "topicTitle": "Integumentary System",
+          "connection": "Relate skin structure and accessory structures to homeostatic functions."
+        },
+        {
+          "term": "stratum lucidum",
+          "priority": "Core",
+          "topic": "2.5",
+          "topicTitle": "Integumentary System",
+          "connection": "Relate skin structure and accessory structures to homeostatic functions."
+        },
+        {
+          "term": "stratum corneum",
+          "priority": "Core",
+          "topic": "2.5",
+          "topicTitle": "Integumentary System",
+          "connection": "Relate skin structure and accessory structures to homeostatic functions."
+        },
+        {
+          "term": "keratinocyte",
+          "priority": "Core",
+          "topic": "2.5",
+          "topicTitle": "Integumentary System",
+          "connection": "Relate skin structure and accessory structures to homeostatic functions."
+        },
+        {
+          "term": "melanocyte",
+          "priority": "Core",
+          "topic": "2.5",
+          "topicTitle": "Integumentary System",
+          "connection": "Relate skin structure and accessory structures to homeostatic functions."
+        },
+        {
+          "term": "melanin",
+          "priority": "Core",
+          "topic": "2.5",
+          "topicTitle": "Integumentary System",
+          "connection": "Relate skin structure and accessory structures to homeostatic functions."
+        },
+        {
+          "term": "Merkel cell",
+          "priority": "Core",
+          "topic": "2.5",
+          "topicTitle": "Integumentary System",
+          "connection": "Relate skin structure and accessory structures to homeostatic functions."
+        },
+        {
+          "term": "dendritic cell",
+          "priority": "Honors Extension",
+          "topic": "2.5",
+          "topicTitle": "Integumentary System",
+          "connection": "Relate skin structure and accessory structures to homeostatic functions."
+        },
+        {
+          "term": "papillary layer",
+          "priority": "Core",
+          "topic": "2.5",
+          "topicTitle": "Integumentary System",
+          "connection": "Relate skin structure and accessory structures to homeostatic functions."
+        },
+        {
+          "term": "reticular layer",
+          "priority": "Honors Extension",
+          "topic": "2.5",
+          "topicTitle": "Integumentary System",
+          "connection": "Relate skin structure and accessory structures to homeostatic functions."
+        },
+        {
+          "term": "dermal papilla",
+          "priority": "Core",
+          "topic": "2.5",
+          "topicTitle": "Integumentary System",
+          "connection": "Relate skin structure and accessory structures to homeostatic functions."
+        },
+        {
+          "term": "hair follicle",
+          "priority": "Core",
+          "topic": "2.5",
+          "topicTitle": "Integumentary System",
+          "connection": "Relate skin structure and accessory structures to homeostatic functions."
+        },
+        {
+          "term": "sebaceous gland",
+          "priority": "Core",
+          "topic": "2.5",
+          "topicTitle": "Integumentary System",
+          "connection": "Relate skin structure and accessory structures to homeostatic functions."
+        },
+        {
+          "term": "sudoriferous gland",
+          "priority": "Core",
+          "topic": "2.5",
+          "topicTitle": "Integumentary System",
+          "connection": "Relate skin structure and accessory structures to homeostatic functions."
+        },
+        {
+          "term": "eccrine gland",
+          "priority": "Core",
+          "topic": "2.5",
+          "topicTitle": "Integumentary System",
+          "connection": "Relate skin structure and accessory structures to homeostatic functions."
+        },
+        {
+          "term": "apocrine gland",
+          "priority": "Core",
+          "topic": "2.5",
+          "topicTitle": "Integumentary System",
+          "connection": "Relate skin structure and accessory structures to homeostatic functions."
+        },
+        {
+          "term": "arrector pili",
+          "priority": "Core",
+          "topic": "2.5",
+          "topicTitle": "Integumentary System",
+          "connection": "Relate skin structure and accessory structures to homeostatic functions."
+        },
+        {
+          "term": "keratin",
+          "priority": "Core",
+          "topic": "2.5",
+          "topicTitle": "Integumentary System",
+          "connection": "Relate skin structure and accessory structures to homeostatic functions."
+        },
+        {
+          "term": "cutaneous receptor",
+          "priority": "Core",
+          "topic": "2.5",
+          "topicTitle": "Integumentary System",
+          "connection": "Relate skin structure and accessory structures to homeostatic functions."
+        },
+        {
+          "term": "hypothalamus",
+          "priority": "Core",
+          "topic": "2.6",
+          "topicTitle": "Thermoregulation & Temperature Disorders",
+          "connection": "Explain thermoregulation and temperature-related disorders."
+        },
+        {
+          "term": "thermoreceptor",
+          "priority": "Core",
+          "topic": "2.6",
+          "topicTitle": "Thermoregulation & Temperature Disorders",
+          "connection": "Explain thermoregulation and temperature-related disorders."
+        },
+        {
+          "term": "vasodilation",
+          "priority": "Core",
+          "topic": "2.6",
+          "topicTitle": "Thermoregulation & Temperature Disorders",
+          "connection": "Explain thermoregulation and temperature-related disorders."
+        },
+        {
+          "term": "vasoconstriction",
+          "priority": "Core",
+          "topic": "2.6",
+          "topicTitle": "Thermoregulation & Temperature Disorders",
+          "connection": "Explain thermoregulation and temperature-related disorders."
+        },
+        {
+          "term": "perspiration",
+          "priority": "Core",
+          "topic": "2.6",
+          "topicTitle": "Thermoregulation & Temperature Disorders",
+          "connection": "Explain thermoregulation and temperature-related disorders."
+        },
+        {
+          "term": "evaporative cooling",
+          "priority": "Core",
+          "topic": "2.6",
+          "topicTitle": "Thermoregulation & Temperature Disorders",
+          "connection": "Explain thermoregulation and temperature-related disorders."
+        },
+        {
+          "term": "shivering",
+          "priority": "Core",
+          "topic": "2.6",
+          "topicTitle": "Thermoregulation & Temperature Disorders",
+          "connection": "Explain thermoregulation and temperature-related disorders."
+        },
+        {
+          "term": "metabolic heat",
+          "priority": "Core",
+          "topic": "2.6",
+          "topicTitle": "Thermoregulation & Temperature Disorders",
+          "connection": "Explain thermoregulation and temperature-related disorders."
+        },
+        {
+          "term": "basal metabolic rate",
+          "priority": "Core",
+          "topic": "2.6",
+          "topicTitle": "Thermoregulation & Temperature Disorders",
+          "connection": "Explain thermoregulation and temperature-related disorders."
+        },
+        {
+          "term": "pyrexia",
+          "priority": "Core",
+          "topic": "2.6",
+          "topicTitle": "Thermoregulation & Temperature Disorders",
+          "connection": "Explain thermoregulation and temperature-related disorders."
+        },
+        {
+          "term": "fever",
+          "priority": "Core",
+          "topic": "2.6",
+          "topicTitle": "Thermoregulation & Temperature Disorders",
+          "connection": "Explain thermoregulation and temperature-related disorders."
+        },
+        {
+          "term": "hypothermia",
+          "priority": "Core",
+          "topic": "2.6",
+          "topicTitle": "Thermoregulation & Temperature Disorders",
+          "connection": "Explain thermoregulation and temperature-related disorders."
+        },
+        {
+          "term": "hyperthermia",
+          "priority": "Core",
+          "topic": "2.6",
+          "topicTitle": "Thermoregulation & Temperature Disorders",
+          "connection": "Explain thermoregulation and temperature-related disorders."
+        },
+        {
+          "term": "heat exhaustion",
+          "priority": "Core",
+          "topic": "2.6",
+          "topicTitle": "Thermoregulation & Temperature Disorders",
+          "connection": "Explain thermoregulation and temperature-related disorders."
+        },
+        {
+          "term": "heat stroke",
+          "priority": "Core",
+          "topic": "2.6",
+          "topicTitle": "Thermoregulation & Temperature Disorders",
+          "connection": "Explain thermoregulation and temperature-related disorders."
+        },
+        {
+          "term": "chill",
+          "priority": "Core",
+          "topic": "2.6",
+          "topicTitle": "Thermoregulation & Temperature Disorders",
+          "connection": "Explain thermoregulation and temperature-related disorders."
+        },
+        {
+          "term": "antipyretic",
+          "priority": "Honors Extension",
+          "topic": "2.6",
+          "topicTitle": "Thermoregulation & Temperature Disorders",
+          "connection": "Explain thermoregulation and temperature-related disorders."
+        },
+        {
+          "term": "neonatal thermoregulation",
+          "priority": "Core",
+          "topic": "2.6",
+          "topicTitle": "Thermoregulation & Temperature Disorders",
+          "connection": "Explain thermoregulation and temperature-related disorders."
+        }
       ],
       "topics": [
         {
@@ -463,6 +2604,659 @@ window.COURSE_DATA = {
         "ligament",
         "osteoporosis"
       ],
+      "vocabularyRecords": [
+        {
+          "term": "skeletal system",
+          "priority": "Core",
+          "topic": "3.1",
+          "topicTitle": "Organization of the Human Skeleton",
+          "connection": "Distinguish axial and appendicular skeletons and classify major bones."
+        },
+        {
+          "term": "bone",
+          "priority": "Core",
+          "topic": "3.1",
+          "topicTitle": "Organization of the Human Skeleton",
+          "connection": "Distinguish axial and appendicular skeletons and classify major bones."
+        },
+        {
+          "term": "axial skeleton",
+          "priority": "Core",
+          "topic": "3.1",
+          "topicTitle": "Organization of the Human Skeleton",
+          "connection": "Distinguish axial and appendicular skeletons and classify major bones."
+        },
+        {
+          "term": "appendicular skeleton",
+          "priority": "Core",
+          "topic": "3.1",
+          "topicTitle": "Organization of the Human Skeleton",
+          "connection": "Distinguish axial and appendicular skeletons and classify major bones."
+        },
+        {
+          "term": "skull",
+          "priority": "Core",
+          "topic": "3.1",
+          "topicTitle": "Organization of the Human Skeleton",
+          "connection": "Distinguish axial and appendicular skeletons and classify major bones."
+        },
+        {
+          "term": "vertebral column",
+          "priority": "Core",
+          "topic": "3.1",
+          "topicTitle": "Organization of the Human Skeleton",
+          "connection": "Distinguish axial and appendicular skeletons and classify major bones."
+        },
+        {
+          "term": "thoracic cage",
+          "priority": "Core",
+          "topic": "3.1",
+          "topicTitle": "Organization of the Human Skeleton",
+          "connection": "Distinguish axial and appendicular skeletons and classify major bones."
+        },
+        {
+          "term": "pectoral girdle",
+          "priority": "Core",
+          "topic": "3.1",
+          "topicTitle": "Organization of the Human Skeleton",
+          "connection": "Distinguish axial and appendicular skeletons and classify major bones."
+        },
+        {
+          "term": "pelvic girdle",
+          "priority": "Core",
+          "topic": "3.1",
+          "topicTitle": "Organization of the Human Skeleton",
+          "connection": "Distinguish axial and appendicular skeletons and classify major bones."
+        },
+        {
+          "term": "upper limb",
+          "priority": "Core",
+          "topic": "3.1",
+          "topicTitle": "Organization of the Human Skeleton",
+          "connection": "Distinguish axial and appendicular skeletons and classify major bones."
+        },
+        {
+          "term": "lower limb",
+          "priority": "Core",
+          "topic": "3.1",
+          "topicTitle": "Organization of the Human Skeleton",
+          "connection": "Distinguish axial and appendicular skeletons and classify major bones."
+        },
+        {
+          "term": "long bone",
+          "priority": "Core",
+          "topic": "3.1",
+          "topicTitle": "Organization of the Human Skeleton",
+          "connection": "Distinguish axial and appendicular skeletons and classify major bones."
+        },
+        {
+          "term": "short bone",
+          "priority": "Core",
+          "topic": "3.1",
+          "topicTitle": "Organization of the Human Skeleton",
+          "connection": "Distinguish axial and appendicular skeletons and classify major bones."
+        },
+        {
+          "term": "flat bone",
+          "priority": "Core",
+          "topic": "3.1",
+          "topicTitle": "Organization of the Human Skeleton",
+          "connection": "Distinguish axial and appendicular skeletons and classify major bones."
+        },
+        {
+          "term": "irregular bone",
+          "priority": "Core",
+          "topic": "3.1",
+          "topicTitle": "Organization of the Human Skeleton",
+          "connection": "Distinguish axial and appendicular skeletons and classify major bones."
+        },
+        {
+          "term": "sesamoid bone",
+          "priority": "Honors Extension",
+          "topic": "3.1",
+          "topicTitle": "Organization of the Human Skeleton",
+          "connection": "Distinguish axial and appendicular skeletons and classify major bones."
+        },
+        {
+          "term": "suture",
+          "priority": "Core",
+          "topic": "3.1",
+          "topicTitle": "Organization of the Human Skeleton",
+          "connection": "Distinguish axial and appendicular skeletons and classify major bones."
+        },
+        {
+          "term": "fontanel",
+          "priority": "Core",
+          "topic": "3.1",
+          "topicTitle": "Organization of the Human Skeleton",
+          "connection": "Distinguish axial and appendicular skeletons and classify major bones."
+        },
+        {
+          "term": "vertebra",
+          "priority": "Core",
+          "topic": "3.1",
+          "topicTitle": "Organization of the Human Skeleton",
+          "connection": "Distinguish axial and appendicular skeletons and classify major bones."
+        },
+        {
+          "term": "intervertebral disc",
+          "priority": "Core",
+          "topic": "3.1",
+          "topicTitle": "Organization of the Human Skeleton",
+          "connection": "Distinguish axial and appendicular skeletons and classify major bones."
+        },
+        {
+          "term": "true rib",
+          "priority": "Core",
+          "topic": "3.1",
+          "topicTitle": "Organization of the Human Skeleton",
+          "connection": "Distinguish axial and appendicular skeletons and classify major bones."
+        },
+        {
+          "term": "false rib",
+          "priority": "Core",
+          "topic": "3.1",
+          "topicTitle": "Organization of the Human Skeleton",
+          "connection": "Distinguish axial and appendicular skeletons and classify major bones."
+        },
+        {
+          "term": "floating rib",
+          "priority": "Core",
+          "topic": "3.1",
+          "topicTitle": "Organization of the Human Skeleton",
+          "connection": "Distinguish axial and appendicular skeletons and classify major bones."
+        },
+        {
+          "term": "compact bone",
+          "priority": "Core",
+          "topic": "3.2",
+          "topicTitle": "Bone Structure, Remodeling & Ossification",
+          "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance."
+        },
+        {
+          "term": "spongy bone",
+          "priority": "Core",
+          "topic": "3.2",
+          "topicTitle": "Bone Structure, Remodeling & Ossification",
+          "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance."
+        },
+        {
+          "term": "trabecula",
+          "priority": "Core",
+          "topic": "3.2",
+          "topicTitle": "Bone Structure, Remodeling & Ossification",
+          "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance."
+        },
+        {
+          "term": "diaphysis",
+          "priority": "Core",
+          "topic": "3.2",
+          "topicTitle": "Bone Structure, Remodeling & Ossification",
+          "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance."
+        },
+        {
+          "term": "epiphysis",
+          "priority": "Core",
+          "topic": "3.2",
+          "topicTitle": "Bone Structure, Remodeling & Ossification",
+          "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance."
+        },
+        {
+          "term": "metaphysis",
+          "priority": "Core",
+          "topic": "3.2",
+          "topicTitle": "Bone Structure, Remodeling & Ossification",
+          "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance."
+        },
+        {
+          "term": "medullary cavity",
+          "priority": "Core",
+          "topic": "3.2",
+          "topicTitle": "Bone Structure, Remodeling & Ossification",
+          "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance."
+        },
+        {
+          "term": "periosteum",
+          "priority": "Core",
+          "topic": "3.2",
+          "topicTitle": "Bone Structure, Remodeling & Ossification",
+          "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance."
+        },
+        {
+          "term": "endosteum",
+          "priority": "Core",
+          "topic": "3.2",
+          "topicTitle": "Bone Structure, Remodeling & Ossification",
+          "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance."
+        },
+        {
+          "term": "articular cartilage",
+          "priority": "Core",
+          "topic": "3.2",
+          "topicTitle": "Bone Structure, Remodeling & Ossification",
+          "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance."
+        },
+        {
+          "term": "red bone marrow",
+          "priority": "Core",
+          "topic": "3.2",
+          "topicTitle": "Bone Structure, Remodeling & Ossification",
+          "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance."
+        },
+        {
+          "term": "yellow bone marrow",
+          "priority": "Core",
+          "topic": "3.2",
+          "topicTitle": "Bone Structure, Remodeling & Ossification",
+          "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance."
+        },
+        {
+          "term": "osteon",
+          "priority": "Core",
+          "topic": "3.2",
+          "topicTitle": "Bone Structure, Remodeling & Ossification",
+          "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance."
+        },
+        {
+          "term": "central canal",
+          "priority": "Core",
+          "topic": "3.2",
+          "topicTitle": "Bone Structure, Remodeling & Ossification",
+          "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance."
+        },
+        {
+          "term": "lamella",
+          "priority": "Core",
+          "topic": "3.2",
+          "topicTitle": "Bone Structure, Remodeling & Ossification",
+          "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance."
+        },
+        {
+          "term": "lacuna",
+          "priority": "Core",
+          "topic": "3.2",
+          "topicTitle": "Bone Structure, Remodeling & Ossification",
+          "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance."
+        },
+        {
+          "term": "canaliculus",
+          "priority": "Core",
+          "topic": "3.2",
+          "topicTitle": "Bone Structure, Remodeling & Ossification",
+          "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance."
+        },
+        {
+          "term": "osteoblast",
+          "priority": "Core",
+          "topic": "3.2",
+          "topicTitle": "Bone Structure, Remodeling & Ossification",
+          "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance."
+        },
+        {
+          "term": "osteocyte",
+          "priority": "Core",
+          "topic": "3.2",
+          "topicTitle": "Bone Structure, Remodeling & Ossification",
+          "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance."
+        },
+        {
+          "term": "osteoclast",
+          "priority": "Core",
+          "topic": "3.2",
+          "topicTitle": "Bone Structure, Remodeling & Ossification",
+          "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance."
+        },
+        {
+          "term": "ossification",
+          "priority": "Core",
+          "topic": "3.2",
+          "topicTitle": "Bone Structure, Remodeling & Ossification",
+          "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance."
+        },
+        {
+          "term": "intramembranous ossification",
+          "priority": "Honors Extension",
+          "topic": "3.2",
+          "topicTitle": "Bone Structure, Remodeling & Ossification",
+          "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance."
+        },
+        {
+          "term": "endochondral ossification",
+          "priority": "Honors Extension",
+          "topic": "3.2",
+          "topicTitle": "Bone Structure, Remodeling & Ossification",
+          "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance."
+        },
+        {
+          "term": "epiphyseal plate",
+          "priority": "Core",
+          "topic": "3.2",
+          "topicTitle": "Bone Structure, Remodeling & Ossification",
+          "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance."
+        },
+        {
+          "term": "bone remodeling",
+          "priority": "Core",
+          "topic": "3.2",
+          "topicTitle": "Bone Structure, Remodeling & Ossification",
+          "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance."
+        },
+        {
+          "term": "calcitonin",
+          "priority": "Core",
+          "topic": "3.2",
+          "topicTitle": "Bone Structure, Remodeling & Ossification",
+          "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance."
+        },
+        {
+          "term": "parathyroid hormone",
+          "priority": "Core",
+          "topic": "3.2",
+          "topicTitle": "Bone Structure, Remodeling & Ossification",
+          "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance."
+        },
+        {
+          "term": "calcium homeostasis",
+          "priority": "Core",
+          "topic": "3.2",
+          "topicTitle": "Bone Structure, Remodeling & Ossification",
+          "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance."
+        },
+        {
+          "term": "articulation",
+          "priority": "Core",
+          "topic": "3.3",
+          "topicTitle": "Joints & Movement",
+          "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements."
+        },
+        {
+          "term": "joint",
+          "priority": "Core",
+          "topic": "3.3",
+          "topicTitle": "Joints & Movement",
+          "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements."
+        },
+        {
+          "term": "fibrous joint",
+          "priority": "Core",
+          "topic": "3.3",
+          "topicTitle": "Joints & Movement",
+          "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements."
+        },
+        {
+          "term": "cartilaginous joint",
+          "priority": "Core",
+          "topic": "3.3",
+          "topicTitle": "Joints & Movement",
+          "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements."
+        },
+        {
+          "term": "synovial joint",
+          "priority": "Core",
+          "topic": "3.3",
+          "topicTitle": "Joints & Movement",
+          "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements."
+        },
+        {
+          "term": "symphysis",
+          "priority": "Core",
+          "topic": "3.3",
+          "topicTitle": "Joints & Movement",
+          "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements."
+        },
+        {
+          "term": "synchondrosis",
+          "priority": "Core",
+          "topic": "3.3",
+          "topicTitle": "Joints & Movement",
+          "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements."
+        },
+        {
+          "term": "joint cavity",
+          "priority": "Core",
+          "topic": "3.3",
+          "topicTitle": "Joints & Movement",
+          "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements."
+        },
+        {
+          "term": "synovial membrane",
+          "priority": "Core",
+          "topic": "3.3",
+          "topicTitle": "Joints & Movement",
+          "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements."
+        },
+        {
+          "term": "synovial fluid",
+          "priority": "Core",
+          "topic": "3.3",
+          "topicTitle": "Joints & Movement",
+          "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements."
+        },
+        {
+          "term": "ligament",
+          "priority": "Core",
+          "topic": "3.3",
+          "topicTitle": "Joints & Movement",
+          "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements."
+        },
+        {
+          "term": "bursa",
+          "priority": "Core",
+          "topic": "3.3",
+          "topicTitle": "Joints & Movement",
+          "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements."
+        },
+        {
+          "term": "meniscus",
+          "priority": "Core",
+          "topic": "3.3",
+          "topicTitle": "Joints & Movement",
+          "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements."
+        },
+        {
+          "term": "flexion",
+          "priority": "Core",
+          "topic": "3.3",
+          "topicTitle": "Joints & Movement",
+          "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements."
+        },
+        {
+          "term": "extension",
+          "priority": "Core",
+          "topic": "3.3",
+          "topicTitle": "Joints & Movement",
+          "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements."
+        },
+        {
+          "term": "hyperextension",
+          "priority": "Core",
+          "topic": "3.3",
+          "topicTitle": "Joints & Movement",
+          "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements."
+        },
+        {
+          "term": "abduction",
+          "priority": "Core",
+          "topic": "3.3",
+          "topicTitle": "Joints & Movement",
+          "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements."
+        },
+        {
+          "term": "adduction",
+          "priority": "Core",
+          "topic": "3.3",
+          "topicTitle": "Joints & Movement",
+          "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements."
+        },
+        {
+          "term": "rotation",
+          "priority": "Core",
+          "topic": "3.3",
+          "topicTitle": "Joints & Movement",
+          "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements."
+        },
+        {
+          "term": "circumduction",
+          "priority": "Core",
+          "topic": "3.3",
+          "topicTitle": "Joints & Movement",
+          "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements."
+        },
+        {
+          "term": "pronation",
+          "priority": "Core",
+          "topic": "3.3",
+          "topicTitle": "Joints & Movement",
+          "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements."
+        },
+        {
+          "term": "supination",
+          "priority": "Core",
+          "topic": "3.3",
+          "topicTitle": "Joints & Movement",
+          "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements."
+        },
+        {
+          "term": "dorsiflexion",
+          "priority": "Core",
+          "topic": "3.3",
+          "topicTitle": "Joints & Movement",
+          "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements."
+        },
+        {
+          "term": "plantar flexion",
+          "priority": "Core",
+          "topic": "3.3",
+          "topicTitle": "Joints & Movement",
+          "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements."
+        },
+        {
+          "term": "inversion",
+          "priority": "Core",
+          "topic": "3.3",
+          "topicTitle": "Joints & Movement",
+          "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements."
+        },
+        {
+          "term": "eversion",
+          "priority": "Core",
+          "topic": "3.3",
+          "topicTitle": "Joints & Movement",
+          "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements."
+        },
+        {
+          "term": "bone density",
+          "priority": "Core",
+          "topic": "3.4",
+          "topicTitle": "Aging & Skeletal Disease",
+          "connection": "Relate aging and altered remodeling to skeletal disease."
+        },
+        {
+          "term": "peak bone mass",
+          "priority": "Core",
+          "topic": "3.4",
+          "topicTitle": "Aging & Skeletal Disease",
+          "connection": "Relate aging and altered remodeling to skeletal disease."
+        },
+        {
+          "term": "osteopenia",
+          "priority": "Core",
+          "topic": "3.4",
+          "topicTitle": "Aging & Skeletal Disease",
+          "connection": "Relate aging and altered remodeling to skeletal disease."
+        },
+        {
+          "term": "osteoporosis",
+          "priority": "Core",
+          "topic": "3.4",
+          "topicTitle": "Aging & Skeletal Disease",
+          "connection": "Relate aging and altered remodeling to skeletal disease."
+        },
+        {
+          "term": "osteomalacia",
+          "priority": "Core",
+          "topic": "3.4",
+          "topicTitle": "Aging & Skeletal Disease",
+          "connection": "Relate aging and altered remodeling to skeletal disease."
+        },
+        {
+          "term": "osteoarthritis",
+          "priority": "Core",
+          "topic": "3.4",
+          "topicTitle": "Aging & Skeletal Disease",
+          "connection": "Relate aging and altered remodeling to skeletal disease."
+        },
+        {
+          "term": "rheumatoid arthritis",
+          "priority": "Core",
+          "topic": "3.4",
+          "topicTitle": "Aging & Skeletal Disease",
+          "connection": "Relate aging and altered remodeling to skeletal disease."
+        },
+        {
+          "term": "fracture",
+          "priority": "Core",
+          "topic": "3.4",
+          "topicTitle": "Aging & Skeletal Disease",
+          "connection": "Relate aging and altered remodeling to skeletal disease."
+        },
+        {
+          "term": "compression fracture",
+          "priority": "Core",
+          "topic": "3.4",
+          "topicTitle": "Aging & Skeletal Disease",
+          "connection": "Relate aging and altered remodeling to skeletal disease."
+        },
+        {
+          "term": "pathologic fracture",
+          "priority": "Core",
+          "topic": "3.4",
+          "topicTitle": "Aging & Skeletal Disease",
+          "connection": "Relate aging and altered remodeling to skeletal disease."
+        },
+        {
+          "term": "bone resorption",
+          "priority": "Core",
+          "topic": "3.4",
+          "topicTitle": "Aging & Skeletal Disease",
+          "connection": "Relate aging and altered remodeling to skeletal disease."
+        },
+        {
+          "term": "kyphosis",
+          "priority": "Core",
+          "topic": "3.4",
+          "topicTitle": "Aging & Skeletal Disease",
+          "connection": "Relate aging and altered remodeling to skeletal disease."
+        },
+        {
+          "term": "scoliosis",
+          "priority": "Core",
+          "topic": "3.4",
+          "topicTitle": "Aging & Skeletal Disease",
+          "connection": "Relate aging and altered remodeling to skeletal disease."
+        },
+        {
+          "term": "lordosis",
+          "priority": "Core",
+          "topic": "3.4",
+          "topicTitle": "Aging & Skeletal Disease",
+          "connection": "Relate aging and altered remodeling to skeletal disease."
+        },
+        {
+          "term": "dual-energy X-ray absorptiometry",
+          "priority": "Honors Extension",
+          "topic": "3.4",
+          "topicTitle": "Aging & Skeletal Disease",
+          "connection": "Relate aging and altered remodeling to skeletal disease."
+        },
+        {
+          "term": "DEXA scan",
+          "priority": "Core",
+          "topic": "3.4",
+          "topicTitle": "Aging & Skeletal Disease",
+          "connection": "Relate aging and altered remodeling to skeletal disease."
+        }
+      ],
       "topics": [
         {
           "unit": "Unit 3",
@@ -574,6 +3368,750 @@ window.COURSE_DATA = {
         "antagonist",
         "synergist",
         "fatigue"
+      ],
+      "vocabularyRecords": [
+        {
+          "term": "muscle tissue",
+          "priority": "Core",
+          "topic": "4.1",
+          "topicTitle": "Muscle Types & Organization",
+          "connection": "Compare muscle tissue types and skeletal-muscle organization."
+        },
+        {
+          "term": "skeletal muscle",
+          "priority": "Core",
+          "topic": "4.1",
+          "topicTitle": "Muscle Types & Organization",
+          "connection": "Compare muscle tissue types and skeletal-muscle organization."
+        },
+        {
+          "term": "cardiac muscle",
+          "priority": "Core",
+          "topic": "4.1",
+          "topicTitle": "Muscle Types & Organization",
+          "connection": "Compare muscle tissue types and skeletal-muscle organization."
+        },
+        {
+          "term": "smooth muscle",
+          "priority": "Core",
+          "topic": "4.1",
+          "topicTitle": "Muscle Types & Organization",
+          "connection": "Compare muscle tissue types and skeletal-muscle organization."
+        },
+        {
+          "term": "voluntary muscle",
+          "priority": "Core",
+          "topic": "4.1",
+          "topicTitle": "Muscle Types & Organization",
+          "connection": "Compare muscle tissue types and skeletal-muscle organization."
+        },
+        {
+          "term": "involuntary muscle",
+          "priority": "Core",
+          "topic": "4.1",
+          "topicTitle": "Muscle Types & Organization",
+          "connection": "Compare muscle tissue types and skeletal-muscle organization."
+        },
+        {
+          "term": "muscle fiber",
+          "priority": "Core",
+          "topic": "4.1",
+          "topicTitle": "Muscle Types & Organization",
+          "connection": "Compare muscle tissue types and skeletal-muscle organization."
+        },
+        {
+          "term": "fascicle",
+          "priority": "Core",
+          "topic": "4.1",
+          "topicTitle": "Muscle Types & Organization",
+          "connection": "Compare muscle tissue types and skeletal-muscle organization."
+        },
+        {
+          "term": "epimysium",
+          "priority": "Core",
+          "topic": "4.1",
+          "topicTitle": "Muscle Types & Organization",
+          "connection": "Compare muscle tissue types and skeletal-muscle organization."
+        },
+        {
+          "term": "perimysium",
+          "priority": "Core",
+          "topic": "4.1",
+          "topicTitle": "Muscle Types & Organization",
+          "connection": "Compare muscle tissue types and skeletal-muscle organization."
+        },
+        {
+          "term": "endomysium",
+          "priority": "Core",
+          "topic": "4.1",
+          "topicTitle": "Muscle Types & Organization",
+          "connection": "Compare muscle tissue types and skeletal-muscle organization."
+        },
+        {
+          "term": "tendon",
+          "priority": "Core",
+          "topic": "4.1",
+          "topicTitle": "Muscle Types & Organization",
+          "connection": "Compare muscle tissue types and skeletal-muscle organization."
+        },
+        {
+          "term": "aponeurosis",
+          "priority": "Honors Extension",
+          "topic": "4.1",
+          "topicTitle": "Muscle Types & Organization",
+          "connection": "Compare muscle tissue types and skeletal-muscle organization."
+        },
+        {
+          "term": "origin",
+          "priority": "Core",
+          "topic": "4.1",
+          "topicTitle": "Muscle Types & Organization",
+          "connection": "Compare muscle tissue types and skeletal-muscle organization."
+        },
+        {
+          "term": "insertion",
+          "priority": "Core",
+          "topic": "4.1",
+          "topicTitle": "Muscle Types & Organization",
+          "connection": "Compare muscle tissue types and skeletal-muscle organization."
+        },
+        {
+          "term": "agonist",
+          "priority": "Core",
+          "topic": "4.1",
+          "topicTitle": "Muscle Types & Organization",
+          "connection": "Compare muscle tissue types and skeletal-muscle organization."
+        },
+        {
+          "term": "prime mover",
+          "priority": "Core",
+          "topic": "4.1",
+          "topicTitle": "Muscle Types & Organization",
+          "connection": "Compare muscle tissue types and skeletal-muscle organization."
+        },
+        {
+          "term": "antagonist",
+          "priority": "Core",
+          "topic": "4.1",
+          "topicTitle": "Muscle Types & Organization",
+          "connection": "Compare muscle tissue types and skeletal-muscle organization."
+        },
+        {
+          "term": "synergist",
+          "priority": "Core",
+          "topic": "4.1",
+          "topicTitle": "Muscle Types & Organization",
+          "connection": "Compare muscle tissue types and skeletal-muscle organization."
+        },
+        {
+          "term": "fixator",
+          "priority": "Core",
+          "topic": "4.1",
+          "topicTitle": "Muscle Types & Organization",
+          "connection": "Compare muscle tissue types and skeletal-muscle organization."
+        },
+        {
+          "term": "parallel fascicle",
+          "priority": "Core",
+          "topic": "4.1",
+          "topicTitle": "Muscle Types & Organization",
+          "connection": "Compare muscle tissue types and skeletal-muscle organization."
+        },
+        {
+          "term": "pennate fascicle",
+          "priority": "Core",
+          "topic": "4.1",
+          "topicTitle": "Muscle Types & Organization",
+          "connection": "Compare muscle tissue types and skeletal-muscle organization."
+        },
+        {
+          "term": "convergent fascicle",
+          "priority": "Core",
+          "topic": "4.1",
+          "topicTitle": "Muscle Types & Organization",
+          "connection": "Compare muscle tissue types and skeletal-muscle organization."
+        },
+        {
+          "term": "circular fascicle",
+          "priority": "Core",
+          "topic": "4.1",
+          "topicTitle": "Muscle Types & Organization",
+          "connection": "Compare muscle tissue types and skeletal-muscle organization."
+        },
+        {
+          "term": "sarcolemma",
+          "priority": "Core",
+          "topic": "4.2",
+          "topicTitle": "Skeletal Muscle Ultrastructure",
+          "connection": "Relate muscle ultrastructure to contraction."
+        },
+        {
+          "term": "sarcoplasm",
+          "priority": "Core",
+          "topic": "4.2",
+          "topicTitle": "Skeletal Muscle Ultrastructure",
+          "connection": "Relate muscle ultrastructure to contraction."
+        },
+        {
+          "term": "sarcoplasmic reticulum",
+          "priority": "Core",
+          "topic": "4.2",
+          "topicTitle": "Skeletal Muscle Ultrastructure",
+          "connection": "Relate muscle ultrastructure to contraction."
+        },
+        {
+          "term": "transverse tubule",
+          "priority": "Core",
+          "topic": "4.2",
+          "topicTitle": "Skeletal Muscle Ultrastructure",
+          "connection": "Relate muscle ultrastructure to contraction."
+        },
+        {
+          "term": "T tubule",
+          "priority": "Core",
+          "topic": "4.2",
+          "topicTitle": "Skeletal Muscle Ultrastructure",
+          "connection": "Relate muscle ultrastructure to contraction."
+        },
+        {
+          "term": "triad",
+          "priority": "Honors Extension",
+          "topic": "4.2",
+          "topicTitle": "Skeletal Muscle Ultrastructure",
+          "connection": "Relate muscle ultrastructure to contraction."
+        },
+        {
+          "term": "myofibril",
+          "priority": "Core",
+          "topic": "4.2",
+          "topicTitle": "Skeletal Muscle Ultrastructure",
+          "connection": "Relate muscle ultrastructure to contraction."
+        },
+        {
+          "term": "myofilament",
+          "priority": "Core",
+          "topic": "4.2",
+          "topicTitle": "Skeletal Muscle Ultrastructure",
+          "connection": "Relate muscle ultrastructure to contraction."
+        },
+        {
+          "term": "sarcomere",
+          "priority": "Core",
+          "topic": "4.2",
+          "topicTitle": "Skeletal Muscle Ultrastructure",
+          "connection": "Relate muscle ultrastructure to contraction."
+        },
+        {
+          "term": "Z disc",
+          "priority": "Core",
+          "topic": "4.2",
+          "topicTitle": "Skeletal Muscle Ultrastructure",
+          "connection": "Relate muscle ultrastructure to contraction."
+        },
+        {
+          "term": "A band",
+          "priority": "Core",
+          "topic": "4.2",
+          "topicTitle": "Skeletal Muscle Ultrastructure",
+          "connection": "Relate muscle ultrastructure to contraction."
+        },
+        {
+          "term": "I band",
+          "priority": "Core",
+          "topic": "4.2",
+          "topicTitle": "Skeletal Muscle Ultrastructure",
+          "connection": "Relate muscle ultrastructure to contraction."
+        },
+        {
+          "term": "H zone",
+          "priority": "Core",
+          "topic": "4.2",
+          "topicTitle": "Skeletal Muscle Ultrastructure",
+          "connection": "Relate muscle ultrastructure to contraction."
+        },
+        {
+          "term": "M line",
+          "priority": "Core",
+          "topic": "4.2",
+          "topicTitle": "Skeletal Muscle Ultrastructure",
+          "connection": "Relate muscle ultrastructure to contraction."
+        },
+        {
+          "term": "thick filament",
+          "priority": "Core",
+          "topic": "4.2",
+          "topicTitle": "Skeletal Muscle Ultrastructure",
+          "connection": "Relate muscle ultrastructure to contraction."
+        },
+        {
+          "term": "thin filament",
+          "priority": "Core",
+          "topic": "4.2",
+          "topicTitle": "Skeletal Muscle Ultrastructure",
+          "connection": "Relate muscle ultrastructure to contraction."
+        },
+        {
+          "term": "myosin",
+          "priority": "Core",
+          "topic": "4.2",
+          "topicTitle": "Skeletal Muscle Ultrastructure",
+          "connection": "Relate muscle ultrastructure to contraction."
+        },
+        {
+          "term": "actin",
+          "priority": "Core",
+          "topic": "4.2",
+          "topicTitle": "Skeletal Muscle Ultrastructure",
+          "connection": "Relate muscle ultrastructure to contraction."
+        },
+        {
+          "term": "troponin",
+          "priority": "Core",
+          "topic": "4.2",
+          "topicTitle": "Skeletal Muscle Ultrastructure",
+          "connection": "Relate muscle ultrastructure to contraction."
+        },
+        {
+          "term": "tropomyosin",
+          "priority": "Core",
+          "topic": "4.2",
+          "topicTitle": "Skeletal Muscle Ultrastructure",
+          "connection": "Relate muscle ultrastructure to contraction."
+        },
+        {
+          "term": "cross-bridge",
+          "priority": "Core",
+          "topic": "4.2",
+          "topicTitle": "Skeletal Muscle Ultrastructure",
+          "connection": "Relate muscle ultrastructure to contraction."
+        },
+        {
+          "term": "motor neuron",
+          "priority": "Core",
+          "topic": "4.3",
+          "topicTitle": "Neuromuscular Junction & Sliding Filament Mechanism",
+          "connection": "Trace signaling at the neuromuscular junction through the sliding-filament mechanism."
+        },
+        {
+          "term": "motor unit",
+          "priority": "Core",
+          "topic": "4.3",
+          "topicTitle": "Neuromuscular Junction & Sliding Filament Mechanism",
+          "connection": "Trace signaling at the neuromuscular junction through the sliding-filament mechanism."
+        },
+        {
+          "term": "neuromuscular junction",
+          "priority": "Core",
+          "topic": "4.3",
+          "topicTitle": "Neuromuscular Junction & Sliding Filament Mechanism",
+          "connection": "Trace signaling at the neuromuscular junction through the sliding-filament mechanism."
+        },
+        {
+          "term": "axon terminal",
+          "priority": "Core",
+          "topic": "4.3",
+          "topicTitle": "Neuromuscular Junction & Sliding Filament Mechanism",
+          "connection": "Trace signaling at the neuromuscular junction through the sliding-filament mechanism."
+        },
+        {
+          "term": "synaptic cleft",
+          "priority": "Core",
+          "topic": "4.3",
+          "topicTitle": "Neuromuscular Junction & Sliding Filament Mechanism",
+          "connection": "Trace signaling at the neuromuscular junction through the sliding-filament mechanism."
+        },
+        {
+          "term": "motor end plate",
+          "priority": "Core",
+          "topic": "4.3",
+          "topicTitle": "Neuromuscular Junction & Sliding Filament Mechanism",
+          "connection": "Trace signaling at the neuromuscular junction through the sliding-filament mechanism."
+        },
+        {
+          "term": "acetylcholine",
+          "priority": "Core",
+          "topic": "4.3",
+          "topicTitle": "Neuromuscular Junction & Sliding Filament Mechanism",
+          "connection": "Trace signaling at the neuromuscular junction through the sliding-filament mechanism."
+        },
+        {
+          "term": "acetylcholinesterase",
+          "priority": "Core",
+          "topic": "4.3",
+          "topicTitle": "Neuromuscular Junction & Sliding Filament Mechanism",
+          "connection": "Trace signaling at the neuromuscular junction through the sliding-filament mechanism."
+        },
+        {
+          "term": "action potential",
+          "priority": "Core",
+          "topic": "4.3",
+          "topicTitle": "Neuromuscular Junction & Sliding Filament Mechanism",
+          "connection": "Trace signaling at the neuromuscular junction through the sliding-filament mechanism."
+        },
+        {
+          "term": "calcium ion",
+          "priority": "Core",
+          "topic": "4.3",
+          "topicTitle": "Neuromuscular Junction & Sliding Filament Mechanism",
+          "connection": "Trace signaling at the neuromuscular junction through the sliding-filament mechanism."
+        },
+        {
+          "term": "terminal cisterna",
+          "priority": "Honors Extension",
+          "topic": "4.3",
+          "topicTitle": "Neuromuscular Junction & Sliding Filament Mechanism",
+          "connection": "Trace signaling at the neuromuscular junction through the sliding-filament mechanism."
+        },
+        {
+          "term": "excitation-contraction coupling",
+          "priority": "Honors Extension",
+          "topic": "4.3",
+          "topicTitle": "Neuromuscular Junction & Sliding Filament Mechanism",
+          "connection": "Trace signaling at the neuromuscular junction through the sliding-filament mechanism."
+        },
+        {
+          "term": "sliding filament theory",
+          "priority": "Core",
+          "topic": "4.3",
+          "topicTitle": "Neuromuscular Junction & Sliding Filament Mechanism",
+          "connection": "Trace signaling at the neuromuscular junction through the sliding-filament mechanism."
+        },
+        {
+          "term": "cross-bridge cycle",
+          "priority": "Core",
+          "topic": "4.3",
+          "topicTitle": "Neuromuscular Junction & Sliding Filament Mechanism",
+          "connection": "Trace signaling at the neuromuscular junction through the sliding-filament mechanism."
+        },
+        {
+          "term": "power stroke",
+          "priority": "Core",
+          "topic": "4.3",
+          "topicTitle": "Neuromuscular Junction & Sliding Filament Mechanism",
+          "connection": "Trace signaling at the neuromuscular junction through the sliding-filament mechanism."
+        },
+        {
+          "term": "ATP",
+          "priority": "Core",
+          "topic": "4.3",
+          "topicTitle": "Neuromuscular Junction & Sliding Filament Mechanism",
+          "connection": "Trace signaling at the neuromuscular junction through the sliding-filament mechanism."
+        },
+        {
+          "term": "all-or-none principle",
+          "priority": "Core",
+          "topic": "4.3",
+          "topicTitle": "Neuromuscular Junction & Sliding Filament Mechanism",
+          "connection": "Trace signaling at the neuromuscular junction through the sliding-filament mechanism."
+        },
+        {
+          "term": "muscle twitch",
+          "priority": "Core",
+          "topic": "4.3",
+          "topicTitle": "Neuromuscular Junction & Sliding Filament Mechanism",
+          "connection": "Trace signaling at the neuromuscular junction through the sliding-filament mechanism."
+        },
+        {
+          "term": "muscle tone",
+          "priority": "Core",
+          "topic": "4.4",
+          "topicTitle": "Muscle Tone, Posture & Antagonistic Movement",
+          "connection": "Explain tone, posture, proprioception, and antagonistic movement."
+        },
+        {
+          "term": "posture",
+          "priority": "Core",
+          "topic": "4.4",
+          "topicTitle": "Muscle Tone, Posture & Antagonistic Movement",
+          "connection": "Explain tone, posture, proprioception, and antagonistic movement."
+        },
+        {
+          "term": "core muscle",
+          "priority": "Core",
+          "topic": "4.4",
+          "topicTitle": "Muscle Tone, Posture & Antagonistic Movement",
+          "connection": "Explain tone, posture, proprioception, and antagonistic movement."
+        },
+        {
+          "term": "muscle spindle",
+          "priority": "Core",
+          "topic": "4.4",
+          "topicTitle": "Muscle Tone, Posture & Antagonistic Movement",
+          "connection": "Explain tone, posture, proprioception, and antagonistic movement."
+        },
+        {
+          "term": "proprioceptor",
+          "priority": "Core",
+          "topic": "4.4",
+          "topicTitle": "Muscle Tone, Posture & Antagonistic Movement",
+          "connection": "Explain tone, posture, proprioception, and antagonistic movement."
+        },
+        {
+          "term": "stretch reflex",
+          "priority": "Core",
+          "topic": "4.4",
+          "topicTitle": "Muscle Tone, Posture & Antagonistic Movement",
+          "connection": "Explain tone, posture, proprioception, and antagonistic movement."
+        },
+        {
+          "term": "reciprocal inhibition",
+          "priority": "Core",
+          "topic": "4.4",
+          "topicTitle": "Muscle Tone, Posture & Antagonistic Movement",
+          "connection": "Explain tone, posture, proprioception, and antagonistic movement."
+        },
+        {
+          "term": "isometric contraction",
+          "priority": "Core",
+          "topic": "4.4",
+          "topicTitle": "Muscle Tone, Posture & Antagonistic Movement",
+          "connection": "Explain tone, posture, proprioception, and antagonistic movement."
+        },
+        {
+          "term": "isotonic contraction",
+          "priority": "Core",
+          "topic": "4.4",
+          "topicTitle": "Muscle Tone, Posture & Antagonistic Movement",
+          "connection": "Explain tone, posture, proprioception, and antagonistic movement."
+        },
+        {
+          "term": "concentric contraction",
+          "priority": "Core",
+          "topic": "4.4",
+          "topicTitle": "Muscle Tone, Posture & Antagonistic Movement",
+          "connection": "Explain tone, posture, proprioception, and antagonistic movement."
+        },
+        {
+          "term": "eccentric contraction",
+          "priority": "Core",
+          "topic": "4.4",
+          "topicTitle": "Muscle Tone, Posture & Antagonistic Movement",
+          "connection": "Explain tone, posture, proprioception, and antagonistic movement."
+        },
+        {
+          "term": "creatine phosphate",
+          "priority": "Core",
+          "topic": "4.5",
+          "topicTitle": "Energy for Muscle Contraction & Fatigue",
+          "connection": "Compare ATP sources and analyze muscle fatigue."
+        },
+        {
+          "term": "creatine kinase",
+          "priority": "Core",
+          "topic": "4.5",
+          "topicTitle": "Energy for Muscle Contraction & Fatigue",
+          "connection": "Compare ATP sources and analyze muscle fatigue."
+        },
+        {
+          "term": "glycolysis",
+          "priority": "Core",
+          "topic": "4.5",
+          "topicTitle": "Energy for Muscle Contraction & Fatigue",
+          "connection": "Compare ATP sources and analyze muscle fatigue."
+        },
+        {
+          "term": "aerobic respiration",
+          "priority": "Core",
+          "topic": "4.5",
+          "topicTitle": "Energy for Muscle Contraction & Fatigue",
+          "connection": "Compare ATP sources and analyze muscle fatigue."
+        },
+        {
+          "term": "anaerobic respiration",
+          "priority": "Core",
+          "topic": "4.5",
+          "topicTitle": "Energy for Muscle Contraction & Fatigue",
+          "connection": "Compare ATP sources and analyze muscle fatigue."
+        },
+        {
+          "term": "lactic acid",
+          "priority": "Core",
+          "topic": "4.5",
+          "topicTitle": "Energy for Muscle Contraction & Fatigue",
+          "connection": "Compare ATP sources and analyze muscle fatigue."
+        },
+        {
+          "term": "lactate",
+          "priority": "Core",
+          "topic": "4.5",
+          "topicTitle": "Energy for Muscle Contraction & Fatigue",
+          "connection": "Compare ATP sources and analyze muscle fatigue."
+        },
+        {
+          "term": "oxygen debt",
+          "priority": "Core",
+          "topic": "4.5",
+          "topicTitle": "Energy for Muscle Contraction & Fatigue",
+          "connection": "Compare ATP sources and analyze muscle fatigue."
+        },
+        {
+          "term": "excess post-exercise oxygen consumption",
+          "priority": "Core",
+          "topic": "4.5",
+          "topicTitle": "Energy for Muscle Contraction & Fatigue",
+          "connection": "Compare ATP sources and analyze muscle fatigue."
+        },
+        {
+          "term": "EPOC",
+          "priority": "Honors Extension",
+          "topic": "4.5",
+          "topicTitle": "Energy for Muscle Contraction & Fatigue",
+          "connection": "Compare ATP sources and analyze muscle fatigue."
+        },
+        {
+          "term": "VO2 max",
+          "priority": "Core",
+          "topic": "4.5",
+          "topicTitle": "Energy for Muscle Contraction & Fatigue",
+          "connection": "Compare ATP sources and analyze muscle fatigue."
+        },
+        {
+          "term": "muscle fatigue",
+          "priority": "Core",
+          "topic": "4.5",
+          "topicTitle": "Energy for Muscle Contraction & Fatigue",
+          "connection": "Compare ATP sources and analyze muscle fatigue."
+        },
+        {
+          "term": "glycogen",
+          "priority": "Core",
+          "topic": "4.5",
+          "topicTitle": "Energy for Muscle Contraction & Fatigue",
+          "connection": "Compare ATP sources and analyze muscle fatigue."
+        },
+        {
+          "term": "myoglobin",
+          "priority": "Core",
+          "topic": "4.5",
+          "topicTitle": "Energy for Muscle Contraction & Fatigue",
+          "connection": "Compare ATP sources and analyze muscle fatigue."
+        },
+        {
+          "term": "motor-unit recruitment",
+          "priority": "Core",
+          "topic": "4.5",
+          "topicTitle": "Energy for Muscle Contraction & Fatigue",
+          "connection": "Compare ATP sources and analyze muscle fatigue."
+        },
+        {
+          "term": "tetany",
+          "priority": "Core",
+          "topic": "4.5",
+          "topicTitle": "Energy for Muscle Contraction & Fatigue",
+          "connection": "Compare ATP sources and analyze muscle fatigue."
+        },
+        {
+          "term": "slow oxidative fiber",
+          "priority": "Core",
+          "topic": "4.6",
+          "topicTitle": "Muscle Performance, Training & Disorders",
+          "connection": "Relate fiber type, training, injury, and disease to performance."
+        },
+        {
+          "term": "fast oxidative-glycolytic fiber",
+          "priority": "Honors Extension",
+          "topic": "4.6",
+          "topicTitle": "Muscle Performance, Training & Disorders",
+          "connection": "Relate fiber type, training, injury, and disease to performance."
+        },
+        {
+          "term": "fast glycolytic fiber",
+          "priority": "Core",
+          "topic": "4.6",
+          "topicTitle": "Muscle Performance, Training & Disorders",
+          "connection": "Relate fiber type, training, injury, and disease to performance."
+        },
+        {
+          "term": "slow-twitch fiber",
+          "priority": "Core",
+          "topic": "4.6",
+          "topicTitle": "Muscle Performance, Training & Disorders",
+          "connection": "Relate fiber type, training, injury, and disease to performance."
+        },
+        {
+          "term": "fast-twitch fiber",
+          "priority": "Core",
+          "topic": "4.6",
+          "topicTitle": "Muscle Performance, Training & Disorders",
+          "connection": "Relate fiber type, training, injury, and disease to performance."
+        },
+        {
+          "term": "hypertrophy",
+          "priority": "Core",
+          "topic": "4.6",
+          "topicTitle": "Muscle Performance, Training & Disorders",
+          "connection": "Relate fiber type, training, injury, and disease to performance."
+        },
+        {
+          "term": "atrophy",
+          "priority": "Core",
+          "topic": "4.6",
+          "topicTitle": "Muscle Performance, Training & Disorders",
+          "connection": "Relate fiber type, training, injury, and disease to performance."
+        },
+        {
+          "term": "aerobic training",
+          "priority": "Core",
+          "topic": "4.6",
+          "topicTitle": "Muscle Performance, Training & Disorders",
+          "connection": "Relate fiber type, training, injury, and disease to performance."
+        },
+        {
+          "term": "resistance training",
+          "priority": "Core",
+          "topic": "4.6",
+          "topicTitle": "Muscle Performance, Training & Disorders",
+          "connection": "Relate fiber type, training, injury, and disease to performance."
+        },
+        {
+          "term": "muscle strain",
+          "priority": "Core",
+          "topic": "4.6",
+          "topicTitle": "Muscle Performance, Training & Disorders",
+          "connection": "Relate fiber type, training, injury, and disease to performance."
+        },
+        {
+          "term": "tendon rupture",
+          "priority": "Core",
+          "topic": "4.6",
+          "topicTitle": "Muscle Performance, Training & Disorders",
+          "connection": "Relate fiber type, training, injury, and disease to performance."
+        },
+        {
+          "term": "muscle cramp",
+          "priority": "Core",
+          "topic": "4.6",
+          "topicTitle": "Muscle Performance, Training & Disorders",
+          "connection": "Relate fiber type, training, injury, and disease to performance."
+        },
+        {
+          "term": "delayed-onset muscle soreness",
+          "priority": "Core",
+          "topic": "4.6",
+          "topicTitle": "Muscle Performance, Training & Disorders",
+          "connection": "Relate fiber type, training, injury, and disease to performance."
+        },
+        {
+          "term": "DOMS",
+          "priority": "Core",
+          "topic": "4.6",
+          "topicTitle": "Muscle Performance, Training & Disorders",
+          "connection": "Relate fiber type, training, injury, and disease to performance."
+        },
+        {
+          "term": "muscular dystrophy",
+          "priority": "Core",
+          "topic": "4.6",
+          "topicTitle": "Muscle Performance, Training & Disorders",
+          "connection": "Relate fiber type, training, injury, and disease to performance."
+        },
+        {
+          "term": "Duchenne muscular dystrophy",
+          "priority": "Core",
+          "topic": "4.6",
+          "topicTitle": "Muscle Performance, Training & Disorders",
+          "connection": "Relate fiber type, training, injury, and disease to performance."
+        }
       ],
       "topics": [
         {
@@ -717,6 +4255,1261 @@ window.COURSE_DATA = {
         "neurotransmitter",
         "sensory receptor",
         "reflex arc"
+      ],
+      "vocabularyRecords": [
+        {
+          "term": "nervous system",
+          "priority": "Core",
+          "topic": "5.1",
+          "topicTitle": "Nervous System Organization & Autonomic Control",
+          "connection": "Compare CNS, PNS, somatic, and autonomic organization and control."
+        },
+        {
+          "term": "central nervous system",
+          "priority": "Core",
+          "topic": "5.1",
+          "topicTitle": "Nervous System Organization & Autonomic Control",
+          "connection": "Compare CNS, PNS, somatic, and autonomic organization and control."
+        },
+        {
+          "term": "CNS",
+          "priority": "Core",
+          "topic": "5.1",
+          "topicTitle": "Nervous System Organization & Autonomic Control",
+          "connection": "Compare CNS, PNS, somatic, and autonomic organization and control."
+        },
+        {
+          "term": "peripheral nervous system",
+          "priority": "Core",
+          "topic": "5.1",
+          "topicTitle": "Nervous System Organization & Autonomic Control",
+          "connection": "Compare CNS, PNS, somatic, and autonomic organization and control."
+        },
+        {
+          "term": "PNS",
+          "priority": "Core",
+          "topic": "5.1",
+          "topicTitle": "Nervous System Organization & Autonomic Control",
+          "connection": "Compare CNS, PNS, somatic, and autonomic organization and control."
+        },
+        {
+          "term": "sensory division",
+          "priority": "Core",
+          "topic": "5.1",
+          "topicTitle": "Nervous System Organization & Autonomic Control",
+          "connection": "Compare CNS, PNS, somatic, and autonomic organization and control."
+        },
+        {
+          "term": "motor division",
+          "priority": "Core",
+          "topic": "5.1",
+          "topicTitle": "Nervous System Organization & Autonomic Control",
+          "connection": "Compare CNS, PNS, somatic, and autonomic organization and control."
+        },
+        {
+          "term": "somatic nervous system",
+          "priority": "Core",
+          "topic": "5.1",
+          "topicTitle": "Nervous System Organization & Autonomic Control",
+          "connection": "Compare CNS, PNS, somatic, and autonomic organization and control."
+        },
+        {
+          "term": "autonomic nervous system",
+          "priority": "Core",
+          "topic": "5.1",
+          "topicTitle": "Nervous System Organization & Autonomic Control",
+          "connection": "Compare CNS, PNS, somatic, and autonomic organization and control."
+        },
+        {
+          "term": "sympathetic division",
+          "priority": "Core",
+          "topic": "5.1",
+          "topicTitle": "Nervous System Organization & Autonomic Control",
+          "connection": "Compare CNS, PNS, somatic, and autonomic organization and control."
+        },
+        {
+          "term": "parasympathetic division",
+          "priority": "Core",
+          "topic": "5.1",
+          "topicTitle": "Nervous System Organization & Autonomic Control",
+          "connection": "Compare CNS, PNS, somatic, and autonomic organization and control."
+        },
+        {
+          "term": "enteric nervous system",
+          "priority": "Honors Extension",
+          "topic": "5.1",
+          "topicTitle": "Nervous System Organization & Autonomic Control",
+          "connection": "Compare CNS, PNS, somatic, and autonomic organization and control."
+        },
+        {
+          "term": "afferent neuron",
+          "priority": "Core",
+          "topic": "5.1",
+          "topicTitle": "Nervous System Organization & Autonomic Control",
+          "connection": "Compare CNS, PNS, somatic, and autonomic organization and control."
+        },
+        {
+          "term": "efferent neuron",
+          "priority": "Core",
+          "topic": "5.1",
+          "topicTitle": "Nervous System Organization & Autonomic Control",
+          "connection": "Compare CNS, PNS, somatic, and autonomic organization and control."
+        },
+        {
+          "term": "effector",
+          "priority": "Core",
+          "topic": "5.1",
+          "topicTitle": "Nervous System Organization & Autonomic Control",
+          "connection": "Compare CNS, PNS, somatic, and autonomic organization and control."
+        },
+        {
+          "term": "visceral reflex",
+          "priority": "Core",
+          "topic": "5.1",
+          "topicTitle": "Nervous System Organization & Autonomic Control",
+          "connection": "Compare CNS, PNS, somatic, and autonomic organization and control."
+        },
+        {
+          "term": "fight-or-flight response",
+          "priority": "Core",
+          "topic": "5.1",
+          "topicTitle": "Nervous System Organization & Autonomic Control",
+          "connection": "Compare CNS, PNS, somatic, and autonomic organization and control."
+        },
+        {
+          "term": "rest-and-digest response",
+          "priority": "Core",
+          "topic": "5.1",
+          "topicTitle": "Nervous System Organization & Autonomic Control",
+          "connection": "Compare CNS, PNS, somatic, and autonomic organization and control."
+        },
+        {
+          "term": "cerebrum",
+          "priority": "Core",
+          "topic": "5.2",
+          "topicTitle": "Brain Structure & Cerebral Function",
+          "connection": "Relate major brain regions to sensory, motor, and integrative functions."
+        },
+        {
+          "term": "cerebral hemisphere",
+          "priority": "Core",
+          "topic": "5.2",
+          "topicTitle": "Brain Structure & Cerebral Function",
+          "connection": "Relate major brain regions to sensory, motor, and integrative functions."
+        },
+        {
+          "term": "cerebral cortex",
+          "priority": "Core",
+          "topic": "5.2",
+          "topicTitle": "Brain Structure & Cerebral Function",
+          "connection": "Relate major brain regions to sensory, motor, and integrative functions."
+        },
+        {
+          "term": "gyrus",
+          "priority": "Core",
+          "topic": "5.2",
+          "topicTitle": "Brain Structure & Cerebral Function",
+          "connection": "Relate major brain regions to sensory, motor, and integrative functions."
+        },
+        {
+          "term": "sulcus",
+          "priority": "Core",
+          "topic": "5.2",
+          "topicTitle": "Brain Structure & Cerebral Function",
+          "connection": "Relate major brain regions to sensory, motor, and integrative functions."
+        },
+        {
+          "term": "longitudinal fissure",
+          "priority": "Core",
+          "topic": "5.2",
+          "topicTitle": "Brain Structure & Cerebral Function",
+          "connection": "Relate major brain regions to sensory, motor, and integrative functions."
+        },
+        {
+          "term": "corpus callosum",
+          "priority": "Core",
+          "topic": "5.2",
+          "topicTitle": "Brain Structure & Cerebral Function",
+          "connection": "Relate major brain regions to sensory, motor, and integrative functions."
+        },
+        {
+          "term": "gray matter",
+          "priority": "Core",
+          "topic": "5.2",
+          "topicTitle": "Brain Structure & Cerebral Function",
+          "connection": "Relate major brain regions to sensory, motor, and integrative functions."
+        },
+        {
+          "term": "white matter",
+          "priority": "Core",
+          "topic": "5.2",
+          "topicTitle": "Brain Structure & Cerebral Function",
+          "connection": "Relate major brain regions to sensory, motor, and integrative functions."
+        },
+        {
+          "term": "frontal lobe",
+          "priority": "Core",
+          "topic": "5.2",
+          "topicTitle": "Brain Structure & Cerebral Function",
+          "connection": "Relate major brain regions to sensory, motor, and integrative functions."
+        },
+        {
+          "term": "parietal lobe",
+          "priority": "Core",
+          "topic": "5.2",
+          "topicTitle": "Brain Structure & Cerebral Function",
+          "connection": "Relate major brain regions to sensory, motor, and integrative functions."
+        },
+        {
+          "term": "temporal lobe",
+          "priority": "Core",
+          "topic": "5.2",
+          "topicTitle": "Brain Structure & Cerebral Function",
+          "connection": "Relate major brain regions to sensory, motor, and integrative functions."
+        },
+        {
+          "term": "occipital lobe",
+          "priority": "Core",
+          "topic": "5.2",
+          "topicTitle": "Brain Structure & Cerebral Function",
+          "connection": "Relate major brain regions to sensory, motor, and integrative functions."
+        },
+        {
+          "term": "insula",
+          "priority": "Honors Extension",
+          "topic": "5.2",
+          "topicTitle": "Brain Structure & Cerebral Function",
+          "connection": "Relate major brain regions to sensory, motor, and integrative functions."
+        },
+        {
+          "term": "primary motor cortex",
+          "priority": "Core",
+          "topic": "5.2",
+          "topicTitle": "Brain Structure & Cerebral Function",
+          "connection": "Relate major brain regions to sensory, motor, and integrative functions."
+        },
+        {
+          "term": "primary somatosensory cortex",
+          "priority": "Core",
+          "topic": "5.2",
+          "topicTitle": "Brain Structure & Cerebral Function",
+          "connection": "Relate major brain regions to sensory, motor, and integrative functions."
+        },
+        {
+          "term": "Broca area",
+          "priority": "Core",
+          "topic": "5.2",
+          "topicTitle": "Brain Structure & Cerebral Function",
+          "connection": "Relate major brain regions to sensory, motor, and integrative functions."
+        },
+        {
+          "term": "Wernicke area",
+          "priority": "Core",
+          "topic": "5.2",
+          "topicTitle": "Brain Structure & Cerebral Function",
+          "connection": "Relate major brain regions to sensory, motor, and integrative functions."
+        },
+        {
+          "term": "diencephalon",
+          "priority": "Core",
+          "topic": "5.2",
+          "topicTitle": "Brain Structure & Cerebral Function",
+          "connection": "Relate major brain regions to sensory, motor, and integrative functions."
+        },
+        {
+          "term": "thalamus",
+          "priority": "Core",
+          "topic": "5.2",
+          "topicTitle": "Brain Structure & Cerebral Function",
+          "connection": "Relate major brain regions to sensory, motor, and integrative functions."
+        },
+        {
+          "term": "hypothalamus",
+          "priority": "Core",
+          "topic": "5.2",
+          "topicTitle": "Brain Structure & Cerebral Function",
+          "connection": "Relate major brain regions to sensory, motor, and integrative functions."
+        },
+        {
+          "term": "brainstem",
+          "priority": "Core",
+          "topic": "5.2",
+          "topicTitle": "Brain Structure & Cerebral Function",
+          "connection": "Relate major brain regions to sensory, motor, and integrative functions."
+        },
+        {
+          "term": "midbrain",
+          "priority": "Core",
+          "topic": "5.2",
+          "topicTitle": "Brain Structure & Cerebral Function",
+          "connection": "Relate major brain regions to sensory, motor, and integrative functions."
+        },
+        {
+          "term": "pons",
+          "priority": "Core",
+          "topic": "5.2",
+          "topicTitle": "Brain Structure & Cerebral Function",
+          "connection": "Relate major brain regions to sensory, motor, and integrative functions."
+        },
+        {
+          "term": "medulla oblongata",
+          "priority": "Core",
+          "topic": "5.2",
+          "topicTitle": "Brain Structure & Cerebral Function",
+          "connection": "Relate major brain regions to sensory, motor, and integrative functions."
+        },
+        {
+          "term": "cerebellum",
+          "priority": "Core",
+          "topic": "5.2",
+          "topicTitle": "Brain Structure & Cerebral Function",
+          "connection": "Relate major brain regions to sensory, motor, and integrative functions."
+        },
+        {
+          "term": "meninges",
+          "priority": "Core",
+          "topic": "5.2",
+          "topicTitle": "Brain Structure & Cerebral Function",
+          "connection": "Relate major brain regions to sensory, motor, and integrative functions."
+        },
+        {
+          "term": "cerebrospinal fluid",
+          "priority": "Core",
+          "topic": "5.2",
+          "topicTitle": "Brain Structure & Cerebral Function",
+          "connection": "Relate major brain regions to sensory, motor, and integrative functions."
+        },
+        {
+          "term": "neuron",
+          "priority": "Core",
+          "topic": "5.3",
+          "topicTitle": "Neuron Structure, Neuroglia & Reflexes",
+          "connection": "Relate neuron and glial structure to function and explain reflexes."
+        },
+        {
+          "term": "cell body",
+          "priority": "Core",
+          "topic": "5.3",
+          "topicTitle": "Neuron Structure, Neuroglia & Reflexes",
+          "connection": "Relate neuron and glial structure to function and explain reflexes."
+        },
+        {
+          "term": "soma",
+          "priority": "Core",
+          "topic": "5.3",
+          "topicTitle": "Neuron Structure, Neuroglia & Reflexes",
+          "connection": "Relate neuron and glial structure to function and explain reflexes."
+        },
+        {
+          "term": "dendrite",
+          "priority": "Core",
+          "topic": "5.3",
+          "topicTitle": "Neuron Structure, Neuroglia & Reflexes",
+          "connection": "Relate neuron and glial structure to function and explain reflexes."
+        },
+        {
+          "term": "axon",
+          "priority": "Core",
+          "topic": "5.3",
+          "topicTitle": "Neuron Structure, Neuroglia & Reflexes",
+          "connection": "Relate neuron and glial structure to function and explain reflexes."
+        },
+        {
+          "term": "axon hillock",
+          "priority": "Core",
+          "topic": "5.3",
+          "topicTitle": "Neuron Structure, Neuroglia & Reflexes",
+          "connection": "Relate neuron and glial structure to function and explain reflexes."
+        },
+        {
+          "term": "axon terminal",
+          "priority": "Core",
+          "topic": "5.3",
+          "topicTitle": "Neuron Structure, Neuroglia & Reflexes",
+          "connection": "Relate neuron and glial structure to function and explain reflexes."
+        },
+        {
+          "term": "myelin sheath",
+          "priority": "Core",
+          "topic": "5.3",
+          "topicTitle": "Neuron Structure, Neuroglia & Reflexes",
+          "connection": "Relate neuron and glial structure to function and explain reflexes."
+        },
+        {
+          "term": "node of Ranvier",
+          "priority": "Core",
+          "topic": "5.3",
+          "topicTitle": "Neuron Structure, Neuroglia & Reflexes",
+          "connection": "Relate neuron and glial structure to function and explain reflexes."
+        },
+        {
+          "term": "Schwann cell",
+          "priority": "Core",
+          "topic": "5.3",
+          "topicTitle": "Neuron Structure, Neuroglia & Reflexes",
+          "connection": "Relate neuron and glial structure to function and explain reflexes."
+        },
+        {
+          "term": "oligodendrocyte",
+          "priority": "Core",
+          "topic": "5.3",
+          "topicTitle": "Neuron Structure, Neuroglia & Reflexes",
+          "connection": "Relate neuron and glial structure to function and explain reflexes."
+        },
+        {
+          "term": "astrocyte",
+          "priority": "Core",
+          "topic": "5.3",
+          "topicTitle": "Neuron Structure, Neuroglia & Reflexes",
+          "connection": "Relate neuron and glial structure to function and explain reflexes."
+        },
+        {
+          "term": "microglia",
+          "priority": "Core",
+          "topic": "5.3",
+          "topicTitle": "Neuron Structure, Neuroglia & Reflexes",
+          "connection": "Relate neuron and glial structure to function and explain reflexes."
+        },
+        {
+          "term": "ependymal cell",
+          "priority": "Honors Extension",
+          "topic": "5.3",
+          "topicTitle": "Neuron Structure, Neuroglia & Reflexes",
+          "connection": "Relate neuron and glial structure to function and explain reflexes."
+        },
+        {
+          "term": "sensory neuron",
+          "priority": "Core",
+          "topic": "5.3",
+          "topicTitle": "Neuron Structure, Neuroglia & Reflexes",
+          "connection": "Relate neuron and glial structure to function and explain reflexes."
+        },
+        {
+          "term": "motor neuron",
+          "priority": "Core",
+          "topic": "5.3",
+          "topicTitle": "Neuron Structure, Neuroglia & Reflexes",
+          "connection": "Relate neuron and glial structure to function and explain reflexes."
+        },
+        {
+          "term": "interneuron",
+          "priority": "Core",
+          "topic": "5.3",
+          "topicTitle": "Neuron Structure, Neuroglia & Reflexes",
+          "connection": "Relate neuron and glial structure to function and explain reflexes."
+        },
+        {
+          "term": "reflex",
+          "priority": "Core",
+          "topic": "5.3",
+          "topicTitle": "Neuron Structure, Neuroglia & Reflexes",
+          "connection": "Relate neuron and glial structure to function and explain reflexes."
+        },
+        {
+          "term": "reflex arc",
+          "priority": "Core",
+          "topic": "5.3",
+          "topicTitle": "Neuron Structure, Neuroglia & Reflexes",
+          "connection": "Relate neuron and glial structure to function and explain reflexes."
+        },
+        {
+          "term": "monosynaptic reflex",
+          "priority": "Core",
+          "topic": "5.3",
+          "topicTitle": "Neuron Structure, Neuroglia & Reflexes",
+          "connection": "Relate neuron and glial structure to function and explain reflexes."
+        },
+        {
+          "term": "polysynaptic reflex",
+          "priority": "Core",
+          "topic": "5.3",
+          "topicTitle": "Neuron Structure, Neuroglia & Reflexes",
+          "connection": "Relate neuron and glial structure to function and explain reflexes."
+        },
+        {
+          "term": "withdrawal reflex",
+          "priority": "Core",
+          "topic": "5.3",
+          "topicTitle": "Neuron Structure, Neuroglia & Reflexes",
+          "connection": "Relate neuron and glial structure to function and explain reflexes."
+        },
+        {
+          "term": "stretch reflex",
+          "priority": "Core",
+          "topic": "5.3",
+          "topicTitle": "Neuron Structure, Neuroglia & Reflexes",
+          "connection": "Relate neuron and glial structure to function and explain reflexes."
+        },
+        {
+          "term": "membrane potential",
+          "priority": "Core",
+          "topic": "5.4",
+          "topicTitle": "Resting Potential & Action Potentials",
+          "connection": "Explain resting potential and action potentials using ion movement."
+        },
+        {
+          "term": "resting membrane potential",
+          "priority": "Core",
+          "topic": "5.4",
+          "topicTitle": "Resting Potential & Action Potentials",
+          "connection": "Explain resting potential and action potentials using ion movement."
+        },
+        {
+          "term": "polarization",
+          "priority": "Core",
+          "topic": "5.4",
+          "topicTitle": "Resting Potential & Action Potentials",
+          "connection": "Explain resting potential and action potentials using ion movement."
+        },
+        {
+          "term": "depolarization",
+          "priority": "Core",
+          "topic": "5.4",
+          "topicTitle": "Resting Potential & Action Potentials",
+          "connection": "Explain resting potential and action potentials using ion movement."
+        },
+        {
+          "term": "repolarization",
+          "priority": "Core",
+          "topic": "5.4",
+          "topicTitle": "Resting Potential & Action Potentials",
+          "connection": "Explain resting potential and action potentials using ion movement."
+        },
+        {
+          "term": "hyperpolarization",
+          "priority": "Core",
+          "topic": "5.4",
+          "topicTitle": "Resting Potential & Action Potentials",
+          "connection": "Explain resting potential and action potentials using ion movement."
+        },
+        {
+          "term": "threshold",
+          "priority": "Core",
+          "topic": "5.4",
+          "topicTitle": "Resting Potential & Action Potentials",
+          "connection": "Explain resting potential and action potentials using ion movement."
+        },
+        {
+          "term": "action potential",
+          "priority": "Core",
+          "topic": "5.4",
+          "topicTitle": "Resting Potential & Action Potentials",
+          "connection": "Explain resting potential and action potentials using ion movement."
+        },
+        {
+          "term": "voltage-gated channel",
+          "priority": "Core",
+          "topic": "5.4",
+          "topicTitle": "Resting Potential & Action Potentials",
+          "connection": "Explain resting potential and action potentials using ion movement."
+        },
+        {
+          "term": "leak channel",
+          "priority": "Core",
+          "topic": "5.4",
+          "topicTitle": "Resting Potential & Action Potentials",
+          "connection": "Explain resting potential and action potentials using ion movement."
+        },
+        {
+          "term": "sodium-potassium pump",
+          "priority": "Core",
+          "topic": "5.4",
+          "topicTitle": "Resting Potential & Action Potentials",
+          "connection": "Explain resting potential and action potentials using ion movement."
+        },
+        {
+          "term": "electrochemical gradient",
+          "priority": "Core",
+          "topic": "5.4",
+          "topicTitle": "Resting Potential & Action Potentials",
+          "connection": "Explain resting potential and action potentials using ion movement."
+        },
+        {
+          "term": "refractory period",
+          "priority": "Core",
+          "topic": "5.4",
+          "topicTitle": "Resting Potential & Action Potentials",
+          "connection": "Explain resting potential and action potentials using ion movement."
+        },
+        {
+          "term": "absolute refractory period",
+          "priority": "Core",
+          "topic": "5.4",
+          "topicTitle": "Resting Potential & Action Potentials",
+          "connection": "Explain resting potential and action potentials using ion movement."
+        },
+        {
+          "term": "relative refractory period",
+          "priority": "Honors Extension",
+          "topic": "5.4",
+          "topicTitle": "Resting Potential & Action Potentials",
+          "connection": "Explain resting potential and action potentials using ion movement."
+        },
+        {
+          "term": "continuous conduction",
+          "priority": "Core",
+          "topic": "5.4",
+          "topicTitle": "Resting Potential & Action Potentials",
+          "connection": "Explain resting potential and action potentials using ion movement."
+        },
+        {
+          "term": "saltatory conduction",
+          "priority": "Core",
+          "topic": "5.4",
+          "topicTitle": "Resting Potential & Action Potentials",
+          "connection": "Explain resting potential and action potentials using ion movement."
+        },
+        {
+          "term": "synapse",
+          "priority": "Core",
+          "topic": "5.5",
+          "topicTitle": "Neurotransmitters & Synaptic Integration",
+          "connection": "Explain synaptic transmission, integration, and drug effects."
+        },
+        {
+          "term": "chemical synapse",
+          "priority": "Core",
+          "topic": "5.5",
+          "topicTitle": "Neurotransmitters & Synaptic Integration",
+          "connection": "Explain synaptic transmission, integration, and drug effects."
+        },
+        {
+          "term": "electrical synapse",
+          "priority": "Honors Extension",
+          "topic": "5.5",
+          "topicTitle": "Neurotransmitters & Synaptic Integration",
+          "connection": "Explain synaptic transmission, integration, and drug effects."
+        },
+        {
+          "term": "presynaptic neuron",
+          "priority": "Core",
+          "topic": "5.5",
+          "topicTitle": "Neurotransmitters & Synaptic Integration",
+          "connection": "Explain synaptic transmission, integration, and drug effects."
+        },
+        {
+          "term": "postsynaptic neuron",
+          "priority": "Core",
+          "topic": "5.5",
+          "topicTitle": "Neurotransmitters & Synaptic Integration",
+          "connection": "Explain synaptic transmission, integration, and drug effects."
+        },
+        {
+          "term": "synaptic vesicle",
+          "priority": "Core",
+          "topic": "5.5",
+          "topicTitle": "Neurotransmitters & Synaptic Integration",
+          "connection": "Explain synaptic transmission, integration, and drug effects."
+        },
+        {
+          "term": "neurotransmitter",
+          "priority": "Core",
+          "topic": "5.5",
+          "topicTitle": "Neurotransmitters & Synaptic Integration",
+          "connection": "Explain synaptic transmission, integration, and drug effects."
+        },
+        {
+          "term": "receptor",
+          "priority": "Core",
+          "topic": "5.5",
+          "topicTitle": "Neurotransmitters & Synaptic Integration",
+          "connection": "Explain synaptic transmission, integration, and drug effects."
+        },
+        {
+          "term": "excitatory postsynaptic potential",
+          "priority": "Core",
+          "topic": "5.5",
+          "topicTitle": "Neurotransmitters & Synaptic Integration",
+          "connection": "Explain synaptic transmission, integration, and drug effects."
+        },
+        {
+          "term": "EPSP",
+          "priority": "Core",
+          "topic": "5.5",
+          "topicTitle": "Neurotransmitters & Synaptic Integration",
+          "connection": "Explain synaptic transmission, integration, and drug effects."
+        },
+        {
+          "term": "inhibitory postsynaptic potential",
+          "priority": "Core",
+          "topic": "5.5",
+          "topicTitle": "Neurotransmitters & Synaptic Integration",
+          "connection": "Explain synaptic transmission, integration, and drug effects."
+        },
+        {
+          "term": "IPSP",
+          "priority": "Core",
+          "topic": "5.5",
+          "topicTitle": "Neurotransmitters & Synaptic Integration",
+          "connection": "Explain synaptic transmission, integration, and drug effects."
+        },
+        {
+          "term": "summation",
+          "priority": "Core",
+          "topic": "5.5",
+          "topicTitle": "Neurotransmitters & Synaptic Integration",
+          "connection": "Explain synaptic transmission, integration, and drug effects."
+        },
+        {
+          "term": "temporal summation",
+          "priority": "Honors Extension",
+          "topic": "5.5",
+          "topicTitle": "Neurotransmitters & Synaptic Integration",
+          "connection": "Explain synaptic transmission, integration, and drug effects."
+        },
+        {
+          "term": "spatial summation",
+          "priority": "Honors Extension",
+          "topic": "5.5",
+          "topicTitle": "Neurotransmitters & Synaptic Integration",
+          "connection": "Explain synaptic transmission, integration, and drug effects."
+        },
+        {
+          "term": "synaptic integration",
+          "priority": "Core",
+          "topic": "5.5",
+          "topicTitle": "Neurotransmitters & Synaptic Integration",
+          "connection": "Explain synaptic transmission, integration, and drug effects."
+        },
+        {
+          "term": "reuptake",
+          "priority": "Core",
+          "topic": "5.5",
+          "topicTitle": "Neurotransmitters & Synaptic Integration",
+          "connection": "Explain synaptic transmission, integration, and drug effects."
+        },
+        {
+          "term": "enzymatic degradation",
+          "priority": "Core",
+          "topic": "5.5",
+          "topicTitle": "Neurotransmitters & Synaptic Integration",
+          "connection": "Explain synaptic transmission, integration, and drug effects."
+        },
+        {
+          "term": "acetylcholine",
+          "priority": "Core",
+          "topic": "5.5",
+          "topicTitle": "Neurotransmitters & Synaptic Integration",
+          "connection": "Explain synaptic transmission, integration, and drug effects."
+        },
+        {
+          "term": "dopamine",
+          "priority": "Core",
+          "topic": "5.5",
+          "topicTitle": "Neurotransmitters & Synaptic Integration",
+          "connection": "Explain synaptic transmission, integration, and drug effects."
+        },
+        {
+          "term": "serotonin",
+          "priority": "Core",
+          "topic": "5.5",
+          "topicTitle": "Neurotransmitters & Synaptic Integration",
+          "connection": "Explain synaptic transmission, integration, and drug effects."
+        },
+        {
+          "term": "norepinephrine",
+          "priority": "Core",
+          "topic": "5.5",
+          "topicTitle": "Neurotransmitters & Synaptic Integration",
+          "connection": "Explain synaptic transmission, integration, and drug effects."
+        },
+        {
+          "term": "GABA",
+          "priority": "Core",
+          "topic": "5.5",
+          "topicTitle": "Neurotransmitters & Synaptic Integration",
+          "connection": "Explain synaptic transmission, integration, and drug effects."
+        },
+        {
+          "term": "glutamate",
+          "priority": "Core",
+          "topic": "5.5",
+          "topicTitle": "Neurotransmitters & Synaptic Integration",
+          "connection": "Explain synaptic transmission, integration, and drug effects."
+        },
+        {
+          "term": "agonist",
+          "priority": "Core",
+          "topic": "5.5",
+          "topicTitle": "Neurotransmitters & Synaptic Integration",
+          "connection": "Explain synaptic transmission, integration, and drug effects."
+        },
+        {
+          "term": "antagonist",
+          "priority": "Core",
+          "topic": "5.5",
+          "topicTitle": "Neurotransmitters & Synaptic Integration",
+          "connection": "Explain synaptic transmission, integration, and drug effects."
+        },
+        {
+          "term": "sensation",
+          "priority": "Core",
+          "topic": "5.6",
+          "topicTitle": "Sensory Receptors & Signal Transduction",
+          "connection": "Explain sensory reception and signal transduction."
+        },
+        {
+          "term": "perception",
+          "priority": "Core",
+          "topic": "5.6",
+          "topicTitle": "Sensory Receptors & Signal Transduction",
+          "connection": "Explain sensory reception and signal transduction."
+        },
+        {
+          "term": "sensory receptor",
+          "priority": "Core",
+          "topic": "5.6",
+          "topicTitle": "Sensory Receptors & Signal Transduction",
+          "connection": "Explain sensory reception and signal transduction."
+        },
+        {
+          "term": "signal transduction",
+          "priority": "Core",
+          "topic": "5.6",
+          "topicTitle": "Sensory Receptors & Signal Transduction",
+          "connection": "Explain sensory reception and signal transduction."
+        },
+        {
+          "term": "receptor potential",
+          "priority": "Core",
+          "topic": "5.6",
+          "topicTitle": "Sensory Receptors & Signal Transduction",
+          "connection": "Explain sensory reception and signal transduction."
+        },
+        {
+          "term": "mechanoreceptor",
+          "priority": "Core",
+          "topic": "5.6",
+          "topicTitle": "Sensory Receptors & Signal Transduction",
+          "connection": "Explain sensory reception and signal transduction."
+        },
+        {
+          "term": "thermoreceptor",
+          "priority": "Core",
+          "topic": "5.6",
+          "topicTitle": "Sensory Receptors & Signal Transduction",
+          "connection": "Explain sensory reception and signal transduction."
+        },
+        {
+          "term": "chemoreceptor",
+          "priority": "Core",
+          "topic": "5.6",
+          "topicTitle": "Sensory Receptors & Signal Transduction",
+          "connection": "Explain sensory reception and signal transduction."
+        },
+        {
+          "term": "photoreceptor",
+          "priority": "Core",
+          "topic": "5.6",
+          "topicTitle": "Sensory Receptors & Signal Transduction",
+          "connection": "Explain sensory reception and signal transduction."
+        },
+        {
+          "term": "nociceptor",
+          "priority": "Core",
+          "topic": "5.6",
+          "topicTitle": "Sensory Receptors & Signal Transduction",
+          "connection": "Explain sensory reception and signal transduction."
+        },
+        {
+          "term": "proprioceptor",
+          "priority": "Core",
+          "topic": "5.6",
+          "topicTitle": "Sensory Receptors & Signal Transduction",
+          "connection": "Explain sensory reception and signal transduction."
+        },
+        {
+          "term": "adaptation",
+          "priority": "Core",
+          "topic": "5.6",
+          "topicTitle": "Sensory Receptors & Signal Transduction",
+          "connection": "Explain sensory reception and signal transduction."
+        },
+        {
+          "term": "receptive field",
+          "priority": "Core",
+          "topic": "5.6",
+          "topicTitle": "Sensory Receptors & Signal Transduction",
+          "connection": "Explain sensory reception and signal transduction."
+        },
+        {
+          "term": "generator potential",
+          "priority": "Honors Extension",
+          "topic": "5.6",
+          "topicTitle": "Sensory Receptors & Signal Transduction",
+          "connection": "Explain sensory reception and signal transduction."
+        },
+        {
+          "term": "cornea",
+          "priority": "Core",
+          "topic": "5.7",
+          "topicTitle": "Vision & Somatic Sensation",
+          "connection": "Relate eye structure to vision and skin receptors to somatic sensation."
+        },
+        {
+          "term": "sclera",
+          "priority": "Core",
+          "topic": "5.7",
+          "topicTitle": "Vision & Somatic Sensation",
+          "connection": "Relate eye structure to vision and skin receptors to somatic sensation."
+        },
+        {
+          "term": "choroid",
+          "priority": "Core",
+          "topic": "5.7",
+          "topicTitle": "Vision & Somatic Sensation",
+          "connection": "Relate eye structure to vision and skin receptors to somatic sensation."
+        },
+        {
+          "term": "iris",
+          "priority": "Core",
+          "topic": "5.7",
+          "topicTitle": "Vision & Somatic Sensation",
+          "connection": "Relate eye structure to vision and skin receptors to somatic sensation."
+        },
+        {
+          "term": "pupil",
+          "priority": "Core",
+          "topic": "5.7",
+          "topicTitle": "Vision & Somatic Sensation",
+          "connection": "Relate eye structure to vision and skin receptors to somatic sensation."
+        },
+        {
+          "term": "lens",
+          "priority": "Core",
+          "topic": "5.7",
+          "topicTitle": "Vision & Somatic Sensation",
+          "connection": "Relate eye structure to vision and skin receptors to somatic sensation."
+        },
+        {
+          "term": "ciliary body",
+          "priority": "Core",
+          "topic": "5.7",
+          "topicTitle": "Vision & Somatic Sensation",
+          "connection": "Relate eye structure to vision and skin receptors to somatic sensation."
+        },
+        {
+          "term": "aqueous humor",
+          "priority": "Core",
+          "topic": "5.7",
+          "topicTitle": "Vision & Somatic Sensation",
+          "connection": "Relate eye structure to vision and skin receptors to somatic sensation."
+        },
+        {
+          "term": "vitreous humor",
+          "priority": "Core",
+          "topic": "5.7",
+          "topicTitle": "Vision & Somatic Sensation",
+          "connection": "Relate eye structure to vision and skin receptors to somatic sensation."
+        },
+        {
+          "term": "retina",
+          "priority": "Core",
+          "topic": "5.7",
+          "topicTitle": "Vision & Somatic Sensation",
+          "connection": "Relate eye structure to vision and skin receptors to somatic sensation."
+        },
+        {
+          "term": "optic nerve",
+          "priority": "Core",
+          "topic": "5.7",
+          "topicTitle": "Vision & Somatic Sensation",
+          "connection": "Relate eye structure to vision and skin receptors to somatic sensation."
+        },
+        {
+          "term": "blind spot",
+          "priority": "Core",
+          "topic": "5.7",
+          "topicTitle": "Vision & Somatic Sensation",
+          "connection": "Relate eye structure to vision and skin receptors to somatic sensation."
+        },
+        {
+          "term": "rod",
+          "priority": "Core",
+          "topic": "5.7",
+          "topicTitle": "Vision & Somatic Sensation",
+          "connection": "Relate eye structure to vision and skin receptors to somatic sensation."
+        },
+        {
+          "term": "cone",
+          "priority": "Core",
+          "topic": "5.7",
+          "topicTitle": "Vision & Somatic Sensation",
+          "connection": "Relate eye structure to vision and skin receptors to somatic sensation."
+        },
+        {
+          "term": "fovea centralis",
+          "priority": "Core",
+          "topic": "5.7",
+          "topicTitle": "Vision & Somatic Sensation",
+          "connection": "Relate eye structure to vision and skin receptors to somatic sensation."
+        },
+        {
+          "term": "accommodation",
+          "priority": "Core",
+          "topic": "5.7",
+          "topicTitle": "Vision & Somatic Sensation",
+          "connection": "Relate eye structure to vision and skin receptors to somatic sensation."
+        },
+        {
+          "term": "refraction",
+          "priority": "Core",
+          "topic": "5.7",
+          "topicTitle": "Vision & Somatic Sensation",
+          "connection": "Relate eye structure to vision and skin receptors to somatic sensation."
+        },
+        {
+          "term": "myopia",
+          "priority": "Core",
+          "topic": "5.7",
+          "topicTitle": "Vision & Somatic Sensation",
+          "connection": "Relate eye structure to vision and skin receptors to somatic sensation."
+        },
+        {
+          "term": "hyperopia",
+          "priority": "Core",
+          "topic": "5.7",
+          "topicTitle": "Vision & Somatic Sensation",
+          "connection": "Relate eye structure to vision and skin receptors to somatic sensation."
+        },
+        {
+          "term": "hypermetropia",
+          "priority": "Honors Extension",
+          "topic": "5.7",
+          "topicTitle": "Vision & Somatic Sensation",
+          "connection": "Relate eye structure to vision and skin receptors to somatic sensation."
+        },
+        {
+          "term": "astigmatism",
+          "priority": "Core",
+          "topic": "5.7",
+          "topicTitle": "Vision & Somatic Sensation",
+          "connection": "Relate eye structure to vision and skin receptors to somatic sensation."
+        },
+        {
+          "term": "cutaneous receptor",
+          "priority": "Core",
+          "topic": "5.7",
+          "topicTitle": "Vision & Somatic Sensation",
+          "connection": "Relate eye structure to vision and skin receptors to somatic sensation."
+        },
+        {
+          "term": "free nerve ending",
+          "priority": "Core",
+          "topic": "5.7",
+          "topicTitle": "Vision & Somatic Sensation",
+          "connection": "Relate eye structure to vision and skin receptors to somatic sensation."
+        },
+        {
+          "term": "tactile corpuscle",
+          "priority": "Core",
+          "topic": "5.7",
+          "topicTitle": "Vision & Somatic Sensation",
+          "connection": "Relate eye structure to vision and skin receptors to somatic sensation."
+        },
+        {
+          "term": "lamellar corpuscle",
+          "priority": "Core",
+          "topic": "5.7",
+          "topicTitle": "Vision & Somatic Sensation",
+          "connection": "Relate eye structure to vision and skin receptors to somatic sensation."
+        },
+        {
+          "term": "nociception",
+          "priority": "Core",
+          "topic": "5.7",
+          "topicTitle": "Vision & Somatic Sensation",
+          "connection": "Relate eye structure to vision and skin receptors to somatic sensation."
+        },
+        {
+          "term": "auricle",
+          "priority": "Core",
+          "topic": "5.8",
+          "topicTitle": "Hearing, Balance, Taste, Smell & Nervous-System Aging",
+          "connection": "Explain hearing, balance, taste, smell, and nervous-system aging."
+        },
+        {
+          "term": "pinna",
+          "priority": "Core",
+          "topic": "5.8",
+          "topicTitle": "Hearing, Balance, Taste, Smell & Nervous-System Aging",
+          "connection": "Explain hearing, balance, taste, smell, and nervous-system aging."
+        },
+        {
+          "term": "external auditory canal",
+          "priority": "Core",
+          "topic": "5.8",
+          "topicTitle": "Hearing, Balance, Taste, Smell & Nervous-System Aging",
+          "connection": "Explain hearing, balance, taste, smell, and nervous-system aging."
+        },
+        {
+          "term": "tympanic membrane",
+          "priority": "Core",
+          "topic": "5.8",
+          "topicTitle": "Hearing, Balance, Taste, Smell & Nervous-System Aging",
+          "connection": "Explain hearing, balance, taste, smell, and nervous-system aging."
+        },
+        {
+          "term": "ossicle",
+          "priority": "Core",
+          "topic": "5.8",
+          "topicTitle": "Hearing, Balance, Taste, Smell & Nervous-System Aging",
+          "connection": "Explain hearing, balance, taste, smell, and nervous-system aging."
+        },
+        {
+          "term": "malleus",
+          "priority": "Core",
+          "topic": "5.8",
+          "topicTitle": "Hearing, Balance, Taste, Smell & Nervous-System Aging",
+          "connection": "Explain hearing, balance, taste, smell, and nervous-system aging."
+        },
+        {
+          "term": "incus",
+          "priority": "Core",
+          "topic": "5.8",
+          "topicTitle": "Hearing, Balance, Taste, Smell & Nervous-System Aging",
+          "connection": "Explain hearing, balance, taste, smell, and nervous-system aging."
+        },
+        {
+          "term": "stapes",
+          "priority": "Core",
+          "topic": "5.8",
+          "topicTitle": "Hearing, Balance, Taste, Smell & Nervous-System Aging",
+          "connection": "Explain hearing, balance, taste, smell, and nervous-system aging."
+        },
+        {
+          "term": "auditory tube",
+          "priority": "Core",
+          "topic": "5.8",
+          "topicTitle": "Hearing, Balance, Taste, Smell & Nervous-System Aging",
+          "connection": "Explain hearing, balance, taste, smell, and nervous-system aging."
+        },
+        {
+          "term": "cochlea",
+          "priority": "Core",
+          "topic": "5.8",
+          "topicTitle": "Hearing, Balance, Taste, Smell & Nervous-System Aging",
+          "connection": "Explain hearing, balance, taste, smell, and nervous-system aging."
+        },
+        {
+          "term": "organ of Corti",
+          "priority": "Core",
+          "topic": "5.8",
+          "topicTitle": "Hearing, Balance, Taste, Smell & Nervous-System Aging",
+          "connection": "Explain hearing, balance, taste, smell, and nervous-system aging."
+        },
+        {
+          "term": "hair cell",
+          "priority": "Core",
+          "topic": "5.8",
+          "topicTitle": "Hearing, Balance, Taste, Smell & Nervous-System Aging",
+          "connection": "Explain hearing, balance, taste, smell, and nervous-system aging."
+        },
+        {
+          "term": "vestibule",
+          "priority": "Core",
+          "topic": "5.8",
+          "topicTitle": "Hearing, Balance, Taste, Smell & Nervous-System Aging",
+          "connection": "Explain hearing, balance, taste, smell, and nervous-system aging."
+        },
+        {
+          "term": "semicircular canal",
+          "priority": "Core",
+          "topic": "5.8",
+          "topicTitle": "Hearing, Balance, Taste, Smell & Nervous-System Aging",
+          "connection": "Explain hearing, balance, taste, smell, and nervous-system aging."
+        },
+        {
+          "term": "vestibular apparatus",
+          "priority": "Core",
+          "topic": "5.8",
+          "topicTitle": "Hearing, Balance, Taste, Smell & Nervous-System Aging",
+          "connection": "Explain hearing, balance, taste, smell, and nervous-system aging."
+        },
+        {
+          "term": "equilibrium",
+          "priority": "Core",
+          "topic": "5.8",
+          "topicTitle": "Hearing, Balance, Taste, Smell & Nervous-System Aging",
+          "connection": "Explain hearing, balance, taste, smell, and nervous-system aging."
+        },
+        {
+          "term": "gustation",
+          "priority": "Core",
+          "topic": "5.8",
+          "topicTitle": "Hearing, Balance, Taste, Smell & Nervous-System Aging",
+          "connection": "Explain hearing, balance, taste, smell, and nervous-system aging."
+        },
+        {
+          "term": "taste bud",
+          "priority": "Core",
+          "topic": "5.8",
+          "topicTitle": "Hearing, Balance, Taste, Smell & Nervous-System Aging",
+          "connection": "Explain hearing, balance, taste, smell, and nervous-system aging."
+        },
+        {
+          "term": "olfaction",
+          "priority": "Core",
+          "topic": "5.8",
+          "topicTitle": "Hearing, Balance, Taste, Smell & Nervous-System Aging",
+          "connection": "Explain hearing, balance, taste, smell, and nervous-system aging."
+        },
+        {
+          "term": "olfactory epithelium",
+          "priority": "Core",
+          "topic": "5.8",
+          "topicTitle": "Hearing, Balance, Taste, Smell & Nervous-System Aging",
+          "connection": "Explain hearing, balance, taste, smell, and nervous-system aging."
+        },
+        {
+          "term": "conductive hearing loss",
+          "priority": "Core",
+          "topic": "5.8",
+          "topicTitle": "Hearing, Balance, Taste, Smell & Nervous-System Aging",
+          "connection": "Explain hearing, balance, taste, smell, and nervous-system aging."
+        },
+        {
+          "term": "sensorineural hearing loss",
+          "priority": "Core",
+          "topic": "5.8",
+          "topicTitle": "Hearing, Balance, Taste, Smell & Nervous-System Aging",
+          "connection": "Explain hearing, balance, taste, smell, and nervous-system aging."
+        },
+        {
+          "term": "presbycusis",
+          "priority": "Core",
+          "topic": "5.8",
+          "topicTitle": "Hearing, Balance, Taste, Smell & Nervous-System Aging",
+          "connection": "Explain hearing, balance, taste, smell, and nervous-system aging."
+        },
+        {
+          "term": "dementia",
+          "priority": "Core",
+          "topic": "5.8",
+          "topicTitle": "Hearing, Balance, Taste, Smell & Nervous-System Aging",
+          "connection": "Explain hearing, balance, taste, smell, and nervous-system aging."
+        },
+        {
+          "term": "Alzheimer disease",
+          "priority": "Core",
+          "topic": "5.8",
+          "topicTitle": "Hearing, Balance, Taste, Smell & Nervous-System Aging",
+          "connection": "Explain hearing, balance, taste, smell, and nervous-system aging."
+        },
+        {
+          "term": "amyloid plaque",
+          "priority": "Honors Extension",
+          "topic": "5.8",
+          "topicTitle": "Hearing, Balance, Taste, Smell & Nervous-System Aging",
+          "connection": "Explain hearing, balance, taste, smell, and nervous-system aging."
+        },
+        {
+          "term": "neurofibrillary tangle",
+          "priority": "Honors Extension",
+          "topic": "5.8",
+          "topicTitle": "Hearing, Balance, Taste, Smell & Nervous-System Aging",
+          "connection": "Explain hearing, balance, taste, smell, and nervous-system aging."
+        }
       ],
       "topics": [
         {
@@ -875,6 +5668,750 @@ window.COURSE_DATA = {
         "negative feedback",
         "antagonistic hormones"
       ],
+      "vocabularyRecords": [
+        {
+          "term": "endocrine system",
+          "priority": "Core",
+          "topic": "6.1",
+          "topicTitle": "Endocrine Glands & Hormonal Regulation",
+          "connection": "Explain endocrine glands, hormones, target cells, and antagonistic regulation."
+        },
+        {
+          "term": "endocrine gland",
+          "priority": "Core",
+          "topic": "6.1",
+          "topicTitle": "Endocrine Glands & Hormonal Regulation",
+          "connection": "Explain endocrine glands, hormones, target cells, and antagonistic regulation."
+        },
+        {
+          "term": "exocrine gland",
+          "priority": "Core",
+          "topic": "6.1",
+          "topicTitle": "Endocrine Glands & Hormonal Regulation",
+          "connection": "Explain endocrine glands, hormones, target cells, and antagonistic regulation."
+        },
+        {
+          "term": "hormone",
+          "priority": "Core",
+          "topic": "6.1",
+          "topicTitle": "Endocrine Glands & Hormonal Regulation",
+          "connection": "Explain endocrine glands, hormones, target cells, and antagonistic regulation."
+        },
+        {
+          "term": "target cell",
+          "priority": "Core",
+          "topic": "6.1",
+          "topicTitle": "Endocrine Glands & Hormonal Regulation",
+          "connection": "Explain endocrine glands, hormones, target cells, and antagonistic regulation."
+        },
+        {
+          "term": "hormone receptor",
+          "priority": "Core",
+          "topic": "6.1",
+          "topicTitle": "Endocrine Glands & Hormonal Regulation",
+          "connection": "Explain endocrine glands, hormones, target cells, and antagonistic regulation."
+        },
+        {
+          "term": "circulating hormone",
+          "priority": "Core",
+          "topic": "6.1",
+          "topicTitle": "Endocrine Glands & Hormonal Regulation",
+          "connection": "Explain endocrine glands, hormones, target cells, and antagonistic regulation."
+        },
+        {
+          "term": "local hormone",
+          "priority": "Honors Extension",
+          "topic": "6.1",
+          "topicTitle": "Endocrine Glands & Hormonal Regulation",
+          "connection": "Explain endocrine glands, hormones, target cells, and antagonistic regulation."
+        },
+        {
+          "term": "antagonistic hormone",
+          "priority": "Core",
+          "topic": "6.1",
+          "topicTitle": "Endocrine Glands & Hormonal Regulation",
+          "connection": "Explain endocrine glands, hormones, target cells, and antagonistic regulation."
+        },
+        {
+          "term": "pituitary gland",
+          "priority": "Core",
+          "topic": "6.1",
+          "topicTitle": "Endocrine Glands & Hormonal Regulation",
+          "connection": "Explain endocrine glands, hormones, target cells, and antagonistic regulation."
+        },
+        {
+          "term": "thyroid gland",
+          "priority": "Core",
+          "topic": "6.1",
+          "topicTitle": "Endocrine Glands & Hormonal Regulation",
+          "connection": "Explain endocrine glands, hormones, target cells, and antagonistic regulation."
+        },
+        {
+          "term": "parathyroid gland",
+          "priority": "Core",
+          "topic": "6.1",
+          "topicTitle": "Endocrine Glands & Hormonal Regulation",
+          "connection": "Explain endocrine glands, hormones, target cells, and antagonistic regulation."
+        },
+        {
+          "term": "adrenal gland",
+          "priority": "Core",
+          "topic": "6.1",
+          "topicTitle": "Endocrine Glands & Hormonal Regulation",
+          "connection": "Explain endocrine glands, hormones, target cells, and antagonistic regulation."
+        },
+        {
+          "term": "pineal gland",
+          "priority": "Core",
+          "topic": "6.1",
+          "topicTitle": "Endocrine Glands & Hormonal Regulation",
+          "connection": "Explain endocrine glands, hormones, target cells, and antagonistic regulation."
+        },
+        {
+          "term": "thymus",
+          "priority": "Core",
+          "topic": "6.1",
+          "topicTitle": "Endocrine Glands & Hormonal Regulation",
+          "connection": "Explain endocrine glands, hormones, target cells, and antagonistic regulation."
+        },
+        {
+          "term": "pancreatic islet",
+          "priority": "Core",
+          "topic": "6.1",
+          "topicTitle": "Endocrine Glands & Hormonal Regulation",
+          "connection": "Explain endocrine glands, hormones, target cells, and antagonistic regulation."
+        },
+        {
+          "term": "gonad",
+          "priority": "Core",
+          "topic": "6.1",
+          "topicTitle": "Endocrine Glands & Hormonal Regulation",
+          "connection": "Explain endocrine glands, hormones, target cells, and antagonistic regulation."
+        },
+        {
+          "term": "negative feedback",
+          "priority": "Core",
+          "topic": "6.1",
+          "topicTitle": "Endocrine Glands & Hormonal Regulation",
+          "connection": "Explain endocrine glands, hormones, target cells, and antagonistic regulation."
+        },
+        {
+          "term": "hypothalamus",
+          "priority": "Core",
+          "topic": "6.2",
+          "topicTitle": "Pituitary, Hypothalamus & Pancreas",
+          "connection": "Explain coordination by the hypothalamus, pituitary, and pancreas."
+        },
+        {
+          "term": "anterior pituitary",
+          "priority": "Core",
+          "topic": "6.2",
+          "topicTitle": "Pituitary, Hypothalamus & Pancreas",
+          "connection": "Explain coordination by the hypothalamus, pituitary, and pancreas."
+        },
+        {
+          "term": "posterior pituitary",
+          "priority": "Core",
+          "topic": "6.2",
+          "topicTitle": "Pituitary, Hypothalamus & Pancreas",
+          "connection": "Explain coordination by the hypothalamus, pituitary, and pancreas."
+        },
+        {
+          "term": "releasing hormone",
+          "priority": "Core",
+          "topic": "6.2",
+          "topicTitle": "Pituitary, Hypothalamus & Pancreas",
+          "connection": "Explain coordination by the hypothalamus, pituitary, and pancreas."
+        },
+        {
+          "term": "inhibiting hormone",
+          "priority": "Honors Extension",
+          "topic": "6.2",
+          "topicTitle": "Pituitary, Hypothalamus & Pancreas",
+          "connection": "Explain coordination by the hypothalamus, pituitary, and pancreas."
+        },
+        {
+          "term": "growth hormone",
+          "priority": "Core",
+          "topic": "6.2",
+          "topicTitle": "Pituitary, Hypothalamus & Pancreas",
+          "connection": "Explain coordination by the hypothalamus, pituitary, and pancreas."
+        },
+        {
+          "term": "GH",
+          "priority": "Core",
+          "topic": "6.2",
+          "topicTitle": "Pituitary, Hypothalamus & Pancreas",
+          "connection": "Explain coordination by the hypothalamus, pituitary, and pancreas."
+        },
+        {
+          "term": "thyroid-stimulating hormone",
+          "priority": "Core",
+          "topic": "6.2",
+          "topicTitle": "Pituitary, Hypothalamus & Pancreas",
+          "connection": "Explain coordination by the hypothalamus, pituitary, and pancreas."
+        },
+        {
+          "term": "TSH",
+          "priority": "Core",
+          "topic": "6.2",
+          "topicTitle": "Pituitary, Hypothalamus & Pancreas",
+          "connection": "Explain coordination by the hypothalamus, pituitary, and pancreas."
+        },
+        {
+          "term": "adrenocorticotropic hormone",
+          "priority": "Core",
+          "topic": "6.2",
+          "topicTitle": "Pituitary, Hypothalamus & Pancreas",
+          "connection": "Explain coordination by the hypothalamus, pituitary, and pancreas."
+        },
+        {
+          "term": "ACTH",
+          "priority": "Core",
+          "topic": "6.2",
+          "topicTitle": "Pituitary, Hypothalamus & Pancreas",
+          "connection": "Explain coordination by the hypothalamus, pituitary, and pancreas."
+        },
+        {
+          "term": "follicle-stimulating hormone",
+          "priority": "Core",
+          "topic": "6.2",
+          "topicTitle": "Pituitary, Hypothalamus & Pancreas",
+          "connection": "Explain coordination by the hypothalamus, pituitary, and pancreas."
+        },
+        {
+          "term": "FSH",
+          "priority": "Core",
+          "topic": "6.2",
+          "topicTitle": "Pituitary, Hypothalamus & Pancreas",
+          "connection": "Explain coordination by the hypothalamus, pituitary, and pancreas."
+        },
+        {
+          "term": "luteinizing hormone",
+          "priority": "Core",
+          "topic": "6.2",
+          "topicTitle": "Pituitary, Hypothalamus & Pancreas",
+          "connection": "Explain coordination by the hypothalamus, pituitary, and pancreas."
+        },
+        {
+          "term": "LH",
+          "priority": "Core",
+          "topic": "6.2",
+          "topicTitle": "Pituitary, Hypothalamus & Pancreas",
+          "connection": "Explain coordination by the hypothalamus, pituitary, and pancreas."
+        },
+        {
+          "term": "prolactin",
+          "priority": "Core",
+          "topic": "6.2",
+          "topicTitle": "Pituitary, Hypothalamus & Pancreas",
+          "connection": "Explain coordination by the hypothalamus, pituitary, and pancreas."
+        },
+        {
+          "term": "antidiuretic hormone",
+          "priority": "Core",
+          "topic": "6.2",
+          "topicTitle": "Pituitary, Hypothalamus & Pancreas",
+          "connection": "Explain coordination by the hypothalamus, pituitary, and pancreas."
+        },
+        {
+          "term": "ADH",
+          "priority": "Core",
+          "topic": "6.2",
+          "topicTitle": "Pituitary, Hypothalamus & Pancreas",
+          "connection": "Explain coordination by the hypothalamus, pituitary, and pancreas."
+        },
+        {
+          "term": "oxytocin",
+          "priority": "Core",
+          "topic": "6.2",
+          "topicTitle": "Pituitary, Hypothalamus & Pancreas",
+          "connection": "Explain coordination by the hypothalamus, pituitary, and pancreas."
+        },
+        {
+          "term": "pancreas",
+          "priority": "Core",
+          "topic": "6.2",
+          "topicTitle": "Pituitary, Hypothalamus & Pancreas",
+          "connection": "Explain coordination by the hypothalamus, pituitary, and pancreas."
+        },
+        {
+          "term": "alpha cell",
+          "priority": "Core",
+          "topic": "6.2",
+          "topicTitle": "Pituitary, Hypothalamus & Pancreas",
+          "connection": "Explain coordination by the hypothalamus, pituitary, and pancreas."
+        },
+        {
+          "term": "beta cell",
+          "priority": "Core",
+          "topic": "6.2",
+          "topicTitle": "Pituitary, Hypothalamus & Pancreas",
+          "connection": "Explain coordination by the hypothalamus, pituitary, and pancreas."
+        },
+        {
+          "term": "insulin",
+          "priority": "Core",
+          "topic": "6.2",
+          "topicTitle": "Pituitary, Hypothalamus & Pancreas",
+          "connection": "Explain coordination by the hypothalamus, pituitary, and pancreas."
+        },
+        {
+          "term": "glucagon",
+          "priority": "Core",
+          "topic": "6.2",
+          "topicTitle": "Pituitary, Hypothalamus & Pancreas",
+          "connection": "Explain coordination by the hypothalamus, pituitary, and pancreas."
+        },
+        {
+          "term": "ligand",
+          "priority": "Core",
+          "topic": "6.3",
+          "topicTitle": "Cell Signaling & Signal Transduction",
+          "connection": "Explain ligands, receptors, and signal-transduction pathways."
+        },
+        {
+          "term": "receptor",
+          "priority": "Core",
+          "topic": "6.3",
+          "topicTitle": "Cell Signaling & Signal Transduction",
+          "connection": "Explain ligands, receptors, and signal-transduction pathways."
+        },
+        {
+          "term": "signal transduction",
+          "priority": "Core",
+          "topic": "6.3",
+          "topicTitle": "Cell Signaling & Signal Transduction",
+          "connection": "Explain ligands, receptors, and signal-transduction pathways."
+        },
+        {
+          "term": "endocrine signaling",
+          "priority": "Core",
+          "topic": "6.3",
+          "topicTitle": "Cell Signaling & Signal Transduction",
+          "connection": "Explain ligands, receptors, and signal-transduction pathways."
+        },
+        {
+          "term": "paracrine signaling",
+          "priority": "Honors Extension",
+          "topic": "6.3",
+          "topicTitle": "Cell Signaling & Signal Transduction",
+          "connection": "Explain ligands, receptors, and signal-transduction pathways."
+        },
+        {
+          "term": "autocrine signaling",
+          "priority": "Honors Extension",
+          "topic": "6.3",
+          "topicTitle": "Cell Signaling & Signal Transduction",
+          "connection": "Explain ligands, receptors, and signal-transduction pathways."
+        },
+        {
+          "term": "synaptic signaling",
+          "priority": "Core",
+          "topic": "6.3",
+          "topicTitle": "Cell Signaling & Signal Transduction",
+          "connection": "Explain ligands, receptors, and signal-transduction pathways."
+        },
+        {
+          "term": "hydrophilic hormone",
+          "priority": "Core",
+          "topic": "6.3",
+          "topicTitle": "Cell Signaling & Signal Transduction",
+          "connection": "Explain ligands, receptors, and signal-transduction pathways."
+        },
+        {
+          "term": "hydrophobic hormone",
+          "priority": "Core",
+          "topic": "6.3",
+          "topicTitle": "Cell Signaling & Signal Transduction",
+          "connection": "Explain ligands, receptors, and signal-transduction pathways."
+        },
+        {
+          "term": "steroid hormone",
+          "priority": "Core",
+          "topic": "6.3",
+          "topicTitle": "Cell Signaling & Signal Transduction",
+          "connection": "Explain ligands, receptors, and signal-transduction pathways."
+        },
+        {
+          "term": "peptide hormone",
+          "priority": "Core",
+          "topic": "6.3",
+          "topicTitle": "Cell Signaling & Signal Transduction",
+          "connection": "Explain ligands, receptors, and signal-transduction pathways."
+        },
+        {
+          "term": "second messenger",
+          "priority": "Honors Extension",
+          "topic": "6.3",
+          "topicTitle": "Cell Signaling & Signal Transduction",
+          "connection": "Explain ligands, receptors, and signal-transduction pathways."
+        },
+        {
+          "term": "cyclic AMP",
+          "priority": "Core",
+          "topic": "6.3",
+          "topicTitle": "Cell Signaling & Signal Transduction",
+          "connection": "Explain ligands, receptors, and signal-transduction pathways."
+        },
+        {
+          "term": "cAMP",
+          "priority": "Core",
+          "topic": "6.3",
+          "topicTitle": "Cell Signaling & Signal Transduction",
+          "connection": "Explain ligands, receptors, and signal-transduction pathways."
+        },
+        {
+          "term": "protein kinase",
+          "priority": "Honors Extension",
+          "topic": "6.3",
+          "topicTitle": "Cell Signaling & Signal Transduction",
+          "connection": "Explain ligands, receptors, and signal-transduction pathways."
+        },
+        {
+          "term": "phosphorylation",
+          "priority": "Core",
+          "topic": "6.3",
+          "topicTitle": "Cell Signaling & Signal Transduction",
+          "connection": "Explain ligands, receptors, and signal-transduction pathways."
+        },
+        {
+          "term": "signal cascade",
+          "priority": "Core",
+          "topic": "6.3",
+          "topicTitle": "Cell Signaling & Signal Transduction",
+          "connection": "Explain ligands, receptors, and signal-transduction pathways."
+        },
+        {
+          "term": "signal amplification",
+          "priority": "Core",
+          "topic": "6.3",
+          "topicTitle": "Cell Signaling & Signal Transduction",
+          "connection": "Explain ligands, receptors, and signal-transduction pathways."
+        },
+        {
+          "term": "G protein",
+          "priority": "Core",
+          "topic": "6.3",
+          "topicTitle": "Cell Signaling & Signal Transduction",
+          "connection": "Explain ligands, receptors, and signal-transduction pathways."
+        },
+        {
+          "term": "gene transcription",
+          "priority": "Core",
+          "topic": "6.3",
+          "topicTitle": "Cell Signaling & Signal Transduction",
+          "connection": "Explain ligands, receptors, and signal-transduction pathways."
+        },
+        {
+          "term": "blood glucose",
+          "priority": "Core",
+          "topic": "6.4",
+          "topicTitle": "Hormonal Homeostasis: Temperature & Blood Glucose",
+          "connection": "Explain hormonal feedback in thermoregulation and blood-glucose control."
+        },
+        {
+          "term": "glycogen",
+          "priority": "Core",
+          "topic": "6.4",
+          "topicTitle": "Hormonal Homeostasis: Temperature & Blood Glucose",
+          "connection": "Explain hormonal feedback in thermoregulation and blood-glucose control."
+        },
+        {
+          "term": "glycogenesis",
+          "priority": "Core",
+          "topic": "6.4",
+          "topicTitle": "Hormonal Homeostasis: Temperature & Blood Glucose",
+          "connection": "Explain hormonal feedback in thermoregulation and blood-glucose control."
+        },
+        {
+          "term": "glycogenolysis",
+          "priority": "Core",
+          "topic": "6.4",
+          "topicTitle": "Hormonal Homeostasis: Temperature & Blood Glucose",
+          "connection": "Explain hormonal feedback in thermoregulation and blood-glucose control."
+        },
+        {
+          "term": "gluconeogenesis",
+          "priority": "Core",
+          "topic": "6.4",
+          "topicTitle": "Hormonal Homeostasis: Temperature & Blood Glucose",
+          "connection": "Explain hormonal feedback in thermoregulation and blood-glucose control."
+        },
+        {
+          "term": "epinephrine",
+          "priority": "Core",
+          "topic": "6.4",
+          "topicTitle": "Hormonal Homeostasis: Temperature & Blood Glucose",
+          "connection": "Explain hormonal feedback in thermoregulation and blood-glucose control."
+        },
+        {
+          "term": "glucocorticoid",
+          "priority": "Core",
+          "topic": "6.4",
+          "topicTitle": "Hormonal Homeostasis: Temperature & Blood Glucose",
+          "connection": "Explain hormonal feedback in thermoregulation and blood-glucose control."
+        },
+        {
+          "term": "cortisol",
+          "priority": "Core",
+          "topic": "6.4",
+          "topicTitle": "Hormonal Homeostasis: Temperature & Blood Glucose",
+          "connection": "Explain hormonal feedback in thermoregulation and blood-glucose control."
+        },
+        {
+          "term": "liver",
+          "priority": "Core",
+          "topic": "6.4",
+          "topicTitle": "Hormonal Homeostasis: Temperature & Blood Glucose",
+          "connection": "Explain hormonal feedback in thermoregulation and blood-glucose control."
+        },
+        {
+          "term": "thermoregulation",
+          "priority": "Core",
+          "topic": "6.4",
+          "topicTitle": "Hormonal Homeostasis: Temperature & Blood Glucose",
+          "connection": "Explain hormonal feedback in thermoregulation and blood-glucose control."
+        },
+        {
+          "term": "thyroxine",
+          "priority": "Core",
+          "topic": "6.4",
+          "topicTitle": "Hormonal Homeostasis: Temperature & Blood Glucose",
+          "connection": "Explain hormonal feedback in thermoregulation and blood-glucose control."
+        },
+        {
+          "term": "metabolic rate",
+          "priority": "Core",
+          "topic": "6.4",
+          "topicTitle": "Hormonal Homeostasis: Temperature & Blood Glucose",
+          "connection": "Explain hormonal feedback in thermoregulation and blood-glucose control."
+        },
+        {
+          "term": "diabetes mellitus",
+          "priority": "Core",
+          "topic": "6.5",
+          "topicTitle": "Diabetes & Blood-Glucose Disorders",
+          "connection": "Compare diabetes types, consequences, risk factors, and management."
+        },
+        {
+          "term": "type 1 diabetes",
+          "priority": "Core",
+          "topic": "6.5",
+          "topicTitle": "Diabetes & Blood-Glucose Disorders",
+          "connection": "Compare diabetes types, consequences, risk factors, and management."
+        },
+        {
+          "term": "type 2 diabetes",
+          "priority": "Core",
+          "topic": "6.5",
+          "topicTitle": "Diabetes & Blood-Glucose Disorders",
+          "connection": "Compare diabetes types, consequences, risk factors, and management."
+        },
+        {
+          "term": "insulin resistance",
+          "priority": "Core",
+          "topic": "6.5",
+          "topicTitle": "Diabetes & Blood-Glucose Disorders",
+          "connection": "Compare diabetes types, consequences, risk factors, and management."
+        },
+        {
+          "term": "autoimmune disease",
+          "priority": "Core",
+          "topic": "6.5",
+          "topicTitle": "Diabetes & Blood-Glucose Disorders",
+          "connection": "Compare diabetes types, consequences, risk factors, and management."
+        },
+        {
+          "term": "hyperglycemia",
+          "priority": "Core",
+          "topic": "6.5",
+          "topicTitle": "Diabetes & Blood-Glucose Disorders",
+          "connection": "Compare diabetes types, consequences, risk factors, and management."
+        },
+        {
+          "term": "hypoglycemia",
+          "priority": "Core",
+          "topic": "6.5",
+          "topicTitle": "Diabetes & Blood-Glucose Disorders",
+          "connection": "Compare diabetes types, consequences, risk factors, and management."
+        },
+        {
+          "term": "glycosuria",
+          "priority": "Core",
+          "topic": "6.5",
+          "topicTitle": "Diabetes & Blood-Glucose Disorders",
+          "connection": "Compare diabetes types, consequences, risk factors, and management."
+        },
+        {
+          "term": "ketosis",
+          "priority": "Core",
+          "topic": "6.5",
+          "topicTitle": "Diabetes & Blood-Glucose Disorders",
+          "connection": "Compare diabetes types, consequences, risk factors, and management."
+        },
+        {
+          "term": "ketoacidosis",
+          "priority": "Core",
+          "topic": "6.5",
+          "topicTitle": "Diabetes & Blood-Glucose Disorders",
+          "connection": "Compare diabetes types, consequences, risk factors, and management."
+        },
+        {
+          "term": "hemoglobin A1c",
+          "priority": "Core",
+          "topic": "6.5",
+          "topicTitle": "Diabetes & Blood-Glucose Disorders",
+          "connection": "Compare diabetes types, consequences, risk factors, and management."
+        },
+        {
+          "term": "continuous glucose monitor",
+          "priority": "Core",
+          "topic": "6.5",
+          "topicTitle": "Diabetes & Blood-Glucose Disorders",
+          "connection": "Compare diabetes types, consequences, risk factors, and management."
+        },
+        {
+          "term": "insulin therapy",
+          "priority": "Core",
+          "topic": "6.5",
+          "topicTitle": "Diabetes & Blood-Glucose Disorders",
+          "connection": "Compare diabetes types, consequences, risk factors, and management."
+        },
+        {
+          "term": "gestational diabetes",
+          "priority": "Honors Extension",
+          "topic": "6.5",
+          "topicTitle": "Diabetes & Blood-Glucose Disorders",
+          "connection": "Compare diabetes types, consequences, risk factors, and management."
+        },
+        {
+          "term": "prediabetes",
+          "priority": "Core",
+          "topic": "6.5",
+          "topicTitle": "Diabetes & Blood-Glucose Disorders",
+          "connection": "Compare diabetes types, consequences, risk factors, and management."
+        },
+        {
+          "term": "diabetic neuropathy",
+          "priority": "Core",
+          "topic": "6.5",
+          "topicTitle": "Diabetes & Blood-Glucose Disorders",
+          "connection": "Compare diabetes types, consequences, risk factors, and management."
+        },
+        {
+          "term": "diabetic nephropathy",
+          "priority": "Core",
+          "topic": "6.5",
+          "topicTitle": "Diabetes & Blood-Glucose Disorders",
+          "connection": "Compare diabetes types, consequences, risk factors, and management."
+        },
+        {
+          "term": "stress response",
+          "priority": "Core",
+          "topic": "6.6",
+          "topicTitle": "Stress & Endocrine Aging",
+          "connection": "Explain acute and chronic stress responses and endocrine aging."
+        },
+        {
+          "term": "stressor",
+          "priority": "Core",
+          "topic": "6.6",
+          "topicTitle": "Stress & Endocrine Aging",
+          "connection": "Explain acute and chronic stress responses and endocrine aging."
+        },
+        {
+          "term": "alarm reaction",
+          "priority": "Core",
+          "topic": "6.6",
+          "topicTitle": "Stress & Endocrine Aging",
+          "connection": "Explain acute and chronic stress responses and endocrine aging."
+        },
+        {
+          "term": "general adaptation syndrome",
+          "priority": "Core",
+          "topic": "6.6",
+          "topicTitle": "Stress & Endocrine Aging",
+          "connection": "Explain acute and chronic stress responses and endocrine aging."
+        },
+        {
+          "term": "hypothalamic-pituitary-adrenal axis",
+          "priority": "Core",
+          "topic": "6.6",
+          "topicTitle": "Stress & Endocrine Aging",
+          "connection": "Explain acute and chronic stress responses and endocrine aging."
+        },
+        {
+          "term": "HPA axis",
+          "priority": "Honors Extension",
+          "topic": "6.6",
+          "topicTitle": "Stress & Endocrine Aging",
+          "connection": "Explain acute and chronic stress responses and endocrine aging."
+        },
+        {
+          "term": "corticotropin-releasing hormone",
+          "priority": "Core",
+          "topic": "6.6",
+          "topicTitle": "Stress & Endocrine Aging",
+          "connection": "Explain acute and chronic stress responses and endocrine aging."
+        },
+        {
+          "term": "CRH",
+          "priority": "Core",
+          "topic": "6.6",
+          "topicTitle": "Stress & Endocrine Aging",
+          "connection": "Explain acute and chronic stress responses and endocrine aging."
+        },
+        {
+          "term": "adrenal medulla",
+          "priority": "Core",
+          "topic": "6.6",
+          "topicTitle": "Stress & Endocrine Aging",
+          "connection": "Explain acute and chronic stress responses and endocrine aging."
+        },
+        {
+          "term": "norepinephrine",
+          "priority": "Core",
+          "topic": "6.6",
+          "topicTitle": "Stress & Endocrine Aging",
+          "connection": "Explain acute and chronic stress responses and endocrine aging."
+        },
+        {
+          "term": "acute stress",
+          "priority": "Core",
+          "topic": "6.6",
+          "topicTitle": "Stress & Endocrine Aging",
+          "connection": "Explain acute and chronic stress responses and endocrine aging."
+        },
+        {
+          "term": "chronic stress",
+          "priority": "Core",
+          "topic": "6.6",
+          "topicTitle": "Stress & Endocrine Aging",
+          "connection": "Explain acute and chronic stress responses and endocrine aging."
+        },
+        {
+          "term": "menopause",
+          "priority": "Core",
+          "topic": "6.6",
+          "topicTitle": "Stress & Endocrine Aging",
+          "connection": "Explain acute and chronic stress responses and endocrine aging."
+        },
+        {
+          "term": "estrogen",
+          "priority": "Core",
+          "topic": "6.6",
+          "topicTitle": "Stress & Endocrine Aging",
+          "connection": "Explain acute and chronic stress responses and endocrine aging."
+        },
+        {
+          "term": "andropause",
+          "priority": "Core",
+          "topic": "6.6",
+          "topicTitle": "Stress & Endocrine Aging",
+          "connection": "Explain acute and chronic stress responses and endocrine aging."
+        }
+      ],
       "topics": [
         {
           "unit": "Unit 6",
@@ -1018,6 +6555,1016 @@ window.COURSE_DATA = {
         "leukocyte",
         "platelet",
         "hemostasis"
+      ],
+      "vocabularyRecords": [
+        {
+          "term": "cardiovascular system",
+          "priority": "Core",
+          "topic": "7.1",
+          "topicTitle": "Circulation & Transport",
+          "connection": "Trace pulmonary and systemic circulation and explain transport roles."
+        },
+        {
+          "term": "circulation",
+          "priority": "Core",
+          "topic": "7.1",
+          "topicTitle": "Circulation & Transport",
+          "connection": "Trace pulmonary and systemic circulation and explain transport roles."
+        },
+        {
+          "term": "pulmonary circulation",
+          "priority": "Core",
+          "topic": "7.1",
+          "topicTitle": "Circulation & Transport",
+          "connection": "Trace pulmonary and systemic circulation and explain transport roles."
+        },
+        {
+          "term": "systemic circulation",
+          "priority": "Core",
+          "topic": "7.1",
+          "topicTitle": "Circulation & Transport",
+          "connection": "Trace pulmonary and systemic circulation and explain transport roles."
+        },
+        {
+          "term": "artery",
+          "priority": "Core",
+          "topic": "7.1",
+          "topicTitle": "Circulation & Transport",
+          "connection": "Trace pulmonary and systemic circulation and explain transport roles."
+        },
+        {
+          "term": "arteriole",
+          "priority": "Core",
+          "topic": "7.1",
+          "topicTitle": "Circulation & Transport",
+          "connection": "Trace pulmonary and systemic circulation and explain transport roles."
+        },
+        {
+          "term": "capillary",
+          "priority": "Core",
+          "topic": "7.1",
+          "topicTitle": "Circulation & Transport",
+          "connection": "Trace pulmonary and systemic circulation and explain transport roles."
+        },
+        {
+          "term": "venule",
+          "priority": "Core",
+          "topic": "7.1",
+          "topicTitle": "Circulation & Transport",
+          "connection": "Trace pulmonary and systemic circulation and explain transport roles."
+        },
+        {
+          "term": "vein",
+          "priority": "Core",
+          "topic": "7.1",
+          "topicTitle": "Circulation & Transport",
+          "connection": "Trace pulmonary and systemic circulation and explain transport roles."
+        },
+        {
+          "term": "blood",
+          "priority": "Core",
+          "topic": "7.1",
+          "topicTitle": "Circulation & Transport",
+          "connection": "Trace pulmonary and systemic circulation and explain transport roles."
+        },
+        {
+          "term": "oxygen",
+          "priority": "Core",
+          "topic": "7.1",
+          "topicTitle": "Circulation & Transport",
+          "connection": "Trace pulmonary and systemic circulation and explain transport roles."
+        },
+        {
+          "term": "carbon dioxide",
+          "priority": "Core",
+          "topic": "7.1",
+          "topicTitle": "Circulation & Transport",
+          "connection": "Trace pulmonary and systemic circulation and explain transport roles."
+        },
+        {
+          "term": "nutrient",
+          "priority": "Core",
+          "topic": "7.1",
+          "topicTitle": "Circulation & Transport",
+          "connection": "Trace pulmonary and systemic circulation and explain transport roles."
+        },
+        {
+          "term": "metabolic waste",
+          "priority": "Core",
+          "topic": "7.1",
+          "topicTitle": "Circulation & Transport",
+          "connection": "Trace pulmonary and systemic circulation and explain transport roles."
+        },
+        {
+          "term": "perfusion",
+          "priority": "Core",
+          "topic": "7.1",
+          "topicTitle": "Circulation & Transport",
+          "connection": "Trace pulmonary and systemic circulation and explain transport roles."
+        },
+        {
+          "term": "tunica intima",
+          "priority": "Core",
+          "topic": "7.2",
+          "topicTitle": "Blood Vessels & Capillary Exchange",
+          "connection": "Relate vessel structure to function and explain capillary exchange."
+        },
+        {
+          "term": "tunica media",
+          "priority": "Core",
+          "topic": "7.2",
+          "topicTitle": "Blood Vessels & Capillary Exchange",
+          "connection": "Relate vessel structure to function and explain capillary exchange."
+        },
+        {
+          "term": "tunica externa",
+          "priority": "Core",
+          "topic": "7.2",
+          "topicTitle": "Blood Vessels & Capillary Exchange",
+          "connection": "Relate vessel structure to function and explain capillary exchange."
+        },
+        {
+          "term": "elastic artery",
+          "priority": "Core",
+          "topic": "7.2",
+          "topicTitle": "Blood Vessels & Capillary Exchange",
+          "connection": "Relate vessel structure to function and explain capillary exchange."
+        },
+        {
+          "term": "muscular artery",
+          "priority": "Core",
+          "topic": "7.2",
+          "topicTitle": "Blood Vessels & Capillary Exchange",
+          "connection": "Relate vessel structure to function and explain capillary exchange."
+        },
+        {
+          "term": "continuous capillary",
+          "priority": "Core",
+          "topic": "7.2",
+          "topicTitle": "Blood Vessels & Capillary Exchange",
+          "connection": "Relate vessel structure to function and explain capillary exchange."
+        },
+        {
+          "term": "fenestrated capillary",
+          "priority": "Honors Extension",
+          "topic": "7.2",
+          "topicTitle": "Blood Vessels & Capillary Exchange",
+          "connection": "Relate vessel structure to function and explain capillary exchange."
+        },
+        {
+          "term": "sinusoid",
+          "priority": "Honors Extension",
+          "topic": "7.2",
+          "topicTitle": "Blood Vessels & Capillary Exchange",
+          "connection": "Relate vessel structure to function and explain capillary exchange."
+        },
+        {
+          "term": "venous valve",
+          "priority": "Core",
+          "topic": "7.2",
+          "topicTitle": "Blood Vessels & Capillary Exchange",
+          "connection": "Relate vessel structure to function and explain capillary exchange."
+        },
+        {
+          "term": "vasoconstriction",
+          "priority": "Core",
+          "topic": "7.2",
+          "topicTitle": "Blood Vessels & Capillary Exchange",
+          "connection": "Relate vessel structure to function and explain capillary exchange."
+        },
+        {
+          "term": "vasodilation",
+          "priority": "Core",
+          "topic": "7.2",
+          "topicTitle": "Blood Vessels & Capillary Exchange",
+          "connection": "Relate vessel structure to function and explain capillary exchange."
+        },
+        {
+          "term": "blood pressure",
+          "priority": "Core",
+          "topic": "7.2",
+          "topicTitle": "Blood Vessels & Capillary Exchange",
+          "connection": "Relate vessel structure to function and explain capillary exchange."
+        },
+        {
+          "term": "hydrostatic pressure",
+          "priority": "Core",
+          "topic": "7.2",
+          "topicTitle": "Blood Vessels & Capillary Exchange",
+          "connection": "Relate vessel structure to function and explain capillary exchange."
+        },
+        {
+          "term": "colloid osmotic pressure",
+          "priority": "Honors Extension",
+          "topic": "7.2",
+          "topicTitle": "Blood Vessels & Capillary Exchange",
+          "connection": "Relate vessel structure to function and explain capillary exchange."
+        },
+        {
+          "term": "filtration",
+          "priority": "Core",
+          "topic": "7.2",
+          "topicTitle": "Blood Vessels & Capillary Exchange",
+          "connection": "Relate vessel structure to function and explain capillary exchange."
+        },
+        {
+          "term": "reabsorption",
+          "priority": "Core",
+          "topic": "7.2",
+          "topicTitle": "Blood Vessels & Capillary Exchange",
+          "connection": "Relate vessel structure to function and explain capillary exchange."
+        },
+        {
+          "term": "interstitial fluid",
+          "priority": "Core",
+          "topic": "7.2",
+          "topicTitle": "Blood Vessels & Capillary Exchange",
+          "connection": "Relate vessel structure to function and explain capillary exchange."
+        },
+        {
+          "term": "edema",
+          "priority": "Core",
+          "topic": "7.2",
+          "topicTitle": "Blood Vessels & Capillary Exchange",
+          "connection": "Relate vessel structure to function and explain capillary exchange."
+        },
+        {
+          "term": "plasma",
+          "priority": "Core",
+          "topic": "7.3",
+          "topicTitle": "Blood, Hematopoiesis & Exercise",
+          "connection": "Identify blood components, explain hematopoiesis, and describe exercise responses."
+        },
+        {
+          "term": "formed element",
+          "priority": "Core",
+          "topic": "7.3",
+          "topicTitle": "Blood, Hematopoiesis & Exercise",
+          "connection": "Identify blood components, explain hematopoiesis, and describe exercise responses."
+        },
+        {
+          "term": "erythrocyte",
+          "priority": "Core",
+          "topic": "7.3",
+          "topicTitle": "Blood, Hematopoiesis & Exercise",
+          "connection": "Identify blood components, explain hematopoiesis, and describe exercise responses."
+        },
+        {
+          "term": "red blood cell",
+          "priority": "Core",
+          "topic": "7.3",
+          "topicTitle": "Blood, Hematopoiesis & Exercise",
+          "connection": "Identify blood components, explain hematopoiesis, and describe exercise responses."
+        },
+        {
+          "term": "leukocyte",
+          "priority": "Core",
+          "topic": "7.3",
+          "topicTitle": "Blood, Hematopoiesis & Exercise",
+          "connection": "Identify blood components, explain hematopoiesis, and describe exercise responses."
+        },
+        {
+          "term": "white blood cell",
+          "priority": "Core",
+          "topic": "7.3",
+          "topicTitle": "Blood, Hematopoiesis & Exercise",
+          "connection": "Identify blood components, explain hematopoiesis, and describe exercise responses."
+        },
+        {
+          "term": "platelet",
+          "priority": "Core",
+          "topic": "7.3",
+          "topicTitle": "Blood, Hematopoiesis & Exercise",
+          "connection": "Identify blood components, explain hematopoiesis, and describe exercise responses."
+        },
+        {
+          "term": "hemoglobin",
+          "priority": "Core",
+          "topic": "7.3",
+          "topicTitle": "Blood, Hematopoiesis & Exercise",
+          "connection": "Identify blood components, explain hematopoiesis, and describe exercise responses."
+        },
+        {
+          "term": "hematocrit",
+          "priority": "Core",
+          "topic": "7.3",
+          "topicTitle": "Blood, Hematopoiesis & Exercise",
+          "connection": "Identify blood components, explain hematopoiesis, and describe exercise responses."
+        },
+        {
+          "term": "albumin",
+          "priority": "Core",
+          "topic": "7.3",
+          "topicTitle": "Blood, Hematopoiesis & Exercise",
+          "connection": "Identify blood components, explain hematopoiesis, and describe exercise responses."
+        },
+        {
+          "term": "globulin",
+          "priority": "Honors Extension",
+          "topic": "7.3",
+          "topicTitle": "Blood, Hematopoiesis & Exercise",
+          "connection": "Identify blood components, explain hematopoiesis, and describe exercise responses."
+        },
+        {
+          "term": "fibrinogen",
+          "priority": "Honors Extension",
+          "topic": "7.3",
+          "topicTitle": "Blood, Hematopoiesis & Exercise",
+          "connection": "Identify blood components, explain hematopoiesis, and describe exercise responses."
+        },
+        {
+          "term": "hematopoiesis",
+          "priority": "Core",
+          "topic": "7.3",
+          "topicTitle": "Blood, Hematopoiesis & Exercise",
+          "connection": "Identify blood components, explain hematopoiesis, and describe exercise responses."
+        },
+        {
+          "term": "red bone marrow",
+          "priority": "Core",
+          "topic": "7.3",
+          "topicTitle": "Blood, Hematopoiesis & Exercise",
+          "connection": "Identify blood components, explain hematopoiesis, and describe exercise responses."
+        },
+        {
+          "term": "erythropoietin",
+          "priority": "Core",
+          "topic": "7.3",
+          "topicTitle": "Blood, Hematopoiesis & Exercise",
+          "connection": "Identify blood components, explain hematopoiesis, and describe exercise responses."
+        },
+        {
+          "term": "EPO",
+          "priority": "Core",
+          "topic": "7.3",
+          "topicTitle": "Blood, Hematopoiesis & Exercise",
+          "connection": "Identify blood components, explain hematopoiesis, and describe exercise responses."
+        },
+        {
+          "term": "neutrophil",
+          "priority": "Core",
+          "topic": "7.3",
+          "topicTitle": "Blood, Hematopoiesis & Exercise",
+          "connection": "Identify blood components, explain hematopoiesis, and describe exercise responses."
+        },
+        {
+          "term": "lymphocyte",
+          "priority": "Core",
+          "topic": "7.3",
+          "topicTitle": "Blood, Hematopoiesis & Exercise",
+          "connection": "Identify blood components, explain hematopoiesis, and describe exercise responses."
+        },
+        {
+          "term": "monocyte",
+          "priority": "Core",
+          "topic": "7.3",
+          "topicTitle": "Blood, Hematopoiesis & Exercise",
+          "connection": "Identify blood components, explain hematopoiesis, and describe exercise responses."
+        },
+        {
+          "term": "eosinophil",
+          "priority": "Core",
+          "topic": "7.3",
+          "topicTitle": "Blood, Hematopoiesis & Exercise",
+          "connection": "Identify blood components, explain hematopoiesis, and describe exercise responses."
+        },
+        {
+          "term": "basophil",
+          "priority": "Core",
+          "topic": "7.3",
+          "topicTitle": "Blood, Hematopoiesis & Exercise",
+          "connection": "Identify blood components, explain hematopoiesis, and describe exercise responses."
+        },
+        {
+          "term": "hemostasis",
+          "priority": "Core",
+          "topic": "7.3",
+          "topicTitle": "Blood, Hematopoiesis & Exercise",
+          "connection": "Identify blood components, explain hematopoiesis, and describe exercise responses."
+        },
+        {
+          "term": "heart",
+          "priority": "Core",
+          "topic": "7.4",
+          "topicTitle": "Heart Structure, Blood Flow & Dissection",
+          "connection": "Trace one-way blood flow through heart chambers, valves, and vessels."
+        },
+        {
+          "term": "pericardium",
+          "priority": "Core",
+          "topic": "7.4",
+          "topicTitle": "Heart Structure, Blood Flow & Dissection",
+          "connection": "Trace one-way blood flow through heart chambers, valves, and vessels."
+        },
+        {
+          "term": "myocardium",
+          "priority": "Core",
+          "topic": "7.4",
+          "topicTitle": "Heart Structure, Blood Flow & Dissection",
+          "connection": "Trace one-way blood flow through heart chambers, valves, and vessels."
+        },
+        {
+          "term": "endocardium",
+          "priority": "Core",
+          "topic": "7.4",
+          "topicTitle": "Heart Structure, Blood Flow & Dissection",
+          "connection": "Trace one-way blood flow through heart chambers, valves, and vessels."
+        },
+        {
+          "term": "right atrium",
+          "priority": "Core",
+          "topic": "7.4",
+          "topicTitle": "Heart Structure, Blood Flow & Dissection",
+          "connection": "Trace one-way blood flow through heart chambers, valves, and vessels."
+        },
+        {
+          "term": "right ventricle",
+          "priority": "Core",
+          "topic": "7.4",
+          "topicTitle": "Heart Structure, Blood Flow & Dissection",
+          "connection": "Trace one-way blood flow through heart chambers, valves, and vessels."
+        },
+        {
+          "term": "left atrium",
+          "priority": "Core",
+          "topic": "7.4",
+          "topicTitle": "Heart Structure, Blood Flow & Dissection",
+          "connection": "Trace one-way blood flow through heart chambers, valves, and vessels."
+        },
+        {
+          "term": "left ventricle",
+          "priority": "Core",
+          "topic": "7.4",
+          "topicTitle": "Heart Structure, Blood Flow & Dissection",
+          "connection": "Trace one-way blood flow through heart chambers, valves, and vessels."
+        },
+        {
+          "term": "interatrial septum",
+          "priority": "Core",
+          "topic": "7.4",
+          "topicTitle": "Heart Structure, Blood Flow & Dissection",
+          "connection": "Trace one-way blood flow through heart chambers, valves, and vessels."
+        },
+        {
+          "term": "interventricular septum",
+          "priority": "Core",
+          "topic": "7.4",
+          "topicTitle": "Heart Structure, Blood Flow & Dissection",
+          "connection": "Trace one-way blood flow through heart chambers, valves, and vessels."
+        },
+        {
+          "term": "tricuspid valve",
+          "priority": "Core",
+          "topic": "7.4",
+          "topicTitle": "Heart Structure, Blood Flow & Dissection",
+          "connection": "Trace one-way blood flow through heart chambers, valves, and vessels."
+        },
+        {
+          "term": "mitral valve",
+          "priority": "Core",
+          "topic": "7.4",
+          "topicTitle": "Heart Structure, Blood Flow & Dissection",
+          "connection": "Trace one-way blood flow through heart chambers, valves, and vessels."
+        },
+        {
+          "term": "bicuspid valve",
+          "priority": "Core",
+          "topic": "7.4",
+          "topicTitle": "Heart Structure, Blood Flow & Dissection",
+          "connection": "Trace one-way blood flow through heart chambers, valves, and vessels."
+        },
+        {
+          "term": "pulmonary semilunar valve",
+          "priority": "Core",
+          "topic": "7.4",
+          "topicTitle": "Heart Structure, Blood Flow & Dissection",
+          "connection": "Trace one-way blood flow through heart chambers, valves, and vessels."
+        },
+        {
+          "term": "aortic semilunar valve",
+          "priority": "Core",
+          "topic": "7.4",
+          "topicTitle": "Heart Structure, Blood Flow & Dissection",
+          "connection": "Trace one-way blood flow through heart chambers, valves, and vessels."
+        },
+        {
+          "term": "chordae tendineae",
+          "priority": "Core",
+          "topic": "7.4",
+          "topicTitle": "Heart Structure, Blood Flow & Dissection",
+          "connection": "Trace one-way blood flow through heart chambers, valves, and vessels."
+        },
+        {
+          "term": "papillary muscle",
+          "priority": "Core",
+          "topic": "7.4",
+          "topicTitle": "Heart Structure, Blood Flow & Dissection",
+          "connection": "Trace one-way blood flow through heart chambers, valves, and vessels."
+        },
+        {
+          "term": "superior vena cava",
+          "priority": "Core",
+          "topic": "7.4",
+          "topicTitle": "Heart Structure, Blood Flow & Dissection",
+          "connection": "Trace one-way blood flow through heart chambers, valves, and vessels."
+        },
+        {
+          "term": "inferior vena cava",
+          "priority": "Core",
+          "topic": "7.4",
+          "topicTitle": "Heart Structure, Blood Flow & Dissection",
+          "connection": "Trace one-way blood flow through heart chambers, valves, and vessels."
+        },
+        {
+          "term": "pulmonary trunk",
+          "priority": "Core",
+          "topic": "7.4",
+          "topicTitle": "Heart Structure, Blood Flow & Dissection",
+          "connection": "Trace one-way blood flow through heart chambers, valves, and vessels."
+        },
+        {
+          "term": "pulmonary artery",
+          "priority": "Core",
+          "topic": "7.4",
+          "topicTitle": "Heart Structure, Blood Flow & Dissection",
+          "connection": "Trace one-way blood flow through heart chambers, valves, and vessels."
+        },
+        {
+          "term": "pulmonary vein",
+          "priority": "Core",
+          "topic": "7.4",
+          "topicTitle": "Heart Structure, Blood Flow & Dissection",
+          "connection": "Trace one-way blood flow through heart chambers, valves, and vessels."
+        },
+        {
+          "term": "aorta",
+          "priority": "Core",
+          "topic": "7.4",
+          "topicTitle": "Heart Structure, Blood Flow & Dissection",
+          "connection": "Trace one-way blood flow through heart chambers, valves, and vessels."
+        },
+        {
+          "term": "coronary artery",
+          "priority": "Core",
+          "topic": "7.4",
+          "topicTitle": "Heart Structure, Blood Flow & Dissection",
+          "connection": "Trace one-way blood flow through heart chambers, valves, and vessels."
+        },
+        {
+          "term": "cardiac cycle",
+          "priority": "Core",
+          "topic": "7.5",
+          "topicTitle": "Cardiac Cycle & ECG",
+          "connection": "Relate electrical activity, pressure, volume, and valve position in the cardiac cycle."
+        },
+        {
+          "term": "systole",
+          "priority": "Core",
+          "topic": "7.5",
+          "topicTitle": "Cardiac Cycle & ECG",
+          "connection": "Relate electrical activity, pressure, volume, and valve position in the cardiac cycle."
+        },
+        {
+          "term": "diastole",
+          "priority": "Core",
+          "topic": "7.5",
+          "topicTitle": "Cardiac Cycle & ECG",
+          "connection": "Relate electrical activity, pressure, volume, and valve position in the cardiac cycle."
+        },
+        {
+          "term": "atrial systole",
+          "priority": "Core",
+          "topic": "7.5",
+          "topicTitle": "Cardiac Cycle & ECG",
+          "connection": "Relate electrical activity, pressure, volume, and valve position in the cardiac cycle."
+        },
+        {
+          "term": "ventricular systole",
+          "priority": "Core",
+          "topic": "7.5",
+          "topicTitle": "Cardiac Cycle & ECG",
+          "connection": "Relate electrical activity, pressure, volume, and valve position in the cardiac cycle."
+        },
+        {
+          "term": "end-diastolic volume",
+          "priority": "Honors Extension",
+          "topic": "7.5",
+          "topicTitle": "Cardiac Cycle & ECG",
+          "connection": "Relate electrical activity, pressure, volume, and valve position in the cardiac cycle."
+        },
+        {
+          "term": "EDV",
+          "priority": "Core",
+          "topic": "7.5",
+          "topicTitle": "Cardiac Cycle & ECG",
+          "connection": "Relate electrical activity, pressure, volume, and valve position in the cardiac cycle."
+        },
+        {
+          "term": "end-systolic volume",
+          "priority": "Honors Extension",
+          "topic": "7.5",
+          "topicTitle": "Cardiac Cycle & ECG",
+          "connection": "Relate electrical activity, pressure, volume, and valve position in the cardiac cycle."
+        },
+        {
+          "term": "ESV",
+          "priority": "Core",
+          "topic": "7.5",
+          "topicTitle": "Cardiac Cycle & ECG",
+          "connection": "Relate electrical activity, pressure, volume, and valve position in the cardiac cycle."
+        },
+        {
+          "term": "stroke volume",
+          "priority": "Core",
+          "topic": "7.5",
+          "topicTitle": "Cardiac Cycle & ECG",
+          "connection": "Relate electrical activity, pressure, volume, and valve position in the cardiac cycle."
+        },
+        {
+          "term": "cardiac output",
+          "priority": "Core",
+          "topic": "7.5",
+          "topicTitle": "Cardiac Cycle & ECG",
+          "connection": "Relate electrical activity, pressure, volume, and valve position in the cardiac cycle."
+        },
+        {
+          "term": "heart sound",
+          "priority": "Core",
+          "topic": "7.5",
+          "topicTitle": "Cardiac Cycle & ECG",
+          "connection": "Relate electrical activity, pressure, volume, and valve position in the cardiac cycle."
+        },
+        {
+          "term": "electrocardiogram",
+          "priority": "Core",
+          "topic": "7.5",
+          "topicTitle": "Cardiac Cycle & ECG",
+          "connection": "Relate electrical activity, pressure, volume, and valve position in the cardiac cycle."
+        },
+        {
+          "term": "ECG",
+          "priority": "Core",
+          "topic": "7.5",
+          "topicTitle": "Cardiac Cycle & ECG",
+          "connection": "Relate electrical activity, pressure, volume, and valve position in the cardiac cycle."
+        },
+        {
+          "term": "P wave",
+          "priority": "Core",
+          "topic": "7.5",
+          "topicTitle": "Cardiac Cycle & ECG",
+          "connection": "Relate electrical activity, pressure, volume, and valve position in the cardiac cycle."
+        },
+        {
+          "term": "QRS complex",
+          "priority": "Core",
+          "topic": "7.5",
+          "topicTitle": "Cardiac Cycle & ECG",
+          "connection": "Relate electrical activity, pressure, volume, and valve position in the cardiac cycle."
+        },
+        {
+          "term": "T wave",
+          "priority": "Core",
+          "topic": "7.5",
+          "topicTitle": "Cardiac Cycle & ECG",
+          "connection": "Relate electrical activity, pressure, volume, and valve position in the cardiac cycle."
+        },
+        {
+          "term": "autorhythmic cell",
+          "priority": "Core",
+          "topic": "7.6",
+          "topicTitle": "Intrinsic & Extrinsic Regulation of Heart Rate",
+          "connection": "Explain intrinsic conduction and autonomic control of heart rate."
+        },
+        {
+          "term": "pacemaker",
+          "priority": "Core",
+          "topic": "7.6",
+          "topicTitle": "Intrinsic & Extrinsic Regulation of Heart Rate",
+          "connection": "Explain intrinsic conduction and autonomic control of heart rate."
+        },
+        {
+          "term": "sinoatrial node",
+          "priority": "Core",
+          "topic": "7.6",
+          "topicTitle": "Intrinsic & Extrinsic Regulation of Heart Rate",
+          "connection": "Explain intrinsic conduction and autonomic control of heart rate."
+        },
+        {
+          "term": "SA node",
+          "priority": "Core",
+          "topic": "7.6",
+          "topicTitle": "Intrinsic & Extrinsic Regulation of Heart Rate",
+          "connection": "Explain intrinsic conduction and autonomic control of heart rate."
+        },
+        {
+          "term": "atrioventricular node",
+          "priority": "Core",
+          "topic": "7.6",
+          "topicTitle": "Intrinsic & Extrinsic Regulation of Heart Rate",
+          "connection": "Explain intrinsic conduction and autonomic control of heart rate."
+        },
+        {
+          "term": "AV node",
+          "priority": "Core",
+          "topic": "7.6",
+          "topicTitle": "Intrinsic & Extrinsic Regulation of Heart Rate",
+          "connection": "Explain intrinsic conduction and autonomic control of heart rate."
+        },
+        {
+          "term": "atrioventricular bundle",
+          "priority": "Core",
+          "topic": "7.6",
+          "topicTitle": "Intrinsic & Extrinsic Regulation of Heart Rate",
+          "connection": "Explain intrinsic conduction and autonomic control of heart rate."
+        },
+        {
+          "term": "bundle of His",
+          "priority": "Core",
+          "topic": "7.6",
+          "topicTitle": "Intrinsic & Extrinsic Regulation of Heart Rate",
+          "connection": "Explain intrinsic conduction and autonomic control of heart rate."
+        },
+        {
+          "term": "bundle branch",
+          "priority": "Core",
+          "topic": "7.6",
+          "topicTitle": "Intrinsic & Extrinsic Regulation of Heart Rate",
+          "connection": "Explain intrinsic conduction and autonomic control of heart rate."
+        },
+        {
+          "term": "Purkinje fiber",
+          "priority": "Core",
+          "topic": "7.6",
+          "topicTitle": "Intrinsic & Extrinsic Regulation of Heart Rate",
+          "connection": "Explain intrinsic conduction and autonomic control of heart rate."
+        },
+        {
+          "term": "cardiac conduction system",
+          "priority": "Core",
+          "topic": "7.6",
+          "topicTitle": "Intrinsic & Extrinsic Regulation of Heart Rate",
+          "connection": "Explain intrinsic conduction and autonomic control of heart rate."
+        },
+        {
+          "term": "intrinsic regulation",
+          "priority": "Core",
+          "topic": "7.6",
+          "topicTitle": "Intrinsic & Extrinsic Regulation of Heart Rate",
+          "connection": "Explain intrinsic conduction and autonomic control of heart rate."
+        },
+        {
+          "term": "extrinsic regulation",
+          "priority": "Core",
+          "topic": "7.6",
+          "topicTitle": "Intrinsic & Extrinsic Regulation of Heart Rate",
+          "connection": "Explain intrinsic conduction and autonomic control of heart rate."
+        },
+        {
+          "term": "cardioacceleratory center",
+          "priority": "Core",
+          "topic": "7.6",
+          "topicTitle": "Intrinsic & Extrinsic Regulation of Heart Rate",
+          "connection": "Explain intrinsic conduction and autonomic control of heart rate."
+        },
+        {
+          "term": "cardioinhibitory center",
+          "priority": "Core",
+          "topic": "7.6",
+          "topicTitle": "Intrinsic & Extrinsic Regulation of Heart Rate",
+          "connection": "Explain intrinsic conduction and autonomic control of heart rate."
+        },
+        {
+          "term": "vagus nerve",
+          "priority": "Core",
+          "topic": "7.6",
+          "topicTitle": "Intrinsic & Extrinsic Regulation of Heart Rate",
+          "connection": "Explain intrinsic conduction and autonomic control of heart rate."
+        },
+        {
+          "term": "baroreceptor",
+          "priority": "Core",
+          "topic": "7.6",
+          "topicTitle": "Intrinsic & Extrinsic Regulation of Heart Rate",
+          "connection": "Explain intrinsic conduction and autonomic control of heart rate."
+        },
+        {
+          "term": "chemoreceptor",
+          "priority": "Core",
+          "topic": "7.6",
+          "topicTitle": "Intrinsic & Extrinsic Regulation of Heart Rate",
+          "connection": "Explain intrinsic conduction and autonomic control of heart rate."
+        },
+        {
+          "term": "heart rate",
+          "priority": "Core",
+          "topic": "7.7",
+          "topicTitle": "Cardiovascular Physiology & Exercise",
+          "connection": "Analyze heart-rate and blood-pressure responses and training adaptations."
+        },
+        {
+          "term": "systolic pressure",
+          "priority": "Core",
+          "topic": "7.7",
+          "topicTitle": "Cardiovascular Physiology & Exercise",
+          "connection": "Analyze heart-rate and blood-pressure responses and training adaptations."
+        },
+        {
+          "term": "diastolic pressure",
+          "priority": "Core",
+          "topic": "7.7",
+          "topicTitle": "Cardiovascular Physiology & Exercise",
+          "connection": "Analyze heart-rate and blood-pressure responses and training adaptations."
+        },
+        {
+          "term": "pulse pressure",
+          "priority": "Core",
+          "topic": "7.7",
+          "topicTitle": "Cardiovascular Physiology & Exercise",
+          "connection": "Analyze heart-rate and blood-pressure responses and training adaptations."
+        },
+        {
+          "term": "mean arterial pressure",
+          "priority": "Honors Extension",
+          "topic": "7.7",
+          "topicTitle": "Cardiovascular Physiology & Exercise",
+          "connection": "Analyze heart-rate and blood-pressure responses and training adaptations."
+        },
+        {
+          "term": "venous return",
+          "priority": "Core",
+          "topic": "7.7",
+          "topicTitle": "Cardiovascular Physiology & Exercise",
+          "connection": "Analyze heart-rate and blood-pressure responses and training adaptations."
+        },
+        {
+          "term": "aerobic exercise",
+          "priority": "Core",
+          "topic": "7.7",
+          "topicTitle": "Cardiovascular Physiology & Exercise",
+          "connection": "Analyze heart-rate and blood-pressure responses and training adaptations."
+        },
+        {
+          "term": "cardiovascular fitness",
+          "priority": "Core",
+          "topic": "7.7",
+          "topicTitle": "Cardiovascular Physiology & Exercise",
+          "connection": "Analyze heart-rate and blood-pressure responses and training adaptations."
+        },
+        {
+          "term": "cardiac hypertrophy",
+          "priority": "Core",
+          "topic": "7.7",
+          "topicTitle": "Cardiovascular Physiology & Exercise",
+          "connection": "Analyze heart-rate and blood-pressure responses and training adaptations."
+        },
+        {
+          "term": "resting heart rate",
+          "priority": "Core",
+          "topic": "7.7",
+          "topicTitle": "Cardiovascular Physiology & Exercise",
+          "connection": "Analyze heart-rate and blood-pressure responses and training adaptations."
+        },
+        {
+          "term": "maximum heart rate",
+          "priority": "Core",
+          "topic": "7.7",
+          "topicTitle": "Cardiovascular Physiology & Exercise",
+          "connection": "Analyze heart-rate and blood-pressure responses and training adaptations."
+        },
+        {
+          "term": "cardiovascular disease",
+          "priority": "Core",
+          "topic": "7.8",
+          "topicTitle": "Cardiovascular Disease & Treatment",
+          "connection": "Relate cardiovascular disease mechanisms and risk factors to treatments."
+        },
+        {
+          "term": "atherosclerosis",
+          "priority": "Core",
+          "topic": "7.8",
+          "topicTitle": "Cardiovascular Disease & Treatment",
+          "connection": "Relate cardiovascular disease mechanisms and risk factors to treatments."
+        },
+        {
+          "term": "arteriosclerosis",
+          "priority": "Honors Extension",
+          "topic": "7.8",
+          "topicTitle": "Cardiovascular Disease & Treatment",
+          "connection": "Relate cardiovascular disease mechanisms and risk factors to treatments."
+        },
+        {
+          "term": "plaque",
+          "priority": "Core",
+          "topic": "7.8",
+          "topicTitle": "Cardiovascular Disease & Treatment",
+          "connection": "Relate cardiovascular disease mechanisms and risk factors to treatments."
+        },
+        {
+          "term": "hypertension",
+          "priority": "Core",
+          "topic": "7.8",
+          "topicTitle": "Cardiovascular Disease & Treatment",
+          "connection": "Relate cardiovascular disease mechanisms and risk factors to treatments."
+        },
+        {
+          "term": "coronary artery disease",
+          "priority": "Core",
+          "topic": "7.8",
+          "topicTitle": "Cardiovascular Disease & Treatment",
+          "connection": "Relate cardiovascular disease mechanisms and risk factors to treatments."
+        },
+        {
+          "term": "angina pectoris",
+          "priority": "Core",
+          "topic": "7.8",
+          "topicTitle": "Cardiovascular Disease & Treatment",
+          "connection": "Relate cardiovascular disease mechanisms and risk factors to treatments."
+        },
+        {
+          "term": "myocardial infarction",
+          "priority": "Core",
+          "topic": "7.8",
+          "topicTitle": "Cardiovascular Disease & Treatment",
+          "connection": "Relate cardiovascular disease mechanisms and risk factors to treatments."
+        },
+        {
+          "term": "stroke",
+          "priority": "Core",
+          "topic": "7.8",
+          "topicTitle": "Cardiovascular Disease & Treatment",
+          "connection": "Relate cardiovascular disease mechanisms and risk factors to treatments."
+        },
+        {
+          "term": "aneurysm",
+          "priority": "Core",
+          "topic": "7.8",
+          "topicTitle": "Cardiovascular Disease & Treatment",
+          "connection": "Relate cardiovascular disease mechanisms and risk factors to treatments."
+        },
+        {
+          "term": "arrhythmia",
+          "priority": "Core",
+          "topic": "7.8",
+          "topicTitle": "Cardiovascular Disease & Treatment",
+          "connection": "Relate cardiovascular disease mechanisms and risk factors to treatments."
+        },
+        {
+          "term": "heart failure",
+          "priority": "Core",
+          "topic": "7.8",
+          "topicTitle": "Cardiovascular Disease & Treatment",
+          "connection": "Relate cardiovascular disease mechanisms and risk factors to treatments."
+        },
+        {
+          "term": "thrombosis",
+          "priority": "Core",
+          "topic": "7.8",
+          "topicTitle": "Cardiovascular Disease & Treatment",
+          "connection": "Relate cardiovascular disease mechanisms and risk factors to treatments."
+        },
+        {
+          "term": "embolism",
+          "priority": "Core",
+          "topic": "7.8",
+          "topicTitle": "Cardiovascular Disease & Treatment",
+          "connection": "Relate cardiovascular disease mechanisms and risk factors to treatments."
+        },
+        {
+          "term": "risk factor",
+          "priority": "Core",
+          "topic": "7.8",
+          "topicTitle": "Cardiovascular Disease & Treatment",
+          "connection": "Relate cardiovascular disease mechanisms and risk factors to treatments."
+        },
+        {
+          "term": "angioplasty",
+          "priority": "Core",
+          "topic": "7.8",
+          "topicTitle": "Cardiovascular Disease & Treatment",
+          "connection": "Relate cardiovascular disease mechanisms and risk factors to treatments."
+        },
+        {
+          "term": "stent",
+          "priority": "Core",
+          "topic": "7.8",
+          "topicTitle": "Cardiovascular Disease & Treatment",
+          "connection": "Relate cardiovascular disease mechanisms and risk factors to treatments."
+        },
+        {
+          "term": "coronary artery bypass graft",
+          "priority": "Core",
+          "topic": "7.8",
+          "topicTitle": "Cardiovascular Disease & Treatment",
+          "connection": "Relate cardiovascular disease mechanisms and risk factors to treatments."
+        },
+        {
+          "term": "defibrillator",
+          "priority": "Core",
+          "topic": "7.8",
+          "topicTitle": "Cardiovascular Disease & Treatment",
+          "connection": "Relate cardiovascular disease mechanisms and risk factors to treatments."
+        }
       ],
       "topics": [
         {
@@ -1189,6 +7736,890 @@ window.COURSE_DATA = {
         "allergy",
         "autoimmunity"
       ],
+      "vocabularyRecords": [
+        {
+          "term": "immune system",
+          "priority": "Core",
+          "topic": "8.1",
+          "topicTitle": "Antigens, Self/Nonself & Autoimmunity",
+          "connection": "Explain self/nonself recognition, the microbiome, and autoimmune disease."
+        },
+        {
+          "term": "immunity",
+          "priority": "Core",
+          "topic": "8.1",
+          "topicTitle": "Antigens, Self/Nonself & Autoimmunity",
+          "connection": "Explain self/nonself recognition, the microbiome, and autoimmune disease."
+        },
+        {
+          "term": "antigen",
+          "priority": "Core",
+          "topic": "8.1",
+          "topicTitle": "Antigens, Self/Nonself & Autoimmunity",
+          "connection": "Explain self/nonself recognition, the microbiome, and autoimmune disease."
+        },
+        {
+          "term": "self antigen",
+          "priority": "Core",
+          "topic": "8.1",
+          "topicTitle": "Antigens, Self/Nonself & Autoimmunity",
+          "connection": "Explain self/nonself recognition, the microbiome, and autoimmune disease."
+        },
+        {
+          "term": "nonself antigen",
+          "priority": "Core",
+          "topic": "8.1",
+          "topicTitle": "Antigens, Self/Nonself & Autoimmunity",
+          "connection": "Explain self/nonself recognition, the microbiome, and autoimmune disease."
+        },
+        {
+          "term": "self-tolerance",
+          "priority": "Core",
+          "topic": "8.1",
+          "topicTitle": "Antigens, Self/Nonself & Autoimmunity",
+          "connection": "Explain self/nonself recognition, the microbiome, and autoimmune disease."
+        },
+        {
+          "term": "immune surveillance",
+          "priority": "Core",
+          "topic": "8.1",
+          "topicTitle": "Antigens, Self/Nonself & Autoimmunity",
+          "connection": "Explain self/nonself recognition, the microbiome, and autoimmune disease."
+        },
+        {
+          "term": "microbiome",
+          "priority": "Core",
+          "topic": "8.1",
+          "topicTitle": "Antigens, Self/Nonself & Autoimmunity",
+          "connection": "Explain self/nonself recognition, the microbiome, and autoimmune disease."
+        },
+        {
+          "term": "commensal organism",
+          "priority": "Core",
+          "topic": "8.1",
+          "topicTitle": "Antigens, Self/Nonself & Autoimmunity",
+          "connection": "Explain self/nonself recognition, the microbiome, and autoimmune disease."
+        },
+        {
+          "term": "autoimmunity",
+          "priority": "Core",
+          "topic": "8.1",
+          "topicTitle": "Antigens, Self/Nonself & Autoimmunity",
+          "connection": "Explain self/nonself recognition, the microbiome, and autoimmune disease."
+        },
+        {
+          "term": "autoimmune disease",
+          "priority": "Core",
+          "topic": "8.1",
+          "topicTitle": "Antigens, Self/Nonself & Autoimmunity",
+          "connection": "Explain self/nonself recognition, the microbiome, and autoimmune disease."
+        },
+        {
+          "term": "systemic lupus erythematosus",
+          "priority": "Core",
+          "topic": "8.1",
+          "topicTitle": "Antigens, Self/Nonself & Autoimmunity",
+          "connection": "Explain self/nonself recognition, the microbiome, and autoimmune disease."
+        },
+        {
+          "term": "rheumatoid arthritis",
+          "priority": "Core",
+          "topic": "8.1",
+          "topicTitle": "Antigens, Self/Nonself & Autoimmunity",
+          "connection": "Explain self/nonself recognition, the microbiome, and autoimmune disease."
+        },
+        {
+          "term": "type 1 diabetes",
+          "priority": "Core",
+          "topic": "8.1",
+          "topicTitle": "Antigens, Self/Nonself & Autoimmunity",
+          "connection": "Explain self/nonself recognition, the microbiome, and autoimmune disease."
+        },
+        {
+          "term": "ABO blood group",
+          "priority": "Core",
+          "topic": "8.2",
+          "topicTitle": "Blood Group Antigens & Clotting",
+          "connection": "Explain blood-group compatibility and clotting."
+        },
+        {
+          "term": "A antigen",
+          "priority": "Core",
+          "topic": "8.2",
+          "topicTitle": "Blood Group Antigens & Clotting",
+          "connection": "Explain blood-group compatibility and clotting."
+        },
+        {
+          "term": "B antigen",
+          "priority": "Core",
+          "topic": "8.2",
+          "topicTitle": "Blood Group Antigens & Clotting",
+          "connection": "Explain blood-group compatibility and clotting."
+        },
+        {
+          "term": "anti-A antibody",
+          "priority": "Core",
+          "topic": "8.2",
+          "topicTitle": "Blood Group Antigens & Clotting",
+          "connection": "Explain blood-group compatibility and clotting."
+        },
+        {
+          "term": "anti-B antibody",
+          "priority": "Core",
+          "topic": "8.2",
+          "topicTitle": "Blood Group Antigens & Clotting",
+          "connection": "Explain blood-group compatibility and clotting."
+        },
+        {
+          "term": "Rh factor",
+          "priority": "Core",
+          "topic": "8.2",
+          "topicTitle": "Blood Group Antigens & Clotting",
+          "connection": "Explain blood-group compatibility and clotting."
+        },
+        {
+          "term": "Rh antigen",
+          "priority": "Core",
+          "topic": "8.2",
+          "topicTitle": "Blood Group Antigens & Clotting",
+          "connection": "Explain blood-group compatibility and clotting."
+        },
+        {
+          "term": "agglutination",
+          "priority": "Core",
+          "topic": "8.2",
+          "topicTitle": "Blood Group Antigens & Clotting",
+          "connection": "Explain blood-group compatibility and clotting."
+        },
+        {
+          "term": "transfusion reaction",
+          "priority": "Core",
+          "topic": "8.2",
+          "topicTitle": "Blood Group Antigens & Clotting",
+          "connection": "Explain blood-group compatibility and clotting."
+        },
+        {
+          "term": "universal donor",
+          "priority": "Honors Extension",
+          "topic": "8.2",
+          "topicTitle": "Blood Group Antigens & Clotting",
+          "connection": "Explain blood-group compatibility and clotting."
+        },
+        {
+          "term": "universal recipient",
+          "priority": "Honors Extension",
+          "topic": "8.2",
+          "topicTitle": "Blood Group Antigens & Clotting",
+          "connection": "Explain blood-group compatibility and clotting."
+        },
+        {
+          "term": "hemostasis",
+          "priority": "Core",
+          "topic": "8.2",
+          "topicTitle": "Blood Group Antigens & Clotting",
+          "connection": "Explain blood-group compatibility and clotting."
+        },
+        {
+          "term": "vascular spasm",
+          "priority": "Core",
+          "topic": "8.2",
+          "topicTitle": "Blood Group Antigens & Clotting",
+          "connection": "Explain blood-group compatibility and clotting."
+        },
+        {
+          "term": "platelet plug",
+          "priority": "Core",
+          "topic": "8.2",
+          "topicTitle": "Blood Group Antigens & Clotting",
+          "connection": "Explain blood-group compatibility and clotting."
+        },
+        {
+          "term": "coagulation",
+          "priority": "Core",
+          "topic": "8.2",
+          "topicTitle": "Blood Group Antigens & Clotting",
+          "connection": "Explain blood-group compatibility and clotting."
+        },
+        {
+          "term": "clotting factor",
+          "priority": "Core",
+          "topic": "8.2",
+          "topicTitle": "Blood Group Antigens & Clotting",
+          "connection": "Explain blood-group compatibility and clotting."
+        },
+        {
+          "term": "prothrombin",
+          "priority": "Core",
+          "topic": "8.2",
+          "topicTitle": "Blood Group Antigens & Clotting",
+          "connection": "Explain blood-group compatibility and clotting."
+        },
+        {
+          "term": "thrombin",
+          "priority": "Core",
+          "topic": "8.2",
+          "topicTitle": "Blood Group Antigens & Clotting",
+          "connection": "Explain blood-group compatibility and clotting."
+        },
+        {
+          "term": "fibrinogen",
+          "priority": "Honors Extension",
+          "topic": "8.2",
+          "topicTitle": "Blood Group Antigens & Clotting",
+          "connection": "Explain blood-group compatibility and clotting."
+        },
+        {
+          "term": "fibrin",
+          "priority": "Core",
+          "topic": "8.2",
+          "topicTitle": "Blood Group Antigens & Clotting",
+          "connection": "Explain blood-group compatibility and clotting."
+        },
+        {
+          "term": "innate immunity",
+          "priority": "Core",
+          "topic": "8.3",
+          "topicTitle": "Innate Immunity & Phagocytosis",
+          "connection": "Compare innate and adaptive immunity and explain phagocytosis."
+        },
+        {
+          "term": "adaptive immunity",
+          "priority": "Core",
+          "topic": "8.3",
+          "topicTitle": "Innate Immunity & Phagocytosis",
+          "connection": "Compare innate and adaptive immunity and explain phagocytosis."
+        },
+        {
+          "term": "first line of defense",
+          "priority": "Core",
+          "topic": "8.3",
+          "topicTitle": "Innate Immunity & Phagocytosis",
+          "connection": "Compare innate and adaptive immunity and explain phagocytosis."
+        },
+        {
+          "term": "second line of defense",
+          "priority": "Core",
+          "topic": "8.3",
+          "topicTitle": "Innate Immunity & Phagocytosis",
+          "connection": "Compare innate and adaptive immunity and explain phagocytosis."
+        },
+        {
+          "term": "third line of defense",
+          "priority": "Core",
+          "topic": "8.3",
+          "topicTitle": "Innate Immunity & Phagocytosis",
+          "connection": "Compare innate and adaptive immunity and explain phagocytosis."
+        },
+        {
+          "term": "physical barrier",
+          "priority": "Core",
+          "topic": "8.3",
+          "topicTitle": "Innate Immunity & Phagocytosis",
+          "connection": "Compare innate and adaptive immunity and explain phagocytosis."
+        },
+        {
+          "term": "chemical barrier",
+          "priority": "Core",
+          "topic": "8.3",
+          "topicTitle": "Innate Immunity & Phagocytosis",
+          "connection": "Compare innate and adaptive immunity and explain phagocytosis."
+        },
+        {
+          "term": "phagocyte",
+          "priority": "Core",
+          "topic": "8.3",
+          "topicTitle": "Innate Immunity & Phagocytosis",
+          "connection": "Compare innate and adaptive immunity and explain phagocytosis."
+        },
+        {
+          "term": "phagocytosis",
+          "priority": "Core",
+          "topic": "8.3",
+          "topicTitle": "Innate Immunity & Phagocytosis",
+          "connection": "Compare innate and adaptive immunity and explain phagocytosis."
+        },
+        {
+          "term": "macrophage",
+          "priority": "Core",
+          "topic": "8.3",
+          "topicTitle": "Innate Immunity & Phagocytosis",
+          "connection": "Compare innate and adaptive immunity and explain phagocytosis."
+        },
+        {
+          "term": "neutrophil",
+          "priority": "Core",
+          "topic": "8.3",
+          "topicTitle": "Innate Immunity & Phagocytosis",
+          "connection": "Compare innate and adaptive immunity and explain phagocytosis."
+        },
+        {
+          "term": "dendritic cell",
+          "priority": "Honors Extension",
+          "topic": "8.3",
+          "topicTitle": "Innate Immunity & Phagocytosis",
+          "connection": "Compare innate and adaptive immunity and explain phagocytosis."
+        },
+        {
+          "term": "natural killer cell",
+          "priority": "Core",
+          "topic": "8.3",
+          "topicTitle": "Innate Immunity & Phagocytosis",
+          "connection": "Compare innate and adaptive immunity and explain phagocytosis."
+        },
+        {
+          "term": "complement system",
+          "priority": "Core",
+          "topic": "8.3",
+          "topicTitle": "Innate Immunity & Phagocytosis",
+          "connection": "Compare innate and adaptive immunity and explain phagocytosis."
+        },
+        {
+          "term": "interferon",
+          "priority": "Core",
+          "topic": "8.3",
+          "topicTitle": "Innate Immunity & Phagocytosis",
+          "connection": "Compare innate and adaptive immunity and explain phagocytosis."
+        },
+        {
+          "term": "pathogen-associated molecular pattern",
+          "priority": "Core",
+          "topic": "8.3",
+          "topicTitle": "Innate Immunity & Phagocytosis",
+          "connection": "Compare innate and adaptive immunity and explain phagocytosis."
+        },
+        {
+          "term": "PAMP",
+          "priority": "Honors Extension",
+          "topic": "8.3",
+          "topicTitle": "Innate Immunity & Phagocytosis",
+          "connection": "Compare innate and adaptive immunity and explain phagocytosis."
+        },
+        {
+          "term": "pattern-recognition receptor",
+          "priority": "Core",
+          "topic": "8.3",
+          "topicTitle": "Innate Immunity & Phagocytosis",
+          "connection": "Compare innate and adaptive immunity and explain phagocytosis."
+        },
+        {
+          "term": "PRR",
+          "priority": "Honors Extension",
+          "topic": "8.3",
+          "topicTitle": "Innate Immunity & Phagocytosis",
+          "connection": "Compare innate and adaptive immunity and explain phagocytosis."
+        },
+        {
+          "term": "phagosome",
+          "priority": "Core",
+          "topic": "8.3",
+          "topicTitle": "Innate Immunity & Phagocytosis",
+          "connection": "Compare innate and adaptive immunity and explain phagocytosis."
+        },
+        {
+          "term": "lysosome",
+          "priority": "Core",
+          "topic": "8.3",
+          "topicTitle": "Innate Immunity & Phagocytosis",
+          "connection": "Compare innate and adaptive immunity and explain phagocytosis."
+        },
+        {
+          "term": "inflammation",
+          "priority": "Core",
+          "topic": "8.4",
+          "topicTitle": "Inflammation, Antigen Presentation & Fever",
+          "connection": "Explain inflammation, antigen presentation, MHC, and fever."
+        },
+        {
+          "term": "histamine",
+          "priority": "Core",
+          "topic": "8.4",
+          "topicTitle": "Inflammation, Antigen Presentation & Fever",
+          "connection": "Explain inflammation, antigen presentation, MHC, and fever."
+        },
+        {
+          "term": "mast cell",
+          "priority": "Core",
+          "topic": "8.4",
+          "topicTitle": "Inflammation, Antigen Presentation & Fever",
+          "connection": "Explain inflammation, antigen presentation, MHC, and fever."
+        },
+        {
+          "term": "vasodilation",
+          "priority": "Core",
+          "topic": "8.4",
+          "topicTitle": "Inflammation, Antigen Presentation & Fever",
+          "connection": "Explain inflammation, antigen presentation, MHC, and fever."
+        },
+        {
+          "term": "vascular permeability",
+          "priority": "Core",
+          "topic": "8.4",
+          "topicTitle": "Inflammation, Antigen Presentation & Fever",
+          "connection": "Explain inflammation, antigen presentation, MHC, and fever."
+        },
+        {
+          "term": "chemotaxis",
+          "priority": "Core",
+          "topic": "8.4",
+          "topicTitle": "Inflammation, Antigen Presentation & Fever",
+          "connection": "Explain inflammation, antigen presentation, MHC, and fever."
+        },
+        {
+          "term": "pus",
+          "priority": "Core",
+          "topic": "8.4",
+          "topicTitle": "Inflammation, Antigen Presentation & Fever",
+          "connection": "Explain inflammation, antigen presentation, MHC, and fever."
+        },
+        {
+          "term": "antigen-presenting cell",
+          "priority": "Core",
+          "topic": "8.4",
+          "topicTitle": "Inflammation, Antigen Presentation & Fever",
+          "connection": "Explain inflammation, antigen presentation, MHC, and fever."
+        },
+        {
+          "term": "APC",
+          "priority": "Core",
+          "topic": "8.4",
+          "topicTitle": "Inflammation, Antigen Presentation & Fever",
+          "connection": "Explain inflammation, antigen presentation, MHC, and fever."
+        },
+        {
+          "term": "major histocompatibility complex",
+          "priority": "Core",
+          "topic": "8.4",
+          "topicTitle": "Inflammation, Antigen Presentation & Fever",
+          "connection": "Explain inflammation, antigen presentation, MHC, and fever."
+        },
+        {
+          "term": "MHC class I",
+          "priority": "Core",
+          "topic": "8.4",
+          "topicTitle": "Inflammation, Antigen Presentation & Fever",
+          "connection": "Explain inflammation, antigen presentation, MHC, and fever."
+        },
+        {
+          "term": "MHC class II",
+          "priority": "Core",
+          "topic": "8.4",
+          "topicTitle": "Inflammation, Antigen Presentation & Fever",
+          "connection": "Explain inflammation, antigen presentation, MHC, and fever."
+        },
+        {
+          "term": "cytokine",
+          "priority": "Core",
+          "topic": "8.4",
+          "topicTitle": "Inflammation, Antigen Presentation & Fever",
+          "connection": "Explain inflammation, antigen presentation, MHC, and fever."
+        },
+        {
+          "term": "pyrogen",
+          "priority": "Core",
+          "topic": "8.4",
+          "topicTitle": "Inflammation, Antigen Presentation & Fever",
+          "connection": "Explain inflammation, antigen presentation, MHC, and fever."
+        },
+        {
+          "term": "fever",
+          "priority": "Core",
+          "topic": "8.4",
+          "topicTitle": "Inflammation, Antigen Presentation & Fever",
+          "connection": "Explain inflammation, antigen presentation, MHC, and fever."
+        },
+        {
+          "term": "febrile response",
+          "priority": "Core",
+          "topic": "8.4",
+          "topicTitle": "Inflammation, Antigen Presentation & Fever",
+          "connection": "Explain inflammation, antigen presentation, MHC, and fever."
+        },
+        {
+          "term": "lymphatic system",
+          "priority": "Core",
+          "topic": "8.5",
+          "topicTitle": "Lymphatic System & Adaptive Immunity",
+          "connection": "Relate lymphatic structures to humoral and cell-mediated immunity."
+        },
+        {
+          "term": "lymph",
+          "priority": "Core",
+          "topic": "8.5",
+          "topicTitle": "Lymphatic System & Adaptive Immunity",
+          "connection": "Relate lymphatic structures to humoral and cell-mediated immunity."
+        },
+        {
+          "term": "lymphatic vessel",
+          "priority": "Core",
+          "topic": "8.5",
+          "topicTitle": "Lymphatic System & Adaptive Immunity",
+          "connection": "Relate lymphatic structures to humoral and cell-mediated immunity."
+        },
+        {
+          "term": "lymph node",
+          "priority": "Core",
+          "topic": "8.5",
+          "topicTitle": "Lymphatic System & Adaptive Immunity",
+          "connection": "Relate lymphatic structures to humoral and cell-mediated immunity."
+        },
+        {
+          "term": "spleen",
+          "priority": "Core",
+          "topic": "8.5",
+          "topicTitle": "Lymphatic System & Adaptive Immunity",
+          "connection": "Relate lymphatic structures to humoral and cell-mediated immunity."
+        },
+        {
+          "term": "thymus",
+          "priority": "Core",
+          "topic": "8.5",
+          "topicTitle": "Lymphatic System & Adaptive Immunity",
+          "connection": "Relate lymphatic structures to humoral and cell-mediated immunity."
+        },
+        {
+          "term": "tonsil",
+          "priority": "Core",
+          "topic": "8.5",
+          "topicTitle": "Lymphatic System & Adaptive Immunity",
+          "connection": "Relate lymphatic structures to humoral and cell-mediated immunity."
+        },
+        {
+          "term": "bone marrow",
+          "priority": "Core",
+          "topic": "8.5",
+          "topicTitle": "Lymphatic System & Adaptive Immunity",
+          "connection": "Relate lymphatic structures to humoral and cell-mediated immunity."
+        },
+        {
+          "term": "lymphocyte",
+          "priority": "Core",
+          "topic": "8.5",
+          "topicTitle": "Lymphatic System & Adaptive Immunity",
+          "connection": "Relate lymphatic structures to humoral and cell-mediated immunity."
+        },
+        {
+          "term": "B cell",
+          "priority": "Core",
+          "topic": "8.5",
+          "topicTitle": "Lymphatic System & Adaptive Immunity",
+          "connection": "Relate lymphatic structures to humoral and cell-mediated immunity."
+        },
+        {
+          "term": "T cell",
+          "priority": "Core",
+          "topic": "8.5",
+          "topicTitle": "Lymphatic System & Adaptive Immunity",
+          "connection": "Relate lymphatic structures to humoral and cell-mediated immunity."
+        },
+        {
+          "term": "helper T cell",
+          "priority": "Core",
+          "topic": "8.5",
+          "topicTitle": "Lymphatic System & Adaptive Immunity",
+          "connection": "Relate lymphatic structures to humoral and cell-mediated immunity."
+        },
+        {
+          "term": "cytotoxic T cell",
+          "priority": "Core",
+          "topic": "8.5",
+          "topicTitle": "Lymphatic System & Adaptive Immunity",
+          "connection": "Relate lymphatic structures to humoral and cell-mediated immunity."
+        },
+        {
+          "term": "regulatory T cell",
+          "priority": "Core",
+          "topic": "8.5",
+          "topicTitle": "Lymphatic System & Adaptive Immunity",
+          "connection": "Relate lymphatic structures to humoral and cell-mediated immunity."
+        },
+        {
+          "term": "humoral immunity",
+          "priority": "Core",
+          "topic": "8.5",
+          "topicTitle": "Lymphatic System & Adaptive Immunity",
+          "connection": "Relate lymphatic structures to humoral and cell-mediated immunity."
+        },
+        {
+          "term": "cell-mediated immunity",
+          "priority": "Core",
+          "topic": "8.5",
+          "topicTitle": "Lymphatic System & Adaptive Immunity",
+          "connection": "Relate lymphatic structures to humoral and cell-mediated immunity."
+        },
+        {
+          "term": "clonal selection",
+          "priority": "Core",
+          "topic": "8.6",
+          "topicTitle": "Clonal Selection, Antibodies & Acquired Immunity",
+          "connection": "Explain clonal selection, antibody actions, immune memory, and vaccination."
+        },
+        {
+          "term": "clonal expansion",
+          "priority": "Core",
+          "topic": "8.6",
+          "topicTitle": "Clonal Selection, Antibodies & Acquired Immunity",
+          "connection": "Explain clonal selection, antibody actions, immune memory, and vaccination."
+        },
+        {
+          "term": "plasma cell",
+          "priority": "Core",
+          "topic": "8.6",
+          "topicTitle": "Clonal Selection, Antibodies & Acquired Immunity",
+          "connection": "Explain clonal selection, antibody actions, immune memory, and vaccination."
+        },
+        {
+          "term": "memory cell",
+          "priority": "Core",
+          "topic": "8.6",
+          "topicTitle": "Clonal Selection, Antibodies & Acquired Immunity",
+          "connection": "Explain clonal selection, antibody actions, immune memory, and vaccination."
+        },
+        {
+          "term": "antibody",
+          "priority": "Core",
+          "topic": "8.6",
+          "topicTitle": "Clonal Selection, Antibodies & Acquired Immunity",
+          "connection": "Explain clonal selection, antibody actions, immune memory, and vaccination."
+        },
+        {
+          "term": "immunoglobulin",
+          "priority": "Core",
+          "topic": "8.6",
+          "topicTitle": "Clonal Selection, Antibodies & Acquired Immunity",
+          "connection": "Explain clonal selection, antibody actions, immune memory, and vaccination."
+        },
+        {
+          "term": "variable region",
+          "priority": "Core",
+          "topic": "8.6",
+          "topicTitle": "Clonal Selection, Antibodies & Acquired Immunity",
+          "connection": "Explain clonal selection, antibody actions, immune memory, and vaccination."
+        },
+        {
+          "term": "constant region",
+          "priority": "Core",
+          "topic": "8.6",
+          "topicTitle": "Clonal Selection, Antibodies & Acquired Immunity",
+          "connection": "Explain clonal selection, antibody actions, immune memory, and vaccination."
+        },
+        {
+          "term": "antigen-binding site",
+          "priority": "Core",
+          "topic": "8.6",
+          "topicTitle": "Clonal Selection, Antibodies & Acquired Immunity",
+          "connection": "Explain clonal selection, antibody actions, immune memory, and vaccination."
+        },
+        {
+          "term": "neutralization",
+          "priority": "Core",
+          "topic": "8.6",
+          "topicTitle": "Clonal Selection, Antibodies & Acquired Immunity",
+          "connection": "Explain clonal selection, antibody actions, immune memory, and vaccination."
+        },
+        {
+          "term": "opsonization",
+          "priority": "Honors Extension",
+          "topic": "8.6",
+          "topicTitle": "Clonal Selection, Antibodies & Acquired Immunity",
+          "connection": "Explain clonal selection, antibody actions, immune memory, and vaccination."
+        },
+        {
+          "term": "complement activation",
+          "priority": "Core",
+          "topic": "8.6",
+          "topicTitle": "Clonal Selection, Antibodies & Acquired Immunity",
+          "connection": "Explain clonal selection, antibody actions, immune memory, and vaccination."
+        },
+        {
+          "term": "primary immune response",
+          "priority": "Core",
+          "topic": "8.6",
+          "topicTitle": "Clonal Selection, Antibodies & Acquired Immunity",
+          "connection": "Explain clonal selection, antibody actions, immune memory, and vaccination."
+        },
+        {
+          "term": "secondary immune response",
+          "priority": "Core",
+          "topic": "8.6",
+          "topicTitle": "Clonal Selection, Antibodies & Acquired Immunity",
+          "connection": "Explain clonal selection, antibody actions, immune memory, and vaccination."
+        },
+        {
+          "term": "active immunity",
+          "priority": "Core",
+          "topic": "8.6",
+          "topicTitle": "Clonal Selection, Antibodies & Acquired Immunity",
+          "connection": "Explain clonal selection, antibody actions, immune memory, and vaccination."
+        },
+        {
+          "term": "passive immunity",
+          "priority": "Core",
+          "topic": "8.6",
+          "topicTitle": "Clonal Selection, Antibodies & Acquired Immunity",
+          "connection": "Explain clonal selection, antibody actions, immune memory, and vaccination."
+        },
+        {
+          "term": "natural immunity",
+          "priority": "Core",
+          "topic": "8.6",
+          "topicTitle": "Clonal Selection, Antibodies & Acquired Immunity",
+          "connection": "Explain clonal selection, antibody actions, immune memory, and vaccination."
+        },
+        {
+          "term": "artificial immunity",
+          "priority": "Core",
+          "topic": "8.6",
+          "topicTitle": "Clonal Selection, Antibodies & Acquired Immunity",
+          "connection": "Explain clonal selection, antibody actions, immune memory, and vaccination."
+        },
+        {
+          "term": "vaccination",
+          "priority": "Core",
+          "topic": "8.6",
+          "topicTitle": "Clonal Selection, Antibodies & Acquired Immunity",
+          "connection": "Explain clonal selection, antibody actions, immune memory, and vaccination."
+        },
+        {
+          "term": "booster",
+          "priority": "Core",
+          "topic": "8.6",
+          "topicTitle": "Clonal Selection, Antibodies & Acquired Immunity",
+          "connection": "Explain clonal selection, antibody actions, immune memory, and vaccination."
+        },
+        {
+          "term": "herd immunity",
+          "priority": "Core",
+          "topic": "8.6",
+          "topicTitle": "Clonal Selection, Antibodies & Acquired Immunity",
+          "connection": "Explain clonal selection, antibody actions, immune memory, and vaccination."
+        },
+        {
+          "term": "human immunodeficiency virus",
+          "priority": "Core",
+          "topic": "8.7",
+          "topicTitle": "Immune Dysfunction & Medical Applications",
+          "connection": "Explain immune dysfunction and medical applications of immune principles."
+        },
+        {
+          "term": "HIV",
+          "priority": "Core",
+          "topic": "8.7",
+          "topicTitle": "Immune Dysfunction & Medical Applications",
+          "connection": "Explain immune dysfunction and medical applications of immune principles."
+        },
+        {
+          "term": "acquired immunodeficiency syndrome",
+          "priority": "Core",
+          "topic": "8.7",
+          "topicTitle": "Immune Dysfunction & Medical Applications",
+          "connection": "Explain immune dysfunction and medical applications of immune principles."
+        },
+        {
+          "term": "AIDS",
+          "priority": "Core",
+          "topic": "8.7",
+          "topicTitle": "Immune Dysfunction & Medical Applications",
+          "connection": "Explain immune dysfunction and medical applications of immune principles."
+        },
+        {
+          "term": "CD4 T cell",
+          "priority": "Core",
+          "topic": "8.7",
+          "topicTitle": "Immune Dysfunction & Medical Applications",
+          "connection": "Explain immune dysfunction and medical applications of immune principles."
+        },
+        {
+          "term": "immunodeficiency",
+          "priority": "Core",
+          "topic": "8.7",
+          "topicTitle": "Immune Dysfunction & Medical Applications",
+          "connection": "Explain immune dysfunction and medical applications of immune principles."
+        },
+        {
+          "term": "hypersensitivity",
+          "priority": "Core",
+          "topic": "8.7",
+          "topicTitle": "Immune Dysfunction & Medical Applications",
+          "connection": "Explain immune dysfunction and medical applications of immune principles."
+        },
+        {
+          "term": "allergy",
+          "priority": "Core",
+          "topic": "8.7",
+          "topicTitle": "Immune Dysfunction & Medical Applications",
+          "connection": "Explain immune dysfunction and medical applications of immune principles."
+        },
+        {
+          "term": "allergen",
+          "priority": "Core",
+          "topic": "8.7",
+          "topicTitle": "Immune Dysfunction & Medical Applications",
+          "connection": "Explain immune dysfunction and medical applications of immune principles."
+        },
+        {
+          "term": "anaphylaxis",
+          "priority": "Core",
+          "topic": "8.7",
+          "topicTitle": "Immune Dysfunction & Medical Applications",
+          "connection": "Explain immune dysfunction and medical applications of immune principles."
+        },
+        {
+          "term": "transplant rejection",
+          "priority": "Core",
+          "topic": "8.7",
+          "topicTitle": "Immune Dysfunction & Medical Applications",
+          "connection": "Explain immune dysfunction and medical applications of immune principles."
+        },
+        {
+          "term": "graft",
+          "priority": "Core",
+          "topic": "8.7",
+          "topicTitle": "Immune Dysfunction & Medical Applications",
+          "connection": "Explain immune dysfunction and medical applications of immune principles."
+        },
+        {
+          "term": "immunosuppressant",
+          "priority": "Core",
+          "topic": "8.7",
+          "topicTitle": "Immune Dysfunction & Medical Applications",
+          "connection": "Explain immune dysfunction and medical applications of immune principles."
+        },
+        {
+          "term": "monoclonal antibody",
+          "priority": "Core",
+          "topic": "8.7",
+          "topicTitle": "Immune Dysfunction & Medical Applications",
+          "connection": "Explain immune dysfunction and medical applications of immune principles."
+        },
+        {
+          "term": "hybridoma",
+          "priority": "Honors Extension",
+          "topic": "8.7",
+          "topicTitle": "Immune Dysfunction & Medical Applications",
+          "connection": "Explain immune dysfunction and medical applications of immune principles."
+        },
+        {
+          "term": "stem cell",
+          "priority": "Core",
+          "topic": "8.7",
+          "topicTitle": "Immune Dysfunction & Medical Applications",
+          "connection": "Explain immune dysfunction and medical applications of immune principles."
+        },
+        {
+          "term": "gene therapy",
+          "priority": "Core",
+          "topic": "8.7",
+          "topicTitle": "Immune Dysfunction & Medical Applications",
+          "connection": "Explain immune dysfunction and medical applications of immune principles."
+        },
+        {
+          "term": "bone marrow transplant",
+          "priority": "Core",
+          "topic": "8.7",
+          "topicTitle": "Immune Dysfunction & Medical Applications",
+          "connection": "Explain immune dysfunction and medical applications of immune principles."
+        }
+      ],
       "topics": [
         {
           "unit": "Unit 8",
@@ -1341,6 +8772,687 @@ window.COURSE_DATA = {
         "carbonic acid",
         "respiratory center"
       ],
+      "vocabularyRecords": [
+        {
+          "term": "respiratory system",
+          "priority": "Core",
+          "topic": "9.1",
+          "topicTitle": "Respiratory Anatomy & Gas Exchange",
+          "connection": "Relate respiratory anatomy and exchange-surface features to gas exchange."
+        },
+        {
+          "term": "ventilation",
+          "priority": "Core",
+          "topic": "9.1",
+          "topicTitle": "Respiratory Anatomy & Gas Exchange",
+          "connection": "Relate respiratory anatomy and exchange-surface features to gas exchange."
+        },
+        {
+          "term": "external respiration",
+          "priority": "Core",
+          "topic": "9.1",
+          "topicTitle": "Respiratory Anatomy & Gas Exchange",
+          "connection": "Relate respiratory anatomy and exchange-surface features to gas exchange."
+        },
+        {
+          "term": "internal respiration",
+          "priority": "Core",
+          "topic": "9.1",
+          "topicTitle": "Respiratory Anatomy & Gas Exchange",
+          "connection": "Relate respiratory anatomy and exchange-surface features to gas exchange."
+        },
+        {
+          "term": "nasal cavity",
+          "priority": "Core",
+          "topic": "9.1",
+          "topicTitle": "Respiratory Anatomy & Gas Exchange",
+          "connection": "Relate respiratory anatomy and exchange-surface features to gas exchange."
+        },
+        {
+          "term": "pharynx",
+          "priority": "Core",
+          "topic": "9.1",
+          "topicTitle": "Respiratory Anatomy & Gas Exchange",
+          "connection": "Relate respiratory anatomy and exchange-surface features to gas exchange."
+        },
+        {
+          "term": "larynx",
+          "priority": "Core",
+          "topic": "9.1",
+          "topicTitle": "Respiratory Anatomy & Gas Exchange",
+          "connection": "Relate respiratory anatomy and exchange-surface features to gas exchange."
+        },
+        {
+          "term": "epiglottis",
+          "priority": "Core",
+          "topic": "9.1",
+          "topicTitle": "Respiratory Anatomy & Gas Exchange",
+          "connection": "Relate respiratory anatomy and exchange-surface features to gas exchange."
+        },
+        {
+          "term": "trachea",
+          "priority": "Core",
+          "topic": "9.1",
+          "topicTitle": "Respiratory Anatomy & Gas Exchange",
+          "connection": "Relate respiratory anatomy and exchange-surface features to gas exchange."
+        },
+        {
+          "term": "bronchus",
+          "priority": "Core",
+          "topic": "9.1",
+          "topicTitle": "Respiratory Anatomy & Gas Exchange",
+          "connection": "Relate respiratory anatomy and exchange-surface features to gas exchange."
+        },
+        {
+          "term": "bronchiole",
+          "priority": "Core",
+          "topic": "9.1",
+          "topicTitle": "Respiratory Anatomy & Gas Exchange",
+          "connection": "Relate respiratory anatomy and exchange-surface features to gas exchange."
+        },
+        {
+          "term": "alveolus",
+          "priority": "Core",
+          "topic": "9.1",
+          "topicTitle": "Respiratory Anatomy & Gas Exchange",
+          "connection": "Relate respiratory anatomy and exchange-surface features to gas exchange."
+        },
+        {
+          "term": "alveolar duct",
+          "priority": "Core",
+          "topic": "9.1",
+          "topicTitle": "Respiratory Anatomy & Gas Exchange",
+          "connection": "Relate respiratory anatomy and exchange-surface features to gas exchange."
+        },
+        {
+          "term": "alveolar sac",
+          "priority": "Core",
+          "topic": "9.1",
+          "topicTitle": "Respiratory Anatomy & Gas Exchange",
+          "connection": "Relate respiratory anatomy and exchange-surface features to gas exchange."
+        },
+        {
+          "term": "lung",
+          "priority": "Core",
+          "topic": "9.1",
+          "topicTitle": "Respiratory Anatomy & Gas Exchange",
+          "connection": "Relate respiratory anatomy and exchange-surface features to gas exchange."
+        },
+        {
+          "term": "pleura",
+          "priority": "Core",
+          "topic": "9.1",
+          "topicTitle": "Respiratory Anatomy & Gas Exchange",
+          "connection": "Relate respiratory anatomy and exchange-surface features to gas exchange."
+        },
+        {
+          "term": "respiratory membrane",
+          "priority": "Core",
+          "topic": "9.1",
+          "topicTitle": "Respiratory Anatomy & Gas Exchange",
+          "connection": "Relate respiratory anatomy and exchange-surface features to gas exchange."
+        },
+        {
+          "term": "type I alveolar cell",
+          "priority": "Honors Extension",
+          "topic": "9.1",
+          "topicTitle": "Respiratory Anatomy & Gas Exchange",
+          "connection": "Relate respiratory anatomy and exchange-surface features to gas exchange."
+        },
+        {
+          "term": "type II alveolar cell",
+          "priority": "Honors Extension",
+          "topic": "9.1",
+          "topicTitle": "Respiratory Anatomy & Gas Exchange",
+          "connection": "Relate respiratory anatomy and exchange-surface features to gas exchange."
+        },
+        {
+          "term": "surfactant",
+          "priority": "Core",
+          "topic": "9.1",
+          "topicTitle": "Respiratory Anatomy & Gas Exchange",
+          "connection": "Relate respiratory anatomy and exchange-surface features to gas exchange."
+        },
+        {
+          "term": "pulmonary capillary",
+          "priority": "Core",
+          "topic": "9.1",
+          "topicTitle": "Respiratory Anatomy & Gas Exchange",
+          "connection": "Relate respiratory anatomy and exchange-surface features to gas exchange."
+        },
+        {
+          "term": "partial pressure",
+          "priority": "Core",
+          "topic": "9.1",
+          "topicTitle": "Respiratory Anatomy & Gas Exchange",
+          "connection": "Relate respiratory anatomy and exchange-surface features to gas exchange."
+        },
+        {
+          "term": "diffusion",
+          "priority": "Core",
+          "topic": "9.1",
+          "topicTitle": "Respiratory Anatomy & Gas Exchange",
+          "connection": "Relate respiratory anatomy and exchange-surface features to gas exchange."
+        },
+        {
+          "term": "hemoglobin",
+          "priority": "Core",
+          "topic": "9.2",
+          "topicTitle": "Gas Transport",
+          "connection": "Explain oxygen and carbon-dioxide transport in blood."
+        },
+        {
+          "term": "oxyhemoglobin",
+          "priority": "Core",
+          "topic": "9.2",
+          "topicTitle": "Gas Transport",
+          "connection": "Explain oxygen and carbon-dioxide transport in blood."
+        },
+        {
+          "term": "deoxyhemoglobin",
+          "priority": "Core",
+          "topic": "9.2",
+          "topicTitle": "Gas Transport",
+          "connection": "Explain oxygen and carbon-dioxide transport in blood."
+        },
+        {
+          "term": "oxygen saturation",
+          "priority": "Core",
+          "topic": "9.2",
+          "topicTitle": "Gas Transport",
+          "connection": "Explain oxygen and carbon-dioxide transport in blood."
+        },
+        {
+          "term": "oxygen-hemoglobin dissociation curve",
+          "priority": "Core",
+          "topic": "9.2",
+          "topicTitle": "Gas Transport",
+          "connection": "Explain oxygen and carbon-dioxide transport in blood."
+        },
+        {
+          "term": "carbon dioxide",
+          "priority": "Core",
+          "topic": "9.2",
+          "topicTitle": "Gas Transport",
+          "connection": "Explain oxygen and carbon-dioxide transport in blood."
+        },
+        {
+          "term": "bicarbonate ion",
+          "priority": "Core",
+          "topic": "9.2",
+          "topicTitle": "Gas Transport",
+          "connection": "Explain oxygen and carbon-dioxide transport in blood."
+        },
+        {
+          "term": "carbonic acid",
+          "priority": "Core",
+          "topic": "9.2",
+          "topicTitle": "Gas Transport",
+          "connection": "Explain oxygen and carbon-dioxide transport in blood."
+        },
+        {
+          "term": "carbonic anhydrase",
+          "priority": "Core",
+          "topic": "9.2",
+          "topicTitle": "Gas Transport",
+          "connection": "Explain oxygen and carbon-dioxide transport in blood."
+        },
+        {
+          "term": "carbaminohemoglobin",
+          "priority": "Core",
+          "topic": "9.2",
+          "topicTitle": "Gas Transport",
+          "connection": "Explain oxygen and carbon-dioxide transport in blood."
+        },
+        {
+          "term": "chloride shift",
+          "priority": "Honors Extension",
+          "topic": "9.2",
+          "topicTitle": "Gas Transport",
+          "connection": "Explain oxygen and carbon-dioxide transport in blood."
+        },
+        {
+          "term": "Bohr effect",
+          "priority": "Honors Extension",
+          "topic": "9.2",
+          "topicTitle": "Gas Transport",
+          "connection": "Explain oxygen and carbon-dioxide transport in blood."
+        },
+        {
+          "term": "inspiration",
+          "priority": "Core",
+          "topic": "9.3",
+          "topicTitle": "Breathing & Control of Ventilation",
+          "connection": "Explain breathing mechanics, neural control, and sleep apnea."
+        },
+        {
+          "term": "expiration",
+          "priority": "Core",
+          "topic": "9.3",
+          "topicTitle": "Breathing & Control of Ventilation",
+          "connection": "Explain breathing mechanics, neural control, and sleep apnea."
+        },
+        {
+          "term": "diaphragm",
+          "priority": "Core",
+          "topic": "9.3",
+          "topicTitle": "Breathing & Control of Ventilation",
+          "connection": "Explain breathing mechanics, neural control, and sleep apnea."
+        },
+        {
+          "term": "external intercostal muscle",
+          "priority": "Core",
+          "topic": "9.3",
+          "topicTitle": "Breathing & Control of Ventilation",
+          "connection": "Explain breathing mechanics, neural control, and sleep apnea."
+        },
+        {
+          "term": "internal intercostal muscle",
+          "priority": "Core",
+          "topic": "9.3",
+          "topicTitle": "Breathing & Control of Ventilation",
+          "connection": "Explain breathing mechanics, neural control, and sleep apnea."
+        },
+        {
+          "term": "intrapulmonary pressure",
+          "priority": "Core",
+          "topic": "9.3",
+          "topicTitle": "Breathing & Control of Ventilation",
+          "connection": "Explain breathing mechanics, neural control, and sleep apnea."
+        },
+        {
+          "term": "intrapleural pressure",
+          "priority": "Core",
+          "topic": "9.3",
+          "topicTitle": "Breathing & Control of Ventilation",
+          "connection": "Explain breathing mechanics, neural control, and sleep apnea."
+        },
+        {
+          "term": "tidal breathing",
+          "priority": "Core",
+          "topic": "9.3",
+          "topicTitle": "Breathing & Control of Ventilation",
+          "connection": "Explain breathing mechanics, neural control, and sleep apnea."
+        },
+        {
+          "term": "forced breathing",
+          "priority": "Core",
+          "topic": "9.3",
+          "topicTitle": "Breathing & Control of Ventilation",
+          "connection": "Explain breathing mechanics, neural control, and sleep apnea."
+        },
+        {
+          "term": "respiratory center",
+          "priority": "Core",
+          "topic": "9.3",
+          "topicTitle": "Breathing & Control of Ventilation",
+          "connection": "Explain breathing mechanics, neural control, and sleep apnea."
+        },
+        {
+          "term": "medulla oblongata",
+          "priority": "Core",
+          "topic": "9.3",
+          "topicTitle": "Breathing & Control of Ventilation",
+          "connection": "Explain breathing mechanics, neural control, and sleep apnea."
+        },
+        {
+          "term": "pons",
+          "priority": "Core",
+          "topic": "9.3",
+          "topicTitle": "Breathing & Control of Ventilation",
+          "connection": "Explain breathing mechanics, neural control, and sleep apnea."
+        },
+        {
+          "term": "phrenic nerve",
+          "priority": "Core",
+          "topic": "9.3",
+          "topicTitle": "Breathing & Control of Ventilation",
+          "connection": "Explain breathing mechanics, neural control, and sleep apnea."
+        },
+        {
+          "term": "vagus nerve",
+          "priority": "Core",
+          "topic": "9.3",
+          "topicTitle": "Breathing & Control of Ventilation",
+          "connection": "Explain breathing mechanics, neural control, and sleep apnea."
+        },
+        {
+          "term": "central chemoreceptor",
+          "priority": "Core",
+          "topic": "9.3",
+          "topicTitle": "Breathing & Control of Ventilation",
+          "connection": "Explain breathing mechanics, neural control, and sleep apnea."
+        },
+        {
+          "term": "peripheral chemoreceptor",
+          "priority": "Core",
+          "topic": "9.3",
+          "topicTitle": "Breathing & Control of Ventilation",
+          "connection": "Explain breathing mechanics, neural control, and sleep apnea."
+        },
+        {
+          "term": "sleep apnea",
+          "priority": "Core",
+          "topic": "9.3",
+          "topicTitle": "Breathing & Control of Ventilation",
+          "connection": "Explain breathing mechanics, neural control, and sleep apnea."
+        },
+        {
+          "term": "spirometry",
+          "priority": "Core",
+          "topic": "9.4",
+          "topicTitle": "Lung Function & Spirometry",
+          "connection": "Interpret spirometry and lung-volume data."
+        },
+        {
+          "term": "spirometer",
+          "priority": "Core",
+          "topic": "9.4",
+          "topicTitle": "Lung Function & Spirometry",
+          "connection": "Interpret spirometry and lung-volume data."
+        },
+        {
+          "term": "spirogram",
+          "priority": "Core",
+          "topic": "9.4",
+          "topicTitle": "Lung Function & Spirometry",
+          "connection": "Interpret spirometry and lung-volume data."
+        },
+        {
+          "term": "tidal volume",
+          "priority": "Core",
+          "topic": "9.4",
+          "topicTitle": "Lung Function & Spirometry",
+          "connection": "Interpret spirometry and lung-volume data."
+        },
+        {
+          "term": "inspiratory reserve volume",
+          "priority": "Core",
+          "topic": "9.4",
+          "topicTitle": "Lung Function & Spirometry",
+          "connection": "Interpret spirometry and lung-volume data."
+        },
+        {
+          "term": "expiratory reserve volume",
+          "priority": "Core",
+          "topic": "9.4",
+          "topicTitle": "Lung Function & Spirometry",
+          "connection": "Interpret spirometry and lung-volume data."
+        },
+        {
+          "term": "residual volume",
+          "priority": "Core",
+          "topic": "9.4",
+          "topicTitle": "Lung Function & Spirometry",
+          "connection": "Interpret spirometry and lung-volume data."
+        },
+        {
+          "term": "vital capacity",
+          "priority": "Core",
+          "topic": "9.4",
+          "topicTitle": "Lung Function & Spirometry",
+          "connection": "Interpret spirometry and lung-volume data."
+        },
+        {
+          "term": "inspiratory capacity",
+          "priority": "Core",
+          "topic": "9.4",
+          "topicTitle": "Lung Function & Spirometry",
+          "connection": "Interpret spirometry and lung-volume data."
+        },
+        {
+          "term": "functional residual capacity",
+          "priority": "Honors Extension",
+          "topic": "9.4",
+          "topicTitle": "Lung Function & Spirometry",
+          "connection": "Interpret spirometry and lung-volume data."
+        },
+        {
+          "term": "total lung capacity",
+          "priority": "Core",
+          "topic": "9.4",
+          "topicTitle": "Lung Function & Spirometry",
+          "connection": "Interpret spirometry and lung-volume data."
+        },
+        {
+          "term": "forced vital capacity",
+          "priority": "Core",
+          "topic": "9.4",
+          "topicTitle": "Lung Function & Spirometry",
+          "connection": "Interpret spirometry and lung-volume data."
+        },
+        {
+          "term": "FEV1",
+          "priority": "Honors Extension",
+          "topic": "9.4",
+          "topicTitle": "Lung Function & Spirometry",
+          "connection": "Interpret spirometry and lung-volume data."
+        },
+        {
+          "term": "minute ventilation",
+          "priority": "Core",
+          "topic": "9.4",
+          "topicTitle": "Lung Function & Spirometry",
+          "connection": "Interpret spirometry and lung-volume data."
+        },
+        {
+          "term": "dead space",
+          "priority": "Core",
+          "topic": "9.4",
+          "topicTitle": "Lung Function & Spirometry",
+          "connection": "Interpret spirometry and lung-volume data."
+        },
+        {
+          "term": "respiratory disease",
+          "priority": "Core",
+          "topic": "9.5",
+          "topicTitle": "Respiratory Disease, Smoking & Vaping",
+          "connection": "Explain how disease, smoking, and vaping alter respiratory function."
+        },
+        {
+          "term": "asthma",
+          "priority": "Core",
+          "topic": "9.5",
+          "topicTitle": "Respiratory Disease, Smoking & Vaping",
+          "connection": "Explain how disease, smoking, and vaping alter respiratory function."
+        },
+        {
+          "term": "bronchitis",
+          "priority": "Core",
+          "topic": "9.5",
+          "topicTitle": "Respiratory Disease, Smoking & Vaping",
+          "connection": "Explain how disease, smoking, and vaping alter respiratory function."
+        },
+        {
+          "term": "emphysema",
+          "priority": "Core",
+          "topic": "9.5",
+          "topicTitle": "Respiratory Disease, Smoking & Vaping",
+          "connection": "Explain how disease, smoking, and vaping alter respiratory function."
+        },
+        {
+          "term": "chronic obstructive pulmonary disease",
+          "priority": "Core",
+          "topic": "9.5",
+          "topicTitle": "Respiratory Disease, Smoking & Vaping",
+          "connection": "Explain how disease, smoking, and vaping alter respiratory function."
+        },
+        {
+          "term": "COPD",
+          "priority": "Core",
+          "topic": "9.5",
+          "topicTitle": "Respiratory Disease, Smoking & Vaping",
+          "connection": "Explain how disease, smoking, and vaping alter respiratory function."
+        },
+        {
+          "term": "pneumonia",
+          "priority": "Core",
+          "topic": "9.5",
+          "topicTitle": "Respiratory Disease, Smoking & Vaping",
+          "connection": "Explain how disease, smoking, and vaping alter respiratory function."
+        },
+        {
+          "term": "tuberculosis",
+          "priority": "Core",
+          "topic": "9.5",
+          "topicTitle": "Respiratory Disease, Smoking & Vaping",
+          "connection": "Explain how disease, smoking, and vaping alter respiratory function."
+        },
+        {
+          "term": "lung cancer",
+          "priority": "Core",
+          "topic": "9.5",
+          "topicTitle": "Respiratory Disease, Smoking & Vaping",
+          "connection": "Explain how disease, smoking, and vaping alter respiratory function."
+        },
+        {
+          "term": "COVID-19",
+          "priority": "Core",
+          "topic": "9.5",
+          "topicTitle": "Respiratory Disease, Smoking & Vaping",
+          "connection": "Explain how disease, smoking, and vaping alter respiratory function."
+        },
+        {
+          "term": "fibrosis",
+          "priority": "Core",
+          "topic": "9.5",
+          "topicTitle": "Respiratory Disease, Smoking & Vaping",
+          "connection": "Explain how disease, smoking, and vaping alter respiratory function."
+        },
+        {
+          "term": "carcinogen",
+          "priority": "Core",
+          "topic": "9.5",
+          "topicTitle": "Respiratory Disease, Smoking & Vaping",
+          "connection": "Explain how disease, smoking, and vaping alter respiratory function."
+        },
+        {
+          "term": "tar",
+          "priority": "Core",
+          "topic": "9.5",
+          "topicTitle": "Respiratory Disease, Smoking & Vaping",
+          "connection": "Explain how disease, smoking, and vaping alter respiratory function."
+        },
+        {
+          "term": "nicotine",
+          "priority": "Core",
+          "topic": "9.5",
+          "topicTitle": "Respiratory Disease, Smoking & Vaping",
+          "connection": "Explain how disease, smoking, and vaping alter respiratory function."
+        },
+        {
+          "term": "carbon monoxide",
+          "priority": "Core",
+          "topic": "9.5",
+          "topicTitle": "Respiratory Disease, Smoking & Vaping",
+          "connection": "Explain how disease, smoking, and vaping alter respiratory function."
+        },
+        {
+          "term": "vaping",
+          "priority": "Core",
+          "topic": "9.5",
+          "topicTitle": "Respiratory Disease, Smoking & Vaping",
+          "connection": "Explain how disease, smoking, and vaping alter respiratory function."
+        },
+        {
+          "term": "e-cigarette",
+          "priority": "Core",
+          "topic": "9.5",
+          "topicTitle": "Respiratory Disease, Smoking & Vaping",
+          "connection": "Explain how disease, smoking, and vaping alter respiratory function."
+        },
+        {
+          "term": "particulate matter",
+          "priority": "Core",
+          "topic": "9.5",
+          "topicTitle": "Respiratory Disease, Smoking & Vaping",
+          "connection": "Explain how disease, smoking, and vaping alter respiratory function."
+        },
+        {
+          "term": "hypoxia",
+          "priority": "Core",
+          "topic": "9.6",
+          "topicTitle": "Exercise, Altitude & Respiratory Aging",
+          "connection": "Explain respiratory adjustments to exercise, altitude, and aging."
+        },
+        {
+          "term": "altitude acclimatization",
+          "priority": "Core",
+          "topic": "9.6",
+          "topicTitle": "Exercise, Altitude & Respiratory Aging",
+          "connection": "Explain respiratory adjustments to exercise, altitude, and aging."
+        },
+        {
+          "term": "hyperventilation",
+          "priority": "Core",
+          "topic": "9.6",
+          "topicTitle": "Exercise, Altitude & Respiratory Aging",
+          "connection": "Explain respiratory adjustments to exercise, altitude, and aging."
+        },
+        {
+          "term": "erythropoietin",
+          "priority": "Core",
+          "topic": "9.6",
+          "topicTitle": "Exercise, Altitude & Respiratory Aging",
+          "connection": "Explain respiratory adjustments to exercise, altitude, and aging."
+        },
+        {
+          "term": "polycythemia",
+          "priority": "Honors Extension",
+          "topic": "9.6",
+          "topicTitle": "Exercise, Altitude & Respiratory Aging",
+          "connection": "Explain respiratory adjustments to exercise, altitude, and aging."
+        },
+        {
+          "term": "oxygen debt",
+          "priority": "Core",
+          "topic": "9.6",
+          "topicTitle": "Exercise, Altitude & Respiratory Aging",
+          "connection": "Explain respiratory adjustments to exercise, altitude, and aging."
+        },
+        {
+          "term": "ventilation rate",
+          "priority": "Core",
+          "topic": "9.6",
+          "topicTitle": "Exercise, Altitude & Respiratory Aging",
+          "connection": "Explain respiratory adjustments to exercise, altitude, and aging."
+        },
+        {
+          "term": "respiratory rate",
+          "priority": "Core",
+          "topic": "9.6",
+          "topicTitle": "Exercise, Altitude & Respiratory Aging",
+          "connection": "Explain respiratory adjustments to exercise, altitude, and aging."
+        },
+        {
+          "term": "maximal oxygen uptake",
+          "priority": "Core",
+          "topic": "9.6",
+          "topicTitle": "Exercise, Altitude & Respiratory Aging",
+          "connection": "Explain respiratory adjustments to exercise, altitude, and aging."
+        },
+        {
+          "term": "VO2 max",
+          "priority": "Core",
+          "topic": "9.6",
+          "topicTitle": "Exercise, Altitude & Respiratory Aging",
+          "connection": "Explain respiratory adjustments to exercise, altitude, and aging."
+        },
+        {
+          "term": "elastic recoil",
+          "priority": "Core",
+          "topic": "9.6",
+          "topicTitle": "Exercise, Altitude & Respiratory Aging",
+          "connection": "Explain respiratory adjustments to exercise, altitude, and aging."
+        },
+        {
+          "term": "age-related vital-capacity decline",
+          "priority": "Core",
+          "topic": "9.6",
+          "topicTitle": "Exercise, Altitude & Respiratory Aging",
+          "connection": "Explain respiratory adjustments to exercise, altitude, and aging."
+        }
+      ],
       "topics": [
         {
           "unit": "Unit 9",
@@ -1484,6 +9596,841 @@ window.COURSE_DATA = {
         "microvillus",
         "enzyme",
         "metabolism"
+      ],
+      "vocabularyRecords": [
+        {
+          "term": "nutrition",
+          "priority": "Core",
+          "topic": "10.1",
+          "topicTitle": "Nutrition & Balanced Diet",
+          "connection": "Evaluate diet using nutritional and energy-balance principles."
+        },
+        {
+          "term": "nutrient",
+          "priority": "Core",
+          "topic": "10.1",
+          "topicTitle": "Nutrition & Balanced Diet",
+          "connection": "Evaluate diet using nutritional and energy-balance principles."
+        },
+        {
+          "term": "macronutrient",
+          "priority": "Core",
+          "topic": "10.1",
+          "topicTitle": "Nutrition & Balanced Diet",
+          "connection": "Evaluate diet using nutritional and energy-balance principles."
+        },
+        {
+          "term": "micronutrient",
+          "priority": "Core",
+          "topic": "10.1",
+          "topicTitle": "Nutrition & Balanced Diet",
+          "connection": "Evaluate diet using nutritional and energy-balance principles."
+        },
+        {
+          "term": "carbohydrate",
+          "priority": "Core",
+          "topic": "10.1",
+          "topicTitle": "Nutrition & Balanced Diet",
+          "connection": "Evaluate diet using nutritional and energy-balance principles."
+        },
+        {
+          "term": "protein",
+          "priority": "Core",
+          "topic": "10.1",
+          "topicTitle": "Nutrition & Balanced Diet",
+          "connection": "Evaluate diet using nutritional and energy-balance principles."
+        },
+        {
+          "term": "lipid",
+          "priority": "Core",
+          "topic": "10.1",
+          "topicTitle": "Nutrition & Balanced Diet",
+          "connection": "Evaluate diet using nutritional and energy-balance principles."
+        },
+        {
+          "term": "vitamin",
+          "priority": "Core",
+          "topic": "10.1",
+          "topicTitle": "Nutrition & Balanced Diet",
+          "connection": "Evaluate diet using nutritional and energy-balance principles."
+        },
+        {
+          "term": "mineral",
+          "priority": "Core",
+          "topic": "10.1",
+          "topicTitle": "Nutrition & Balanced Diet",
+          "connection": "Evaluate diet using nutritional and energy-balance principles."
+        },
+        {
+          "term": "essential nutrient",
+          "priority": "Core",
+          "topic": "10.1",
+          "topicTitle": "Nutrition & Balanced Diet",
+          "connection": "Evaluate diet using nutritional and energy-balance principles."
+        },
+        {
+          "term": "calorie",
+          "priority": "Core",
+          "topic": "10.1",
+          "topicTitle": "Nutrition & Balanced Diet",
+          "connection": "Evaluate diet using nutritional and energy-balance principles."
+        },
+        {
+          "term": "kilocalorie",
+          "priority": "Core",
+          "topic": "10.1",
+          "topicTitle": "Nutrition & Balanced Diet",
+          "connection": "Evaluate diet using nutritional and energy-balance principles."
+        },
+        {
+          "term": "basal metabolic rate",
+          "priority": "Core",
+          "topic": "10.1",
+          "topicTitle": "Nutrition & Balanced Diet",
+          "connection": "Evaluate diet using nutritional and energy-balance principles."
+        },
+        {
+          "term": "dietary reference intake",
+          "priority": "Honors Extension",
+          "topic": "10.1",
+          "topicTitle": "Nutrition & Balanced Diet",
+          "connection": "Evaluate diet using nutritional and energy-balance principles."
+        },
+        {
+          "term": "balanced diet",
+          "priority": "Core",
+          "topic": "10.1",
+          "topicTitle": "Nutrition & Balanced Diet",
+          "connection": "Evaluate diet using nutritional and energy-balance principles."
+        },
+        {
+          "term": "energy balance",
+          "priority": "Core",
+          "topic": "10.1",
+          "topicTitle": "Nutrition & Balanced Diet",
+          "connection": "Evaluate diet using nutritional and energy-balance principles."
+        },
+        {
+          "term": "digestive system",
+          "priority": "Core",
+          "topic": "10.2",
+          "topicTitle": "Digestive Tract, Motility & Digestion",
+          "connection": "Trace food through the tract and explain mechanical and chemical processing."
+        },
+        {
+          "term": "alimentary canal",
+          "priority": "Core",
+          "topic": "10.2",
+          "topicTitle": "Digestive Tract, Motility & Digestion",
+          "connection": "Trace food through the tract and explain mechanical and chemical processing."
+        },
+        {
+          "term": "gastrointestinal tract",
+          "priority": "Core",
+          "topic": "10.2",
+          "topicTitle": "Digestive Tract, Motility & Digestion",
+          "connection": "Trace food through the tract and explain mechanical and chemical processing."
+        },
+        {
+          "term": "ingestion",
+          "priority": "Core",
+          "topic": "10.2",
+          "topicTitle": "Digestive Tract, Motility & Digestion",
+          "connection": "Trace food through the tract and explain mechanical and chemical processing."
+        },
+        {
+          "term": "propulsion",
+          "priority": "Core",
+          "topic": "10.2",
+          "topicTitle": "Digestive Tract, Motility & Digestion",
+          "connection": "Trace food through the tract and explain mechanical and chemical processing."
+        },
+        {
+          "term": "mechanical digestion",
+          "priority": "Core",
+          "topic": "10.2",
+          "topicTitle": "Digestive Tract, Motility & Digestion",
+          "connection": "Trace food through the tract and explain mechanical and chemical processing."
+        },
+        {
+          "term": "chemical digestion",
+          "priority": "Core",
+          "topic": "10.2",
+          "topicTitle": "Digestive Tract, Motility & Digestion",
+          "connection": "Trace food through the tract and explain mechanical and chemical processing."
+        },
+        {
+          "term": "secretion",
+          "priority": "Core",
+          "topic": "10.2",
+          "topicTitle": "Digestive Tract, Motility & Digestion",
+          "connection": "Trace food through the tract and explain mechanical and chemical processing."
+        },
+        {
+          "term": "absorption",
+          "priority": "Core",
+          "topic": "10.2",
+          "topicTitle": "Digestive Tract, Motility & Digestion",
+          "connection": "Trace food through the tract and explain mechanical and chemical processing."
+        },
+        {
+          "term": "defecation",
+          "priority": "Core",
+          "topic": "10.2",
+          "topicTitle": "Digestive Tract, Motility & Digestion",
+          "connection": "Trace food through the tract and explain mechanical and chemical processing."
+        },
+        {
+          "term": "egestion",
+          "priority": "Core",
+          "topic": "10.2",
+          "topicTitle": "Digestive Tract, Motility & Digestion",
+          "connection": "Trace food through the tract and explain mechanical and chemical processing."
+        },
+        {
+          "term": "oral cavity",
+          "priority": "Core",
+          "topic": "10.2",
+          "topicTitle": "Digestive Tract, Motility & Digestion",
+          "connection": "Trace food through the tract and explain mechanical and chemical processing."
+        },
+        {
+          "term": "tooth",
+          "priority": "Core",
+          "topic": "10.2",
+          "topicTitle": "Digestive Tract, Motility & Digestion",
+          "connection": "Trace food through the tract and explain mechanical and chemical processing."
+        },
+        {
+          "term": "mastication",
+          "priority": "Core",
+          "topic": "10.2",
+          "topicTitle": "Digestive Tract, Motility & Digestion",
+          "connection": "Trace food through the tract and explain mechanical and chemical processing."
+        },
+        {
+          "term": "saliva",
+          "priority": "Core",
+          "topic": "10.2",
+          "topicTitle": "Digestive Tract, Motility & Digestion",
+          "connection": "Trace food through the tract and explain mechanical and chemical processing."
+        },
+        {
+          "term": "bolus",
+          "priority": "Core",
+          "topic": "10.2",
+          "topicTitle": "Digestive Tract, Motility & Digestion",
+          "connection": "Trace food through the tract and explain mechanical and chemical processing."
+        },
+        {
+          "term": "pharynx",
+          "priority": "Core",
+          "topic": "10.2",
+          "topicTitle": "Digestive Tract, Motility & Digestion",
+          "connection": "Trace food through the tract and explain mechanical and chemical processing."
+        },
+        {
+          "term": "esophagus",
+          "priority": "Core",
+          "topic": "10.2",
+          "topicTitle": "Digestive Tract, Motility & Digestion",
+          "connection": "Trace food through the tract and explain mechanical and chemical processing."
+        },
+        {
+          "term": "peristalsis",
+          "priority": "Core",
+          "topic": "10.2",
+          "topicTitle": "Digestive Tract, Motility & Digestion",
+          "connection": "Trace food through the tract and explain mechanical and chemical processing."
+        },
+        {
+          "term": "segmentation",
+          "priority": "Core",
+          "topic": "10.2",
+          "topicTitle": "Digestive Tract, Motility & Digestion",
+          "connection": "Trace food through the tract and explain mechanical and chemical processing."
+        },
+        {
+          "term": "sphincter",
+          "priority": "Core",
+          "topic": "10.2",
+          "topicTitle": "Digestive Tract, Motility & Digestion",
+          "connection": "Trace food through the tract and explain mechanical and chemical processing."
+        },
+        {
+          "term": "stomach",
+          "priority": "Core",
+          "topic": "10.3",
+          "topicTitle": "Stomach, Small Intestine & Absorption",
+          "connection": "Relate stomach and intestinal structure and secretions to digestion and absorption."
+        },
+        {
+          "term": "gastric gland",
+          "priority": "Core",
+          "topic": "10.3",
+          "topicTitle": "Stomach, Small Intestine & Absorption",
+          "connection": "Relate stomach and intestinal structure and secretions to digestion and absorption."
+        },
+        {
+          "term": "gastric pit",
+          "priority": "Core",
+          "topic": "10.3",
+          "topicTitle": "Stomach, Small Intestine & Absorption",
+          "connection": "Relate stomach and intestinal structure and secretions to digestion and absorption."
+        },
+        {
+          "term": "parietal cell",
+          "priority": "Core",
+          "topic": "10.3",
+          "topicTitle": "Stomach, Small Intestine & Absorption",
+          "connection": "Relate stomach and intestinal structure and secretions to digestion and absorption."
+        },
+        {
+          "term": "chief cell",
+          "priority": "Core",
+          "topic": "10.3",
+          "topicTitle": "Stomach, Small Intestine & Absorption",
+          "connection": "Relate stomach and intestinal structure and secretions to digestion and absorption."
+        },
+        {
+          "term": "hydrochloric acid",
+          "priority": "Core",
+          "topic": "10.3",
+          "topicTitle": "Stomach, Small Intestine & Absorption",
+          "connection": "Relate stomach and intestinal structure and secretions to digestion and absorption."
+        },
+        {
+          "term": "pepsin",
+          "priority": "Core",
+          "topic": "10.3",
+          "topicTitle": "Stomach, Small Intestine & Absorption",
+          "connection": "Relate stomach and intestinal structure and secretions to digestion and absorption."
+        },
+        {
+          "term": "intrinsic factor",
+          "priority": "Core",
+          "topic": "10.3",
+          "topicTitle": "Stomach, Small Intestine & Absorption",
+          "connection": "Relate stomach and intestinal structure and secretions to digestion and absorption."
+        },
+        {
+          "term": "chyme",
+          "priority": "Core",
+          "topic": "10.3",
+          "topicTitle": "Stomach, Small Intestine & Absorption",
+          "connection": "Relate stomach and intestinal structure and secretions to digestion and absorption."
+        },
+        {
+          "term": "small intestine",
+          "priority": "Core",
+          "topic": "10.3",
+          "topicTitle": "Stomach, Small Intestine & Absorption",
+          "connection": "Relate stomach and intestinal structure and secretions to digestion and absorption."
+        },
+        {
+          "term": "duodenum",
+          "priority": "Core",
+          "topic": "10.3",
+          "topicTitle": "Stomach, Small Intestine & Absorption",
+          "connection": "Relate stomach and intestinal structure and secretions to digestion and absorption."
+        },
+        {
+          "term": "jejunum",
+          "priority": "Core",
+          "topic": "10.3",
+          "topicTitle": "Stomach, Small Intestine & Absorption",
+          "connection": "Relate stomach and intestinal structure and secretions to digestion and absorption."
+        },
+        {
+          "term": "ileum",
+          "priority": "Core",
+          "topic": "10.3",
+          "topicTitle": "Stomach, Small Intestine & Absorption",
+          "connection": "Relate stomach and intestinal structure and secretions to digestion and absorption."
+        },
+        {
+          "term": "villus",
+          "priority": "Core",
+          "topic": "10.3",
+          "topicTitle": "Stomach, Small Intestine & Absorption",
+          "connection": "Relate stomach and intestinal structure and secretions to digestion and absorption."
+        },
+        {
+          "term": "microvillus",
+          "priority": "Core",
+          "topic": "10.3",
+          "topicTitle": "Stomach, Small Intestine & Absorption",
+          "connection": "Relate stomach and intestinal structure and secretions to digestion and absorption."
+        },
+        {
+          "term": "brush border",
+          "priority": "Core",
+          "topic": "10.3",
+          "topicTitle": "Stomach, Small Intestine & Absorption",
+          "connection": "Relate stomach and intestinal structure and secretions to digestion and absorption."
+        },
+        {
+          "term": "lacteal",
+          "priority": "Core",
+          "topic": "10.3",
+          "topicTitle": "Stomach, Small Intestine & Absorption",
+          "connection": "Relate stomach and intestinal structure and secretions to digestion and absorption."
+        },
+        {
+          "term": "pancreatic juice",
+          "priority": "Core",
+          "topic": "10.3",
+          "topicTitle": "Stomach, Small Intestine & Absorption",
+          "connection": "Relate stomach and intestinal structure and secretions to digestion and absorption."
+        },
+        {
+          "term": "bile",
+          "priority": "Core",
+          "topic": "10.3",
+          "topicTitle": "Stomach, Small Intestine & Absorption",
+          "connection": "Relate stomach and intestinal structure and secretions to digestion and absorption."
+        },
+        {
+          "term": "large intestine",
+          "priority": "Core",
+          "topic": "10.3",
+          "topicTitle": "Stomach, Small Intestine & Absorption",
+          "connection": "Relate stomach and intestinal structure and secretions to digestion and absorption."
+        },
+        {
+          "term": "colon",
+          "priority": "Core",
+          "topic": "10.3",
+          "topicTitle": "Stomach, Small Intestine & Absorption",
+          "connection": "Relate stomach and intestinal structure and secretions to digestion and absorption."
+        },
+        {
+          "term": "microbiota",
+          "priority": "Core",
+          "topic": "10.3",
+          "topicTitle": "Stomach, Small Intestine & Absorption",
+          "connection": "Relate stomach and intestinal structure and secretions to digestion and absorption."
+        },
+        {
+          "term": "feces",
+          "priority": "Core",
+          "topic": "10.3",
+          "topicTitle": "Stomach, Small Intestine & Absorption",
+          "connection": "Relate stomach and intestinal structure and secretions to digestion and absorption."
+        },
+        {
+          "term": "enteric nervous system",
+          "priority": "Honors Extension",
+          "topic": "10.4",
+          "topicTitle": "Control of Digestion",
+          "connection": "Explain nervous and hormonal control of digestion."
+        },
+        {
+          "term": "vagus nerve",
+          "priority": "Core",
+          "topic": "10.4",
+          "topicTitle": "Control of Digestion",
+          "connection": "Explain nervous and hormonal control of digestion."
+        },
+        {
+          "term": "cephalic phase",
+          "priority": "Core",
+          "topic": "10.4",
+          "topicTitle": "Control of Digestion",
+          "connection": "Explain nervous and hormonal control of digestion."
+        },
+        {
+          "term": "gastric phase",
+          "priority": "Core",
+          "topic": "10.4",
+          "topicTitle": "Control of Digestion",
+          "connection": "Explain nervous and hormonal control of digestion."
+        },
+        {
+          "term": "intestinal phase",
+          "priority": "Core",
+          "topic": "10.4",
+          "topicTitle": "Control of Digestion",
+          "connection": "Explain nervous and hormonal control of digestion."
+        },
+        {
+          "term": "gastrin",
+          "priority": "Core",
+          "topic": "10.4",
+          "topicTitle": "Control of Digestion",
+          "connection": "Explain nervous and hormonal control of digestion."
+        },
+        {
+          "term": "secretin",
+          "priority": "Core",
+          "topic": "10.4",
+          "topicTitle": "Control of Digestion",
+          "connection": "Explain nervous and hormonal control of digestion."
+        },
+        {
+          "term": "cholecystokinin",
+          "priority": "Core",
+          "topic": "10.4",
+          "topicTitle": "Control of Digestion",
+          "connection": "Explain nervous and hormonal control of digestion."
+        },
+        {
+          "term": "CCK",
+          "priority": "Core",
+          "topic": "10.4",
+          "topicTitle": "Control of Digestion",
+          "connection": "Explain nervous and hormonal control of digestion."
+        },
+        {
+          "term": "gastric inhibitory peptide",
+          "priority": "Honors Extension",
+          "topic": "10.4",
+          "topicTitle": "Control of Digestion",
+          "connection": "Explain nervous and hormonal control of digestion."
+        },
+        {
+          "term": "GIP",
+          "priority": "Core",
+          "topic": "10.4",
+          "topicTitle": "Control of Digestion",
+          "connection": "Explain nervous and hormonal control of digestion."
+        },
+        {
+          "term": "stretch receptor",
+          "priority": "Core",
+          "topic": "10.4",
+          "topicTitle": "Control of Digestion",
+          "connection": "Explain nervous and hormonal control of digestion."
+        },
+        {
+          "term": "gastrocolic reflex",
+          "priority": "Core",
+          "topic": "10.4",
+          "topicTitle": "Control of Digestion",
+          "connection": "Explain nervous and hormonal control of digestion."
+        },
+        {
+          "term": "liver",
+          "priority": "Core",
+          "topic": "10.5",
+          "topicTitle": "Liver Structure & Homeostatic Function",
+          "connection": "Relate liver structure to nutrient processing, detoxification, and urea production."
+        },
+        {
+          "term": "hepatic lobule",
+          "priority": "Honors Extension",
+          "topic": "10.5",
+          "topicTitle": "Liver Structure & Homeostatic Function",
+          "connection": "Relate liver structure to nutrient processing, detoxification, and urea production."
+        },
+        {
+          "term": "hepatocyte",
+          "priority": "Core",
+          "topic": "10.5",
+          "topicTitle": "Liver Structure & Homeostatic Function",
+          "connection": "Relate liver structure to nutrient processing, detoxification, and urea production."
+        },
+        {
+          "term": "hepatic portal vein",
+          "priority": "Core",
+          "topic": "10.5",
+          "topicTitle": "Liver Structure & Homeostatic Function",
+          "connection": "Relate liver structure to nutrient processing, detoxification, and urea production."
+        },
+        {
+          "term": "hepatic artery",
+          "priority": "Core",
+          "topic": "10.5",
+          "topicTitle": "Liver Structure & Homeostatic Function",
+          "connection": "Relate liver structure to nutrient processing, detoxification, and urea production."
+        },
+        {
+          "term": "central vein",
+          "priority": "Core",
+          "topic": "10.5",
+          "topicTitle": "Liver Structure & Homeostatic Function",
+          "connection": "Relate liver structure to nutrient processing, detoxification, and urea production."
+        },
+        {
+          "term": "sinusoid",
+          "priority": "Honors Extension",
+          "topic": "10.5",
+          "topicTitle": "Liver Structure & Homeostatic Function",
+          "connection": "Relate liver structure to nutrient processing, detoxification, and urea production."
+        },
+        {
+          "term": "bile canaliculus",
+          "priority": "Honors Extension",
+          "topic": "10.5",
+          "topicTitle": "Liver Structure & Homeostatic Function",
+          "connection": "Relate liver structure to nutrient processing, detoxification, and urea production."
+        },
+        {
+          "term": "gallbladder",
+          "priority": "Core",
+          "topic": "10.5",
+          "topicTitle": "Liver Structure & Homeostatic Function",
+          "connection": "Relate liver structure to nutrient processing, detoxification, and urea production."
+        },
+        {
+          "term": "detoxification",
+          "priority": "Core",
+          "topic": "10.5",
+          "topicTitle": "Liver Structure & Homeostatic Function",
+          "connection": "Relate liver structure to nutrient processing, detoxification, and urea production."
+        },
+        {
+          "term": "glycogenesis",
+          "priority": "Core",
+          "topic": "10.5",
+          "topicTitle": "Liver Structure & Homeostatic Function",
+          "connection": "Relate liver structure to nutrient processing, detoxification, and urea production."
+        },
+        {
+          "term": "glycogenolysis",
+          "priority": "Core",
+          "topic": "10.5",
+          "topicTitle": "Liver Structure & Homeostatic Function",
+          "connection": "Relate liver structure to nutrient processing, detoxification, and urea production."
+        },
+        {
+          "term": "gluconeogenesis",
+          "priority": "Core",
+          "topic": "10.5",
+          "topicTitle": "Liver Structure & Homeostatic Function",
+          "connection": "Relate liver structure to nutrient processing, detoxification, and urea production."
+        },
+        {
+          "term": "deamination",
+          "priority": "Core",
+          "topic": "10.5",
+          "topicTitle": "Liver Structure & Homeostatic Function",
+          "connection": "Relate liver structure to nutrient processing, detoxification, and urea production."
+        },
+        {
+          "term": "ammonia",
+          "priority": "Core",
+          "topic": "10.5",
+          "topicTitle": "Liver Structure & Homeostatic Function",
+          "connection": "Relate liver structure to nutrient processing, detoxification, and urea production."
+        },
+        {
+          "term": "urea",
+          "priority": "Core",
+          "topic": "10.5",
+          "topicTitle": "Liver Structure & Homeostatic Function",
+          "connection": "Relate liver structure to nutrient processing, detoxification, and urea production."
+        },
+        {
+          "term": "urea cycle",
+          "priority": "Core",
+          "topic": "10.5",
+          "topicTitle": "Liver Structure & Homeostatic Function",
+          "connection": "Relate liver structure to nutrient processing, detoxification, and urea production."
+        },
+        {
+          "term": "ornithine cycle",
+          "priority": "Core",
+          "topic": "10.5",
+          "topicTitle": "Liver Structure & Homeostatic Function",
+          "connection": "Relate liver structure to nutrient processing, detoxification, and urea production."
+        },
+        {
+          "term": "dietary fiber",
+          "priority": "Core",
+          "topic": "10.6",
+          "topicTitle": "Fiber, Exercise & Gut Function",
+          "connection": "Relate fiber and exercise to gut function."
+        },
+        {
+          "term": "soluble fiber",
+          "priority": "Core",
+          "topic": "10.6",
+          "topicTitle": "Fiber, Exercise & Gut Function",
+          "connection": "Relate fiber and exercise to gut function."
+        },
+        {
+          "term": "insoluble fiber",
+          "priority": "Core",
+          "topic": "10.6",
+          "topicTitle": "Fiber, Exercise & Gut Function",
+          "connection": "Relate fiber and exercise to gut function."
+        },
+        {
+          "term": "prebiotic",
+          "priority": "Core",
+          "topic": "10.6",
+          "topicTitle": "Fiber, Exercise & Gut Function",
+          "connection": "Relate fiber and exercise to gut function."
+        },
+        {
+          "term": "gut motility",
+          "priority": "Core",
+          "topic": "10.6",
+          "topicTitle": "Fiber, Exercise & Gut Function",
+          "connection": "Relate fiber and exercise to gut function."
+        },
+        {
+          "term": "constipation",
+          "priority": "Core",
+          "topic": "10.6",
+          "topicTitle": "Fiber, Exercise & Gut Function",
+          "connection": "Relate fiber and exercise to gut function."
+        },
+        {
+          "term": "diverticulum",
+          "priority": "Core",
+          "topic": "10.6",
+          "topicTitle": "Fiber, Exercise & Gut Function",
+          "connection": "Relate fiber and exercise to gut function."
+        },
+        {
+          "term": "microbiome",
+          "priority": "Core",
+          "topic": "10.6",
+          "topicTitle": "Fiber, Exercise & Gut Function",
+          "connection": "Relate fiber and exercise to gut function."
+        },
+        {
+          "term": "short-chain fatty acid",
+          "priority": "Honors Extension",
+          "topic": "10.6",
+          "topicTitle": "Fiber, Exercise & Gut Function",
+          "connection": "Relate fiber and exercise to gut function."
+        },
+        {
+          "term": "malnutrition",
+          "priority": "Core",
+          "topic": "10.7",
+          "topicTitle": "Malnutrition, Obesity, Deficiency & Gut Disease",
+          "connection": "Explain malnutrition, obesity, deficiencies, infection, and inflammatory gut disease."
+        },
+        {
+          "term": "undernutrition",
+          "priority": "Core",
+          "topic": "10.7",
+          "topicTitle": "Malnutrition, Obesity, Deficiency & Gut Disease",
+          "connection": "Explain malnutrition, obesity, deficiencies, infection, and inflammatory gut disease."
+        },
+        {
+          "term": "overnutrition",
+          "priority": "Core",
+          "topic": "10.7",
+          "topicTitle": "Malnutrition, Obesity, Deficiency & Gut Disease",
+          "connection": "Explain malnutrition, obesity, deficiencies, infection, and inflammatory gut disease."
+        },
+        {
+          "term": "obesity",
+          "priority": "Core",
+          "topic": "10.7",
+          "topicTitle": "Malnutrition, Obesity, Deficiency & Gut Disease",
+          "connection": "Explain malnutrition, obesity, deficiencies, infection, and inflammatory gut disease."
+        },
+        {
+          "term": "body mass index",
+          "priority": "Core",
+          "topic": "10.7",
+          "topicTitle": "Malnutrition, Obesity, Deficiency & Gut Disease",
+          "connection": "Explain malnutrition, obesity, deficiencies, infection, and inflammatory gut disease."
+        },
+        {
+          "term": "BMI",
+          "priority": "Core",
+          "topic": "10.7",
+          "topicTitle": "Malnutrition, Obesity, Deficiency & Gut Disease",
+          "connection": "Explain malnutrition, obesity, deficiencies, infection, and inflammatory gut disease."
+        },
+        {
+          "term": "nutrient deficiency",
+          "priority": "Core",
+          "topic": "10.7",
+          "topicTitle": "Malnutrition, Obesity, Deficiency & Gut Disease",
+          "connection": "Explain malnutrition, obesity, deficiencies, infection, and inflammatory gut disease."
+        },
+        {
+          "term": "iron-deficiency anemia",
+          "priority": "Core",
+          "topic": "10.7",
+          "topicTitle": "Malnutrition, Obesity, Deficiency & Gut Disease",
+          "connection": "Explain malnutrition, obesity, deficiencies, infection, and inflammatory gut disease."
+        },
+        {
+          "term": "scurvy",
+          "priority": "Core",
+          "topic": "10.7",
+          "topicTitle": "Malnutrition, Obesity, Deficiency & Gut Disease",
+          "connection": "Explain malnutrition, obesity, deficiencies, infection, and inflammatory gut disease."
+        },
+        {
+          "term": "rickets",
+          "priority": "Core",
+          "topic": "10.7",
+          "topicTitle": "Malnutrition, Obesity, Deficiency & Gut Disease",
+          "connection": "Explain malnutrition, obesity, deficiencies, infection, and inflammatory gut disease."
+        },
+        {
+          "term": "kwashiorkor",
+          "priority": "Honors Extension",
+          "topic": "10.7",
+          "topicTitle": "Malnutrition, Obesity, Deficiency & Gut Disease",
+          "connection": "Explain malnutrition, obesity, deficiencies, infection, and inflammatory gut disease."
+        },
+        {
+          "term": "marasmus",
+          "priority": "Honors Extension",
+          "topic": "10.7",
+          "topicTitle": "Malnutrition, Obesity, Deficiency & Gut Disease",
+          "connection": "Explain malnutrition, obesity, deficiencies, infection, and inflammatory gut disease."
+        },
+        {
+          "term": "food intolerance",
+          "priority": "Core",
+          "topic": "10.7",
+          "topicTitle": "Malnutrition, Obesity, Deficiency & Gut Disease",
+          "connection": "Explain malnutrition, obesity, deficiencies, infection, and inflammatory gut disease."
+        },
+        {
+          "term": "celiac disease",
+          "priority": "Core",
+          "topic": "10.7",
+          "topicTitle": "Malnutrition, Obesity, Deficiency & Gut Disease",
+          "connection": "Explain malnutrition, obesity, deficiencies, infection, and inflammatory gut disease."
+        },
+        {
+          "term": "inflammatory bowel disease",
+          "priority": "Core",
+          "topic": "10.7",
+          "topicTitle": "Malnutrition, Obesity, Deficiency & Gut Disease",
+          "connection": "Explain malnutrition, obesity, deficiencies, infection, and inflammatory gut disease."
+        },
+        {
+          "term": "Crohn disease",
+          "priority": "Core",
+          "topic": "10.7",
+          "topicTitle": "Malnutrition, Obesity, Deficiency & Gut Disease",
+          "connection": "Explain malnutrition, obesity, deficiencies, infection, and inflammatory gut disease."
+        },
+        {
+          "term": "ulcerative colitis",
+          "priority": "Core",
+          "topic": "10.7",
+          "topicTitle": "Malnutrition, Obesity, Deficiency & Gut Disease",
+          "connection": "Explain malnutrition, obesity, deficiencies, infection, and inflammatory gut disease."
+        },
+        {
+          "term": "gastroenteritis",
+          "priority": "Core",
+          "topic": "10.7",
+          "topicTitle": "Malnutrition, Obesity, Deficiency & Gut Disease",
+          "connection": "Explain malnutrition, obesity, deficiencies, infection, and inflammatory gut disease."
+        },
+        {
+          "term": "peptic ulcer",
+          "priority": "Core",
+          "topic": "10.7",
+          "topicTitle": "Malnutrition, Obesity, Deficiency & Gut Disease",
+          "connection": "Explain malnutrition, obesity, deficiencies, infection, and inflammatory gut disease."
+        }
       ],
       "topics": [
         {
@@ -1640,6 +10587,610 @@ window.COURSE_DATA = {
         "micturition",
         "acid–base balance"
       ],
+      "vocabularyRecords": [
+        {
+          "term": "excretion",
+          "priority": "Core",
+          "topic": "11.1",
+          "topicTitle": "Excretion, Water Budget & Urinary Anatomy",
+          "connection": "Distinguish excretion from egestion and explain the water budget and urinary anatomy."
+        },
+        {
+          "term": "egestion",
+          "priority": "Core",
+          "topic": "11.1",
+          "topicTitle": "Excretion, Water Budget & Urinary Anatomy",
+          "connection": "Distinguish excretion from egestion and explain the water budget and urinary anatomy."
+        },
+        {
+          "term": "metabolic waste",
+          "priority": "Core",
+          "topic": "11.1",
+          "topicTitle": "Excretion, Water Budget & Urinary Anatomy",
+          "connection": "Distinguish excretion from egestion and explain the water budget and urinary anatomy."
+        },
+        {
+          "term": "water balance",
+          "priority": "Core",
+          "topic": "11.1",
+          "topicTitle": "Excretion, Water Budget & Urinary Anatomy",
+          "connection": "Distinguish excretion from egestion and explain the water budget and urinary anatomy."
+        },
+        {
+          "term": "water budget",
+          "priority": "Core",
+          "topic": "11.1",
+          "topicTitle": "Excretion, Water Budget & Urinary Anatomy",
+          "connection": "Distinguish excretion from egestion and explain the water budget and urinary anatomy."
+        },
+        {
+          "term": "urinary system",
+          "priority": "Core",
+          "topic": "11.1",
+          "topicTitle": "Excretion, Water Budget & Urinary Anatomy",
+          "connection": "Distinguish excretion from egestion and explain the water budget and urinary anatomy."
+        },
+        {
+          "term": "kidney",
+          "priority": "Core",
+          "topic": "11.1",
+          "topicTitle": "Excretion, Water Budget & Urinary Anatomy",
+          "connection": "Distinguish excretion from egestion and explain the water budget and urinary anatomy."
+        },
+        {
+          "term": "ureter",
+          "priority": "Core",
+          "topic": "11.1",
+          "topicTitle": "Excretion, Water Budget & Urinary Anatomy",
+          "connection": "Distinguish excretion from egestion and explain the water budget and urinary anatomy."
+        },
+        {
+          "term": "urinary bladder",
+          "priority": "Core",
+          "topic": "11.1",
+          "topicTitle": "Excretion, Water Budget & Urinary Anatomy",
+          "connection": "Distinguish excretion from egestion and explain the water budget and urinary anatomy."
+        },
+        {
+          "term": "urethra",
+          "priority": "Core",
+          "topic": "11.1",
+          "topicTitle": "Excretion, Water Budget & Urinary Anatomy",
+          "connection": "Distinguish excretion from egestion and explain the water budget and urinary anatomy."
+        },
+        {
+          "term": "renal artery",
+          "priority": "Core",
+          "topic": "11.1",
+          "topicTitle": "Excretion, Water Budget & Urinary Anatomy",
+          "connection": "Distinguish excretion from egestion and explain the water budget and urinary anatomy."
+        },
+        {
+          "term": "renal vein",
+          "priority": "Core",
+          "topic": "11.1",
+          "topicTitle": "Excretion, Water Budget & Urinary Anatomy",
+          "connection": "Distinguish excretion from egestion and explain the water budget and urinary anatomy."
+        },
+        {
+          "term": "renal cortex",
+          "priority": "Core",
+          "topic": "11.1",
+          "topicTitle": "Excretion, Water Budget & Urinary Anatomy",
+          "connection": "Distinguish excretion from egestion and explain the water budget and urinary anatomy."
+        },
+        {
+          "term": "renal medulla",
+          "priority": "Core",
+          "topic": "11.1",
+          "topicTitle": "Excretion, Water Budget & Urinary Anatomy",
+          "connection": "Distinguish excretion from egestion and explain the water budget and urinary anatomy."
+        },
+        {
+          "term": "renal pelvis",
+          "priority": "Core",
+          "topic": "11.1",
+          "topicTitle": "Excretion, Water Budget & Urinary Anatomy",
+          "connection": "Distinguish excretion from egestion and explain the water budget and urinary anatomy."
+        },
+        {
+          "term": "hilum",
+          "priority": "Core",
+          "topic": "11.1",
+          "topicTitle": "Excretion, Water Budget & Urinary Anatomy",
+          "connection": "Distinguish excretion from egestion and explain the water budget and urinary anatomy."
+        },
+        {
+          "term": "urine",
+          "priority": "Core",
+          "topic": "11.1",
+          "topicTitle": "Excretion, Water Budget & Urinary Anatomy",
+          "connection": "Distinguish excretion from egestion and explain the water budget and urinary anatomy."
+        },
+        {
+          "term": "nephron",
+          "priority": "Core",
+          "topic": "11.2",
+          "topicTitle": "Kidney & Nephron Function",
+          "connection": "Relate kidney and nephron structure to filtration and urine formation."
+        },
+        {
+          "term": "renal corpuscle",
+          "priority": "Core",
+          "topic": "11.2",
+          "topicTitle": "Kidney & Nephron Function",
+          "connection": "Relate kidney and nephron structure to filtration and urine formation."
+        },
+        {
+          "term": "glomerulus",
+          "priority": "Core",
+          "topic": "11.2",
+          "topicTitle": "Kidney & Nephron Function",
+          "connection": "Relate kidney and nephron structure to filtration and urine formation."
+        },
+        {
+          "term": "glomerular capsule",
+          "priority": "Core",
+          "topic": "11.2",
+          "topicTitle": "Kidney & Nephron Function",
+          "connection": "Relate kidney and nephron structure to filtration and urine formation."
+        },
+        {
+          "term": "Bowman capsule",
+          "priority": "Core",
+          "topic": "11.2",
+          "topicTitle": "Kidney & Nephron Function",
+          "connection": "Relate kidney and nephron structure to filtration and urine formation."
+        },
+        {
+          "term": "afferent arteriole",
+          "priority": "Core",
+          "topic": "11.2",
+          "topicTitle": "Kidney & Nephron Function",
+          "connection": "Relate kidney and nephron structure to filtration and urine formation."
+        },
+        {
+          "term": "efferent arteriole",
+          "priority": "Core",
+          "topic": "11.2",
+          "topicTitle": "Kidney & Nephron Function",
+          "connection": "Relate kidney and nephron structure to filtration and urine formation."
+        },
+        {
+          "term": "proximal convoluted tubule",
+          "priority": "Core",
+          "topic": "11.2",
+          "topicTitle": "Kidney & Nephron Function",
+          "connection": "Relate kidney and nephron structure to filtration and urine formation."
+        },
+        {
+          "term": "loop of Henle",
+          "priority": "Core",
+          "topic": "11.2",
+          "topicTitle": "Kidney & Nephron Function",
+          "connection": "Relate kidney and nephron structure to filtration and urine formation."
+        },
+        {
+          "term": "descending limb",
+          "priority": "Core",
+          "topic": "11.2",
+          "topicTitle": "Kidney & Nephron Function",
+          "connection": "Relate kidney and nephron structure to filtration and urine formation."
+        },
+        {
+          "term": "ascending limb",
+          "priority": "Core",
+          "topic": "11.2",
+          "topicTitle": "Kidney & Nephron Function",
+          "connection": "Relate kidney and nephron structure to filtration and urine formation."
+        },
+        {
+          "term": "distal convoluted tubule",
+          "priority": "Core",
+          "topic": "11.2",
+          "topicTitle": "Kidney & Nephron Function",
+          "connection": "Relate kidney and nephron structure to filtration and urine formation."
+        },
+        {
+          "term": "collecting duct",
+          "priority": "Core",
+          "topic": "11.2",
+          "topicTitle": "Kidney & Nephron Function",
+          "connection": "Relate kidney and nephron structure to filtration and urine formation."
+        },
+        {
+          "term": "peritubular capillary",
+          "priority": "Core",
+          "topic": "11.2",
+          "topicTitle": "Kidney & Nephron Function",
+          "connection": "Relate kidney and nephron structure to filtration and urine formation."
+        },
+        {
+          "term": "vasa recta",
+          "priority": "Honors Extension",
+          "topic": "11.2",
+          "topicTitle": "Kidney & Nephron Function",
+          "connection": "Relate kidney and nephron structure to filtration and urine formation."
+        },
+        {
+          "term": "glomerular filtration",
+          "priority": "Core",
+          "topic": "11.2",
+          "topicTitle": "Kidney & Nephron Function",
+          "connection": "Relate kidney and nephron structure to filtration and urine formation."
+        },
+        {
+          "term": "tubular reabsorption",
+          "priority": "Core",
+          "topic": "11.2",
+          "topicTitle": "Kidney & Nephron Function",
+          "connection": "Relate kidney and nephron structure to filtration and urine formation."
+        },
+        {
+          "term": "tubular secretion",
+          "priority": "Core",
+          "topic": "11.2",
+          "topicTitle": "Kidney & Nephron Function",
+          "connection": "Relate kidney and nephron structure to filtration and urine formation."
+        },
+        {
+          "term": "filtration membrane",
+          "priority": "Honors Extension",
+          "topic": "11.2",
+          "topicTitle": "Kidney & Nephron Function",
+          "connection": "Relate kidney and nephron structure to filtration and urine formation."
+        },
+        {
+          "term": "glomerular filtration rate",
+          "priority": "Core",
+          "topic": "11.2",
+          "topicTitle": "Kidney & Nephron Function",
+          "connection": "Relate kidney and nephron structure to filtration and urine formation."
+        },
+        {
+          "term": "GFR",
+          "priority": "Core",
+          "topic": "11.2",
+          "topicTitle": "Kidney & Nephron Function",
+          "connection": "Relate kidney and nephron structure to filtration and urine formation."
+        },
+        {
+          "term": "antidiuretic hormone",
+          "priority": "Core",
+          "topic": "11.3",
+          "topicTitle": "Hormonal Regulation, Fluids & Acid–Base Balance",
+          "connection": "Explain hormonal fluid, electrolyte, and acid-base regulation."
+        },
+        {
+          "term": "ADH",
+          "priority": "Core",
+          "topic": "11.3",
+          "topicTitle": "Hormonal Regulation, Fluids & Acid–Base Balance",
+          "connection": "Explain hormonal fluid, electrolyte, and acid-base regulation."
+        },
+        {
+          "term": "aldosterone",
+          "priority": "Core",
+          "topic": "11.3",
+          "topicTitle": "Hormonal Regulation, Fluids & Acid–Base Balance",
+          "connection": "Explain hormonal fluid, electrolyte, and acid-base regulation."
+        },
+        {
+          "term": "renin",
+          "priority": "Core",
+          "topic": "11.3",
+          "topicTitle": "Hormonal Regulation, Fluids & Acid–Base Balance",
+          "connection": "Explain hormonal fluid, electrolyte, and acid-base regulation."
+        },
+        {
+          "term": "angiotensinogen",
+          "priority": "Honors Extension",
+          "topic": "11.3",
+          "topicTitle": "Hormonal Regulation, Fluids & Acid–Base Balance",
+          "connection": "Explain hormonal fluid, electrolyte, and acid-base regulation."
+        },
+        {
+          "term": "angiotensin I",
+          "priority": "Core",
+          "topic": "11.3",
+          "topicTitle": "Hormonal Regulation, Fluids & Acid–Base Balance",
+          "connection": "Explain hormonal fluid, electrolyte, and acid-base regulation."
+        },
+        {
+          "term": "angiotensin II",
+          "priority": "Core",
+          "topic": "11.3",
+          "topicTitle": "Hormonal Regulation, Fluids & Acid–Base Balance",
+          "connection": "Explain hormonal fluid, electrolyte, and acid-base regulation."
+        },
+        {
+          "term": "renin-angiotensin-aldosterone system",
+          "priority": "Core",
+          "topic": "11.3",
+          "topicTitle": "Hormonal Regulation, Fluids & Acid–Base Balance",
+          "connection": "Explain hormonal fluid, electrolyte, and acid-base regulation."
+        },
+        {
+          "term": "RAAS",
+          "priority": "Core",
+          "topic": "11.3",
+          "topicTitle": "Hormonal Regulation, Fluids & Acid–Base Balance",
+          "connection": "Explain hormonal fluid, electrolyte, and acid-base regulation."
+        },
+        {
+          "term": "atrial natriuretic peptide",
+          "priority": "Core",
+          "topic": "11.3",
+          "topicTitle": "Hormonal Regulation, Fluids & Acid–Base Balance",
+          "connection": "Explain hormonal fluid, electrolyte, and acid-base regulation."
+        },
+        {
+          "term": "ANP",
+          "priority": "Core",
+          "topic": "11.3",
+          "topicTitle": "Hormonal Regulation, Fluids & Acid–Base Balance",
+          "connection": "Explain hormonal fluid, electrolyte, and acid-base regulation."
+        },
+        {
+          "term": "osmoreceptor",
+          "priority": "Core",
+          "topic": "11.3",
+          "topicTitle": "Hormonal Regulation, Fluids & Acid–Base Balance",
+          "connection": "Explain hormonal fluid, electrolyte, and acid-base regulation."
+        },
+        {
+          "term": "electrolyte",
+          "priority": "Core",
+          "topic": "11.3",
+          "topicTitle": "Hormonal Regulation, Fluids & Acid–Base Balance",
+          "connection": "Explain hormonal fluid, electrolyte, and acid-base regulation."
+        },
+        {
+          "term": "osmolarity",
+          "priority": "Core",
+          "topic": "11.3",
+          "topicTitle": "Hormonal Regulation, Fluids & Acid–Base Balance",
+          "connection": "Explain hormonal fluid, electrolyte, and acid-base regulation."
+        },
+        {
+          "term": "dehydration",
+          "priority": "Core",
+          "topic": "11.3",
+          "topicTitle": "Hormonal Regulation, Fluids & Acid–Base Balance",
+          "connection": "Explain hormonal fluid, electrolyte, and acid-base regulation."
+        },
+        {
+          "term": "overhydration",
+          "priority": "Core",
+          "topic": "11.3",
+          "topicTitle": "Hormonal Regulation, Fluids & Acid–Base Balance",
+          "connection": "Explain hormonal fluid, electrolyte, and acid-base regulation."
+        },
+        {
+          "term": "acid-base balance",
+          "priority": "Core",
+          "topic": "11.3",
+          "topicTitle": "Hormonal Regulation, Fluids & Acid–Base Balance",
+          "connection": "Explain hormonal fluid, electrolyte, and acid-base regulation."
+        },
+        {
+          "term": "buffer",
+          "priority": "Core",
+          "topic": "11.3",
+          "topicTitle": "Hormonal Regulation, Fluids & Acid–Base Balance",
+          "connection": "Explain hormonal fluid, electrolyte, and acid-base regulation."
+        },
+        {
+          "term": "bicarbonate buffer",
+          "priority": "Core",
+          "topic": "11.3",
+          "topicTitle": "Hormonal Regulation, Fluids & Acid–Base Balance",
+          "connection": "Explain hormonal fluid, electrolyte, and acid-base regulation."
+        },
+        {
+          "term": "acidosis",
+          "priority": "Core",
+          "topic": "11.3",
+          "topicTitle": "Hormonal Regulation, Fluids & Acid–Base Balance",
+          "connection": "Explain hormonal fluid, electrolyte, and acid-base regulation."
+        },
+        {
+          "term": "alkalosis",
+          "priority": "Core",
+          "topic": "11.3",
+          "topicTitle": "Hormonal Regulation, Fluids & Acid–Base Balance",
+          "connection": "Explain hormonal fluid, electrolyte, and acid-base regulation."
+        },
+        {
+          "term": "urinalysis",
+          "priority": "Core",
+          "topic": "11.4",
+          "topicTitle": "Urinalysis & Diagnosis",
+          "connection": "Interpret urinalysis as diagnostic evidence."
+        },
+        {
+          "term": "urine specific gravity",
+          "priority": "Core",
+          "topic": "11.4",
+          "topicTitle": "Urinalysis & Diagnosis",
+          "connection": "Interpret urinalysis as diagnostic evidence."
+        },
+        {
+          "term": "pH",
+          "priority": "Core",
+          "topic": "11.4",
+          "topicTitle": "Urinalysis & Diagnosis",
+          "connection": "Interpret urinalysis as diagnostic evidence."
+        },
+        {
+          "term": "proteinuria",
+          "priority": "Core",
+          "topic": "11.4",
+          "topicTitle": "Urinalysis & Diagnosis",
+          "connection": "Interpret urinalysis as diagnostic evidence."
+        },
+        {
+          "term": "albuminuria",
+          "priority": "Core",
+          "topic": "11.4",
+          "topicTitle": "Urinalysis & Diagnosis",
+          "connection": "Interpret urinalysis as diagnostic evidence."
+        },
+        {
+          "term": "glycosuria",
+          "priority": "Core",
+          "topic": "11.4",
+          "topicTitle": "Urinalysis & Diagnosis",
+          "connection": "Interpret urinalysis as diagnostic evidence."
+        },
+        {
+          "term": "ketonuria",
+          "priority": "Core",
+          "topic": "11.4",
+          "topicTitle": "Urinalysis & Diagnosis",
+          "connection": "Interpret urinalysis as diagnostic evidence."
+        },
+        {
+          "term": "hematuria",
+          "priority": "Core",
+          "topic": "11.4",
+          "topicTitle": "Urinalysis & Diagnosis",
+          "connection": "Interpret urinalysis as diagnostic evidence."
+        },
+        {
+          "term": "pyuria",
+          "priority": "Core",
+          "topic": "11.4",
+          "topicTitle": "Urinalysis & Diagnosis",
+          "connection": "Interpret urinalysis as diagnostic evidence."
+        },
+        {
+          "term": "urinary cast",
+          "priority": "Honors Extension",
+          "topic": "11.4",
+          "topicTitle": "Urinalysis & Diagnosis",
+          "connection": "Interpret urinalysis as diagnostic evidence."
+        },
+        {
+          "term": "dipstick test",
+          "priority": "Core",
+          "topic": "11.4",
+          "topicTitle": "Urinalysis & Diagnosis",
+          "connection": "Interpret urinalysis as diagnostic evidence."
+        },
+        {
+          "term": "urine culture",
+          "priority": "Core",
+          "topic": "11.4",
+          "topicTitle": "Urinalysis & Diagnosis",
+          "connection": "Interpret urinalysis as diagnostic evidence."
+        },
+        {
+          "term": "renal failure",
+          "priority": "Core",
+          "topic": "11.5",
+          "topicTitle": "Kidney Disease & Renal Replacement",
+          "connection": "Compare kidney disorders and explain dialysis and transplantation."
+        },
+        {
+          "term": "acute kidney injury",
+          "priority": "Core",
+          "topic": "11.5",
+          "topicTitle": "Kidney Disease & Renal Replacement",
+          "connection": "Compare kidney disorders and explain dialysis and transplantation."
+        },
+        {
+          "term": "chronic kidney disease",
+          "priority": "Core",
+          "topic": "11.5",
+          "topicTitle": "Kidney Disease & Renal Replacement",
+          "connection": "Compare kidney disorders and explain dialysis and transplantation."
+        },
+        {
+          "term": "glomerulonephritis",
+          "priority": "Core",
+          "topic": "11.5",
+          "topicTitle": "Kidney Disease & Renal Replacement",
+          "connection": "Compare kidney disorders and explain dialysis and transplantation."
+        },
+        {
+          "term": "pyelonephritis",
+          "priority": "Core",
+          "topic": "11.5",
+          "topicTitle": "Kidney Disease & Renal Replacement",
+          "connection": "Compare kidney disorders and explain dialysis and transplantation."
+        },
+        {
+          "term": "kidney stone",
+          "priority": "Core",
+          "topic": "11.5",
+          "topicTitle": "Kidney Disease & Renal Replacement",
+          "connection": "Compare kidney disorders and explain dialysis and transplantation."
+        },
+        {
+          "term": "renal calculus",
+          "priority": "Core",
+          "topic": "11.5",
+          "topicTitle": "Kidney Disease & Renal Replacement",
+          "connection": "Compare kidney disorders and explain dialysis and transplantation."
+        },
+        {
+          "term": "polycystic kidney disease",
+          "priority": "Core",
+          "topic": "11.5",
+          "topicTitle": "Kidney Disease & Renal Replacement",
+          "connection": "Compare kidney disorders and explain dialysis and transplantation."
+        },
+        {
+          "term": "nephrotic syndrome",
+          "priority": "Honors Extension",
+          "topic": "11.5",
+          "topicTitle": "Kidney Disease & Renal Replacement",
+          "connection": "Compare kidney disorders and explain dialysis and transplantation."
+        },
+        {
+          "term": "uremia",
+          "priority": "Core",
+          "topic": "11.5",
+          "topicTitle": "Kidney Disease & Renal Replacement",
+          "connection": "Compare kidney disorders and explain dialysis and transplantation."
+        },
+        {
+          "term": "dialysis",
+          "priority": "Core",
+          "topic": "11.5",
+          "topicTitle": "Kidney Disease & Renal Replacement",
+          "connection": "Compare kidney disorders and explain dialysis and transplantation."
+        },
+        {
+          "term": "hemodialysis",
+          "priority": "Core",
+          "topic": "11.5",
+          "topicTitle": "Kidney Disease & Renal Replacement",
+          "connection": "Compare kidney disorders and explain dialysis and transplantation."
+        },
+        {
+          "term": "peritoneal dialysis",
+          "priority": "Core",
+          "topic": "11.5",
+          "topicTitle": "Kidney Disease & Renal Replacement",
+          "connection": "Compare kidney disorders and explain dialysis and transplantation."
+        },
+        {
+          "term": "kidney transplant",
+          "priority": "Core",
+          "topic": "11.5",
+          "topicTitle": "Kidney Disease & Renal Replacement",
+          "connection": "Compare kidney disorders and explain dialysis and transplantation."
+        },
+        {
+          "term": "immunosuppression",
+          "priority": "Core",
+          "topic": "11.5",
+          "topicTitle": "Kidney Disease & Renal Replacement",
+          "connection": "Compare kidney disorders and explain dialysis and transplantation."
+        }
+      ],
       "topics": [
         {
           "unit": "Unit 11",
@@ -1764,6 +11315,841 @@ window.COURSE_DATA = {
         "lactation",
         "puberty",
         "sexually transmitted infection"
+      ],
+      "vocabularyRecords": [
+        {
+          "term": "gamete",
+          "priority": "Core",
+          "topic": "12.1",
+          "topicTitle": "Gametes, Reproductive Anatomy & Gametogenesis",
+          "connection": "Compare reproductive anatomy, gametes, spermatogenesis, and oogenesis."
+        },
+        {
+          "term": "sperm",
+          "priority": "Core",
+          "topic": "12.1",
+          "topicTitle": "Gametes, Reproductive Anatomy & Gametogenesis",
+          "connection": "Compare reproductive anatomy, gametes, spermatogenesis, and oogenesis."
+        },
+        {
+          "term": "ovum",
+          "priority": "Core",
+          "topic": "12.1",
+          "topicTitle": "Gametes, Reproductive Anatomy & Gametogenesis",
+          "connection": "Compare reproductive anatomy, gametes, spermatogenesis, and oogenesis."
+        },
+        {
+          "term": "oocyte",
+          "priority": "Core",
+          "topic": "12.1",
+          "topicTitle": "Gametes, Reproductive Anatomy & Gametogenesis",
+          "connection": "Compare reproductive anatomy, gametes, spermatogenesis, and oogenesis."
+        },
+        {
+          "term": "spermatogenesis",
+          "priority": "Core",
+          "topic": "12.1",
+          "topicTitle": "Gametes, Reproductive Anatomy & Gametogenesis",
+          "connection": "Compare reproductive anatomy, gametes, spermatogenesis, and oogenesis."
+        },
+        {
+          "term": "oogenesis",
+          "priority": "Core",
+          "topic": "12.1",
+          "topicTitle": "Gametes, Reproductive Anatomy & Gametogenesis",
+          "connection": "Compare reproductive anatomy, gametes, spermatogenesis, and oogenesis."
+        },
+        {
+          "term": "testis",
+          "priority": "Core",
+          "topic": "12.1",
+          "topicTitle": "Gametes, Reproductive Anatomy & Gametogenesis",
+          "connection": "Compare reproductive anatomy, gametes, spermatogenesis, and oogenesis."
+        },
+        {
+          "term": "seminiferous tubule",
+          "priority": "Core",
+          "topic": "12.1",
+          "topicTitle": "Gametes, Reproductive Anatomy & Gametogenesis",
+          "connection": "Compare reproductive anatomy, gametes, spermatogenesis, and oogenesis."
+        },
+        {
+          "term": "Sertoli cell",
+          "priority": "Core",
+          "topic": "12.1",
+          "topicTitle": "Gametes, Reproductive Anatomy & Gametogenesis",
+          "connection": "Compare reproductive anatomy, gametes, spermatogenesis, and oogenesis."
+        },
+        {
+          "term": "Leydig cell",
+          "priority": "Core",
+          "topic": "12.1",
+          "topicTitle": "Gametes, Reproductive Anatomy & Gametogenesis",
+          "connection": "Compare reproductive anatomy, gametes, spermatogenesis, and oogenesis."
+        },
+        {
+          "term": "epididymis",
+          "priority": "Core",
+          "topic": "12.1",
+          "topicTitle": "Gametes, Reproductive Anatomy & Gametogenesis",
+          "connection": "Compare reproductive anatomy, gametes, spermatogenesis, and oogenesis."
+        },
+        {
+          "term": "ductus deferens",
+          "priority": "Core",
+          "topic": "12.1",
+          "topicTitle": "Gametes, Reproductive Anatomy & Gametogenesis",
+          "connection": "Compare reproductive anatomy, gametes, spermatogenesis, and oogenesis."
+        },
+        {
+          "term": "seminal vesicle",
+          "priority": "Core",
+          "topic": "12.1",
+          "topicTitle": "Gametes, Reproductive Anatomy & Gametogenesis",
+          "connection": "Compare reproductive anatomy, gametes, spermatogenesis, and oogenesis."
+        },
+        {
+          "term": "prostate gland",
+          "priority": "Core",
+          "topic": "12.1",
+          "topicTitle": "Gametes, Reproductive Anatomy & Gametogenesis",
+          "connection": "Compare reproductive anatomy, gametes, spermatogenesis, and oogenesis."
+        },
+        {
+          "term": "penis",
+          "priority": "Core",
+          "topic": "12.1",
+          "topicTitle": "Gametes, Reproductive Anatomy & Gametogenesis",
+          "connection": "Compare reproductive anatomy, gametes, spermatogenesis, and oogenesis."
+        },
+        {
+          "term": "scrotum",
+          "priority": "Core",
+          "topic": "12.1",
+          "topicTitle": "Gametes, Reproductive Anatomy & Gametogenesis",
+          "connection": "Compare reproductive anatomy, gametes, spermatogenesis, and oogenesis."
+        },
+        {
+          "term": "ovary",
+          "priority": "Core",
+          "topic": "12.1",
+          "topicTitle": "Gametes, Reproductive Anatomy & Gametogenesis",
+          "connection": "Compare reproductive anatomy, gametes, spermatogenesis, and oogenesis."
+        },
+        {
+          "term": "uterine tube",
+          "priority": "Core",
+          "topic": "12.1",
+          "topicTitle": "Gametes, Reproductive Anatomy & Gametogenesis",
+          "connection": "Compare reproductive anatomy, gametes, spermatogenesis, and oogenesis."
+        },
+        {
+          "term": "fallopian tube",
+          "priority": "Core",
+          "topic": "12.1",
+          "topicTitle": "Gametes, Reproductive Anatomy & Gametogenesis",
+          "connection": "Compare reproductive anatomy, gametes, spermatogenesis, and oogenesis."
+        },
+        {
+          "term": "uterus",
+          "priority": "Core",
+          "topic": "12.1",
+          "topicTitle": "Gametes, Reproductive Anatomy & Gametogenesis",
+          "connection": "Compare reproductive anatomy, gametes, spermatogenesis, and oogenesis."
+        },
+        {
+          "term": "endometrium",
+          "priority": "Core",
+          "topic": "12.1",
+          "topicTitle": "Gametes, Reproductive Anatomy & Gametogenesis",
+          "connection": "Compare reproductive anatomy, gametes, spermatogenesis, and oogenesis."
+        },
+        {
+          "term": "cervix",
+          "priority": "Core",
+          "topic": "12.1",
+          "topicTitle": "Gametes, Reproductive Anatomy & Gametogenesis",
+          "connection": "Compare reproductive anatomy, gametes, spermatogenesis, and oogenesis."
+        },
+        {
+          "term": "vagina",
+          "priority": "Core",
+          "topic": "12.1",
+          "topicTitle": "Gametes, Reproductive Anatomy & Gametogenesis",
+          "connection": "Compare reproductive anatomy, gametes, spermatogenesis, and oogenesis."
+        },
+        {
+          "term": "follicle",
+          "priority": "Core",
+          "topic": "12.1",
+          "topicTitle": "Gametes, Reproductive Anatomy & Gametogenesis",
+          "connection": "Compare reproductive anatomy, gametes, spermatogenesis, and oogenesis."
+        },
+        {
+          "term": "corpus luteum",
+          "priority": "Core",
+          "topic": "12.1",
+          "topicTitle": "Gametes, Reproductive Anatomy & Gametogenesis",
+          "connection": "Compare reproductive anatomy, gametes, spermatogenesis, and oogenesis."
+        },
+        {
+          "term": "ovulation",
+          "priority": "Core",
+          "topic": "12.1",
+          "topicTitle": "Gametes, Reproductive Anatomy & Gametogenesis",
+          "connection": "Compare reproductive anatomy, gametes, spermatogenesis, and oogenesis."
+        },
+        {
+          "term": "implantation",
+          "priority": "Core",
+          "topic": "12.1",
+          "topicTitle": "Gametes, Reproductive Anatomy & Gametogenesis",
+          "connection": "Compare reproductive anatomy, gametes, spermatogenesis, and oogenesis."
+        },
+        {
+          "term": "menstrual cycle",
+          "priority": "Core",
+          "topic": "12.2",
+          "topicTitle": "Menstrual Cycle & Hormonal Control",
+          "connection": "Explain ovarian and uterine cycles and their hormonal control."
+        },
+        {
+          "term": "ovarian cycle",
+          "priority": "Core",
+          "topic": "12.2",
+          "topicTitle": "Menstrual Cycle & Hormonal Control",
+          "connection": "Explain ovarian and uterine cycles and their hormonal control."
+        },
+        {
+          "term": "uterine cycle",
+          "priority": "Core",
+          "topic": "12.2",
+          "topicTitle": "Menstrual Cycle & Hormonal Control",
+          "connection": "Explain ovarian and uterine cycles and their hormonal control."
+        },
+        {
+          "term": "follicular phase",
+          "priority": "Core",
+          "topic": "12.2",
+          "topicTitle": "Menstrual Cycle & Hormonal Control",
+          "connection": "Explain ovarian and uterine cycles and their hormonal control."
+        },
+        {
+          "term": "luteal phase",
+          "priority": "Core",
+          "topic": "12.2",
+          "topicTitle": "Menstrual Cycle & Hormonal Control",
+          "connection": "Explain ovarian and uterine cycles and their hormonal control."
+        },
+        {
+          "term": "menstruation",
+          "priority": "Core",
+          "topic": "12.2",
+          "topicTitle": "Menstrual Cycle & Hormonal Control",
+          "connection": "Explain ovarian and uterine cycles and their hormonal control."
+        },
+        {
+          "term": "proliferative phase",
+          "priority": "Core",
+          "topic": "12.2",
+          "topicTitle": "Menstrual Cycle & Hormonal Control",
+          "connection": "Explain ovarian and uterine cycles and their hormonal control."
+        },
+        {
+          "term": "secretory phase",
+          "priority": "Core",
+          "topic": "12.2",
+          "topicTitle": "Menstrual Cycle & Hormonal Control",
+          "connection": "Explain ovarian and uterine cycles and their hormonal control."
+        },
+        {
+          "term": "follicle-stimulating hormone",
+          "priority": "Core",
+          "topic": "12.2",
+          "topicTitle": "Menstrual Cycle & Hormonal Control",
+          "connection": "Explain ovarian and uterine cycles and their hormonal control."
+        },
+        {
+          "term": "FSH",
+          "priority": "Core",
+          "topic": "12.2",
+          "topicTitle": "Menstrual Cycle & Hormonal Control",
+          "connection": "Explain ovarian and uterine cycles and their hormonal control."
+        },
+        {
+          "term": "luteinizing hormone",
+          "priority": "Core",
+          "topic": "12.2",
+          "topicTitle": "Menstrual Cycle & Hormonal Control",
+          "connection": "Explain ovarian and uterine cycles and their hormonal control."
+        },
+        {
+          "term": "LH",
+          "priority": "Core",
+          "topic": "12.2",
+          "topicTitle": "Menstrual Cycle & Hormonal Control",
+          "connection": "Explain ovarian and uterine cycles and their hormonal control."
+        },
+        {
+          "term": "estrogen",
+          "priority": "Core",
+          "topic": "12.2",
+          "topicTitle": "Menstrual Cycle & Hormonal Control",
+          "connection": "Explain ovarian and uterine cycles and their hormonal control."
+        },
+        {
+          "term": "progesterone",
+          "priority": "Core",
+          "topic": "12.2",
+          "topicTitle": "Menstrual Cycle & Hormonal Control",
+          "connection": "Explain ovarian and uterine cycles and their hormonal control."
+        },
+        {
+          "term": "gonadotropin-releasing hormone",
+          "priority": "Core",
+          "topic": "12.2",
+          "topicTitle": "Menstrual Cycle & Hormonal Control",
+          "connection": "Explain ovarian and uterine cycles and their hormonal control."
+        },
+        {
+          "term": "GnRH",
+          "priority": "Core",
+          "topic": "12.2",
+          "topicTitle": "Menstrual Cycle & Hormonal Control",
+          "connection": "Explain ovarian and uterine cycles and their hormonal control."
+        },
+        {
+          "term": "menopause",
+          "priority": "Core",
+          "topic": "12.2",
+          "topicTitle": "Menstrual Cycle & Hormonal Control",
+          "connection": "Explain ovarian and uterine cycles and their hormonal control."
+        },
+        {
+          "term": "fertilization",
+          "priority": "Core",
+          "topic": "12.3",
+          "topicTitle": "Fertilization, Placenta & Early Development",
+          "connection": "Trace fertilization, implantation, early development, and placental exchange."
+        },
+        {
+          "term": "capacitation",
+          "priority": "Honors Extension",
+          "topic": "12.3",
+          "topicTitle": "Fertilization, Placenta & Early Development",
+          "connection": "Trace fertilization, implantation, early development, and placental exchange."
+        },
+        {
+          "term": "acrosome reaction",
+          "priority": "Honors Extension",
+          "topic": "12.3",
+          "topicTitle": "Fertilization, Placenta & Early Development",
+          "connection": "Trace fertilization, implantation, early development, and placental exchange."
+        },
+        {
+          "term": "zygote",
+          "priority": "Core",
+          "topic": "12.3",
+          "topicTitle": "Fertilization, Placenta & Early Development",
+          "connection": "Trace fertilization, implantation, early development, and placental exchange."
+        },
+        {
+          "term": "cleavage",
+          "priority": "Core",
+          "topic": "12.3",
+          "topicTitle": "Fertilization, Placenta & Early Development",
+          "connection": "Trace fertilization, implantation, early development, and placental exchange."
+        },
+        {
+          "term": "morula",
+          "priority": "Core",
+          "topic": "12.3",
+          "topicTitle": "Fertilization, Placenta & Early Development",
+          "connection": "Trace fertilization, implantation, early development, and placental exchange."
+        },
+        {
+          "term": "blastocyst",
+          "priority": "Core",
+          "topic": "12.3",
+          "topicTitle": "Fertilization, Placenta & Early Development",
+          "connection": "Trace fertilization, implantation, early development, and placental exchange."
+        },
+        {
+          "term": "embryo",
+          "priority": "Core",
+          "topic": "12.3",
+          "topicTitle": "Fertilization, Placenta & Early Development",
+          "connection": "Trace fertilization, implantation, early development, and placental exchange."
+        },
+        {
+          "term": "fetus",
+          "priority": "Core",
+          "topic": "12.3",
+          "topicTitle": "Fertilization, Placenta & Early Development",
+          "connection": "Trace fertilization, implantation, early development, and placental exchange."
+        },
+        {
+          "term": "gastrulation",
+          "priority": "Honors Extension",
+          "topic": "12.3",
+          "topicTitle": "Fertilization, Placenta & Early Development",
+          "connection": "Trace fertilization, implantation, early development, and placental exchange."
+        },
+        {
+          "term": "ectoderm",
+          "priority": "Core",
+          "topic": "12.3",
+          "topicTitle": "Fertilization, Placenta & Early Development",
+          "connection": "Trace fertilization, implantation, early development, and placental exchange."
+        },
+        {
+          "term": "mesoderm",
+          "priority": "Core",
+          "topic": "12.3",
+          "topicTitle": "Fertilization, Placenta & Early Development",
+          "connection": "Trace fertilization, implantation, early development, and placental exchange."
+        },
+        {
+          "term": "endoderm",
+          "priority": "Core",
+          "topic": "12.3",
+          "topicTitle": "Fertilization, Placenta & Early Development",
+          "connection": "Trace fertilization, implantation, early development, and placental exchange."
+        },
+        {
+          "term": "amnion",
+          "priority": "Core",
+          "topic": "12.3",
+          "topicTitle": "Fertilization, Placenta & Early Development",
+          "connection": "Trace fertilization, implantation, early development, and placental exchange."
+        },
+        {
+          "term": "chorion",
+          "priority": "Core",
+          "topic": "12.3",
+          "topicTitle": "Fertilization, Placenta & Early Development",
+          "connection": "Trace fertilization, implantation, early development, and placental exchange."
+        },
+        {
+          "term": "placenta",
+          "priority": "Core",
+          "topic": "12.3",
+          "topicTitle": "Fertilization, Placenta & Early Development",
+          "connection": "Trace fertilization, implantation, early development, and placental exchange."
+        },
+        {
+          "term": "umbilical cord",
+          "priority": "Core",
+          "topic": "12.3",
+          "topicTitle": "Fertilization, Placenta & Early Development",
+          "connection": "Trace fertilization, implantation, early development, and placental exchange."
+        },
+        {
+          "term": "maternal-fetal exchange",
+          "priority": "Core",
+          "topic": "12.3",
+          "topicTitle": "Fertilization, Placenta & Early Development",
+          "connection": "Trace fertilization, implantation, early development, and placental exchange."
+        },
+        {
+          "term": "apoptosis",
+          "priority": "Core",
+          "topic": "12.4",
+          "topicTitle": "Apoptosis & Development",
+          "connection": "Explain apoptosis and its developmental role."
+        },
+        {
+          "term": "programmed cell death",
+          "priority": "Core",
+          "topic": "12.4",
+          "topicTitle": "Apoptosis & Development",
+          "connection": "Explain apoptosis and its developmental role."
+        },
+        {
+          "term": "caspase",
+          "priority": "Honors Extension",
+          "topic": "12.4",
+          "topicTitle": "Apoptosis & Development",
+          "connection": "Explain apoptosis and its developmental role."
+        },
+        {
+          "term": "intrinsic pathway",
+          "priority": "Honors Extension",
+          "topic": "12.4",
+          "topicTitle": "Apoptosis & Development",
+          "connection": "Explain apoptosis and its developmental role."
+        },
+        {
+          "term": "extrinsic pathway",
+          "priority": "Honors Extension",
+          "topic": "12.4",
+          "topicTitle": "Apoptosis & Development",
+          "connection": "Explain apoptosis and its developmental role."
+        },
+        {
+          "term": "cell blebbing",
+          "priority": "Core",
+          "topic": "12.4",
+          "topicTitle": "Apoptosis & Development",
+          "connection": "Explain apoptosis and its developmental role."
+        },
+        {
+          "term": "apoptotic body",
+          "priority": "Core",
+          "topic": "12.4",
+          "topicTitle": "Apoptosis & Development",
+          "connection": "Explain apoptosis and its developmental role."
+        },
+        {
+          "term": "phagocytosis",
+          "priority": "Core",
+          "topic": "12.4",
+          "topicTitle": "Apoptosis & Development",
+          "connection": "Explain apoptosis and its developmental role."
+        },
+        {
+          "term": "developmental patterning",
+          "priority": "Core",
+          "topic": "12.4",
+          "topicTitle": "Apoptosis & Development",
+          "connection": "Explain apoptosis and its developmental role."
+        },
+        {
+          "term": "syndactyly",
+          "priority": "Core",
+          "topic": "12.4",
+          "topicTitle": "Apoptosis & Development",
+          "connection": "Explain apoptosis and its developmental role."
+        },
+        {
+          "term": "human chorionic gonadotropin",
+          "priority": "Core",
+          "topic": "12.5",
+          "topicTitle": "Pregnancy Hormones, Birth & Lactation",
+          "connection": "Explain hormonal regulation of pregnancy, birth, and lactation."
+        },
+        {
+          "term": "hCG",
+          "priority": "Core",
+          "topic": "12.5",
+          "topicTitle": "Pregnancy Hormones, Birth & Lactation",
+          "connection": "Explain hormonal regulation of pregnancy, birth, and lactation."
+        },
+        {
+          "term": "pregnancy test",
+          "priority": "Core",
+          "topic": "12.5",
+          "topicTitle": "Pregnancy Hormones, Birth & Lactation",
+          "connection": "Explain hormonal regulation of pregnancy, birth, and lactation."
+        },
+        {
+          "term": "relaxin",
+          "priority": "Core",
+          "topic": "12.5",
+          "topicTitle": "Pregnancy Hormones, Birth & Lactation",
+          "connection": "Explain hormonal regulation of pregnancy, birth, and lactation."
+        },
+        {
+          "term": "parturition",
+          "priority": "Core",
+          "topic": "12.5",
+          "topicTitle": "Pregnancy Hormones, Birth & Lactation",
+          "connection": "Explain hormonal regulation of pregnancy, birth, and lactation."
+        },
+        {
+          "term": "labor",
+          "priority": "Core",
+          "topic": "12.5",
+          "topicTitle": "Pregnancy Hormones, Birth & Lactation",
+          "connection": "Explain hormonal regulation of pregnancy, birth, and lactation."
+        },
+        {
+          "term": "dilation stage",
+          "priority": "Core",
+          "topic": "12.5",
+          "topicTitle": "Pregnancy Hormones, Birth & Lactation",
+          "connection": "Explain hormonal regulation of pregnancy, birth, and lactation."
+        },
+        {
+          "term": "expulsion stage",
+          "priority": "Core",
+          "topic": "12.5",
+          "topicTitle": "Pregnancy Hormones, Birth & Lactation",
+          "connection": "Explain hormonal regulation of pregnancy, birth, and lactation."
+        },
+        {
+          "term": "placental stage",
+          "priority": "Core",
+          "topic": "12.5",
+          "topicTitle": "Pregnancy Hormones, Birth & Lactation",
+          "connection": "Explain hormonal regulation of pregnancy, birth, and lactation."
+        },
+        {
+          "term": "positive feedback",
+          "priority": "Core",
+          "topic": "12.5",
+          "topicTitle": "Pregnancy Hormones, Birth & Lactation",
+          "connection": "Explain hormonal regulation of pregnancy, birth, and lactation."
+        },
+        {
+          "term": "oxytocin",
+          "priority": "Core",
+          "topic": "12.5",
+          "topicTitle": "Pregnancy Hormones, Birth & Lactation",
+          "connection": "Explain hormonal regulation of pregnancy, birth, and lactation."
+        },
+        {
+          "term": "prolactin",
+          "priority": "Core",
+          "topic": "12.5",
+          "topicTitle": "Pregnancy Hormones, Birth & Lactation",
+          "connection": "Explain hormonal regulation of pregnancy, birth, and lactation."
+        },
+        {
+          "term": "lactation",
+          "priority": "Core",
+          "topic": "12.5",
+          "topicTitle": "Pregnancy Hormones, Birth & Lactation",
+          "connection": "Explain hormonal regulation of pregnancy, birth, and lactation."
+        },
+        {
+          "term": "colostrum",
+          "priority": "Core",
+          "topic": "12.5",
+          "topicTitle": "Pregnancy Hormones, Birth & Lactation",
+          "connection": "Explain hormonal regulation of pregnancy, birth, and lactation."
+        },
+        {
+          "term": "milk let-down reflex",
+          "priority": "Core",
+          "topic": "12.5",
+          "topicTitle": "Pregnancy Hormones, Birth & Lactation",
+          "connection": "Explain hormonal regulation of pregnancy, birth, and lactation."
+        },
+        {
+          "term": "contraception",
+          "priority": "Core",
+          "topic": "12.6",
+          "topicTitle": "Contraception & Fertility Treatment",
+          "connection": "Compare contraception and assisted reproductive technologies."
+        },
+        {
+          "term": "barrier method",
+          "priority": "Core",
+          "topic": "12.6",
+          "topicTitle": "Contraception & Fertility Treatment",
+          "connection": "Compare contraception and assisted reproductive technologies."
+        },
+        {
+          "term": "hormonal contraception",
+          "priority": "Core",
+          "topic": "12.6",
+          "topicTitle": "Contraception & Fertility Treatment",
+          "connection": "Compare contraception and assisted reproductive technologies."
+        },
+        {
+          "term": "intrauterine device",
+          "priority": "Core",
+          "topic": "12.6",
+          "topicTitle": "Contraception & Fertility Treatment",
+          "connection": "Compare contraception and assisted reproductive technologies."
+        },
+        {
+          "term": "IUD",
+          "priority": "Core",
+          "topic": "12.6",
+          "topicTitle": "Contraception & Fertility Treatment",
+          "connection": "Compare contraception and assisted reproductive technologies."
+        },
+        {
+          "term": "sterilization",
+          "priority": "Core",
+          "topic": "12.6",
+          "topicTitle": "Contraception & Fertility Treatment",
+          "connection": "Compare contraception and assisted reproductive technologies."
+        },
+        {
+          "term": "vasectomy",
+          "priority": "Core",
+          "topic": "12.6",
+          "topicTitle": "Contraception & Fertility Treatment",
+          "connection": "Compare contraception and assisted reproductive technologies."
+        },
+        {
+          "term": "tubal ligation",
+          "priority": "Core",
+          "topic": "12.6",
+          "topicTitle": "Contraception & Fertility Treatment",
+          "connection": "Compare contraception and assisted reproductive technologies."
+        },
+        {
+          "term": "emergency contraception",
+          "priority": "Core",
+          "topic": "12.6",
+          "topicTitle": "Contraception & Fertility Treatment",
+          "connection": "Compare contraception and assisted reproductive technologies."
+        },
+        {
+          "term": "infertility",
+          "priority": "Core",
+          "topic": "12.6",
+          "topicTitle": "Contraception & Fertility Treatment",
+          "connection": "Compare contraception and assisted reproductive technologies."
+        },
+        {
+          "term": "assisted reproductive technology",
+          "priority": "Core",
+          "topic": "12.6",
+          "topicTitle": "Contraception & Fertility Treatment",
+          "connection": "Compare contraception and assisted reproductive technologies."
+        },
+        {
+          "term": "in vitro fertilization",
+          "priority": "Core",
+          "topic": "12.6",
+          "topicTitle": "Contraception & Fertility Treatment",
+          "connection": "Compare contraception and assisted reproductive technologies."
+        },
+        {
+          "term": "IVF",
+          "priority": "Core",
+          "topic": "12.6",
+          "topicTitle": "Contraception & Fertility Treatment",
+          "connection": "Compare contraception and assisted reproductive technologies."
+        },
+        {
+          "term": "artificial insemination",
+          "priority": "Core",
+          "topic": "12.6",
+          "topicTitle": "Contraception & Fertility Treatment",
+          "connection": "Compare contraception and assisted reproductive technologies."
+        },
+        {
+          "term": "intracytoplasmic sperm injection",
+          "priority": "Honors Extension",
+          "topic": "12.6",
+          "topicTitle": "Contraception & Fertility Treatment",
+          "connection": "Compare contraception and assisted reproductive technologies."
+        },
+        {
+          "term": "ICSI",
+          "priority": "Core",
+          "topic": "12.6",
+          "topicTitle": "Contraception & Fertility Treatment",
+          "connection": "Compare contraception and assisted reproductive technologies."
+        },
+        {
+          "term": "embryo transfer",
+          "priority": "Core",
+          "topic": "12.6",
+          "topicTitle": "Contraception & Fertility Treatment",
+          "connection": "Compare contraception and assisted reproductive technologies."
+        },
+        {
+          "term": "neonatal period",
+          "priority": "Core",
+          "topic": "12.7",
+          "topicTitle": "Human Growth & Aging",
+          "connection": "Describe growth, sexual maturation, and age-related change."
+        },
+        {
+          "term": "infancy",
+          "priority": "Core",
+          "topic": "12.7",
+          "topicTitle": "Human Growth & Aging",
+          "connection": "Describe growth, sexual maturation, and age-related change."
+        },
+        {
+          "term": "childhood",
+          "priority": "Core",
+          "topic": "12.7",
+          "topicTitle": "Human Growth & Aging",
+          "connection": "Describe growth, sexual maturation, and age-related change."
+        },
+        {
+          "term": "adolescence",
+          "priority": "Core",
+          "topic": "12.7",
+          "topicTitle": "Human Growth & Aging",
+          "connection": "Describe growth, sexual maturation, and age-related change."
+        },
+        {
+          "term": "puberty",
+          "priority": "Core",
+          "topic": "12.7",
+          "topicTitle": "Human Growth & Aging",
+          "connection": "Describe growth, sexual maturation, and age-related change."
+        },
+        {
+          "term": "adulthood",
+          "priority": "Core",
+          "topic": "12.7",
+          "topicTitle": "Human Growth & Aging",
+          "connection": "Describe growth, sexual maturation, and age-related change."
+        },
+        {
+          "term": "senescence",
+          "priority": "Core",
+          "topic": "12.7",
+          "topicTitle": "Human Growth & Aging",
+          "connection": "Describe growth, sexual maturation, and age-related change."
+        },
+        {
+          "term": "growth spurt",
+          "priority": "Core",
+          "topic": "12.7",
+          "topicTitle": "Human Growth & Aging",
+          "connection": "Describe growth, sexual maturation, and age-related change."
+        },
+        {
+          "term": "sexual maturation",
+          "priority": "Core",
+          "topic": "12.7",
+          "topicTitle": "Human Growth & Aging",
+          "connection": "Describe growth, sexual maturation, and age-related change."
+        },
+        {
+          "term": "primary sex characteristic",
+          "priority": "Core",
+          "topic": "12.7",
+          "topicTitle": "Human Growth & Aging",
+          "connection": "Describe growth, sexual maturation, and age-related change."
+        },
+        {
+          "term": "secondary sex characteristic",
+          "priority": "Core",
+          "topic": "12.7",
+          "topicTitle": "Human Growth & Aging",
+          "connection": "Describe growth, sexual maturation, and age-related change."
+        },
+        {
+          "term": "life expectancy",
+          "priority": "Core",
+          "topic": "12.7",
+          "topicTitle": "Human Growth & Aging",
+          "connection": "Describe growth, sexual maturation, and age-related change."
+        },
+        {
+          "term": "aging",
+          "priority": "Core",
+          "topic": "12.7",
+          "topicTitle": "Human Growth & Aging",
+          "connection": "Describe growth, sexual maturation, and age-related change."
+        },
+        {
+          "term": "gerontology",
+          "priority": "Core",
+          "topic": "12.7",
+          "topicTitle": "Human Growth & Aging",
+          "connection": "Describe growth, sexual maturation, and age-related change."
+        },
+        {
+          "term": "homeostatic reserve",
+          "priority": "Honors Extension",
+          "topic": "12.7",
+          "topicTitle": "Human Growth & Aging",
+          "connection": "Describe growth, sexual maturation, and age-related change."
+        }
       ],
       "topics": [
         {
