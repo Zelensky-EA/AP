@@ -8,8 +8,11 @@ const youtubeSearch = title => `https://www.youtube.com/results?search_query=${e
 const topicByCode = code => DATA.systems.flatMap(s=>s.topics).find(t=>t.code===String(code));
 const toISODate = value => {
   if(!value) return '';
-  if(/^\d{4}-\d{2}-\d{2}$/.test(value)) return value;
-  const parsed = new Date(value);
+  const raw=String(value).trim();
+  if(/^\d{4}-\d{2}-\d{2}$/.test(raw)) return raw;
+  const us=raw.match(/^(\d{1,2})\/(\d{1,2})\/(\d{2}|\d{4})(?:\s.*)?$/);
+  if(us){const year=us[3].length===2?`20${us[3]}`:us[3];return `${year}-${us[1].padStart(2,'0')}-${us[2].padStart(2,'0')}`}
+  const parsed = new Date(raw);
   if(Number.isNaN(parsed.valueOf())) return value;
   const y=parsed.getFullYear(),m=String(parsed.getMonth()+1).padStart(2,'0'),d=String(parsed.getDate()).padStart(2,'0');
   return `${y}-${m}-${d}`;
@@ -28,11 +31,15 @@ function systemCard(s){return `<a class="system-card" href="#system/${s.unit}" s
 function mostRelevantDay(rows=DATA.dailyFallback){
   const today = new Date(); today.setHours(0,0,0,0);
   const todayIso=`${today.getFullYear()}-${String(today.getMonth()+1).padStart(2,'0')}-${String(today.getDate()).padStart(2,'0')}`;
-  const entries=[...rows].filter(x=>x.date).sort((a,b)=>xDate(a).localeCompare(xDate(b)));
-  return entries.find(x=>xDate(x)===todayIso) || entries.find(x=>xDate(x)>todayIso) || entries.at(-1);
+  const entries=[...rows].filter(x=>x.date&&hasLessonData(x)).sort((a,b)=>xDate(a).localeCompare(xDate(b)));
+  const exact=entries.find(x=>xDate(x)===todayIso);
+  if(exact)return exact;
+  const previous=entries.filter(x=>xDate(x)<todayIso).at(-1);
+  return previous || entries.find(x=>xDate(x)>todayIso) || entries.at(-1);
 }
 
 function xDate(entry){return toISODate(entry.date)}
+function hasLessonData(entry){return [entry.topic,entry.classwork,entry.home,entry.video].some(value=>String(value||'').trim())}
 
 async function renderToday(){
   const host=document.querySelector('#today-panel'); if(!host)return;
