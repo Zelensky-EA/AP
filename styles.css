@@ -110,3 +110,24 @@ footer p{font-size:14px}.source-note{font-size:12px}
 .search-result b{font-size:16px}.search-result p{font-size:14px}.empty-state{font-size:15px}
 
 @media(max-width:680px){body{font-size:16px}.target{font-size:16px}.today-grid p{font-size:15px}.section-heading>p{font-size:15px}.navigator-hero p,.system-hero p,.resources-hero p{font-size:15px}.resource-card p{font-size:15px}}
+
+/* High-contrast reading layer */
+body{color:#f0fbf9}
+.target{color:#d3e7e4;font-size:17px;font-weight:500;line-height:1.68}
+.today-grid p{color:#f2fbfa;font-size:16px;font-weight:500;line-height:1.65}
+.today-grid span,.panel-label{color:#66f1df;font-weight:600}
+.today-commandbar{color:#d4e5e3}.command-date strong{color:#fff;font-weight:600}
+.section-heading>p{color:#b9cecc;font-size:17px;font-weight:500;line-height:1.65}
+.card-kicker{color:#bcd0ce;font-size:16px;font-weight:500;line-height:1.58}
+.navigator-hero p,.system-hero p,.resources-hero p{color:#d0e1df;font-size:17px;font-weight:500;line-height:1.65}
+.day-card .mini-target{color:#c8dcda;font-size:16px;font-weight:500;line-height:1.62}.day-block p{color:#edf7f5;font-size:15px;font-weight:500;line-height:1.62}.day-card .date-small{color:#acc1bf}
+.i-can{color:#effbf9;font-size:21px;font-weight:500;line-height:1.55}
+.meta-box p{color:#d3e4e2;font-size:15px;font-weight:500;line-height:1.62}
+.vocab-card p,.connections-card p,.physiology-vocab p{color:#c1d4d2;font-size:16px;font-weight:500;line-height:1.6}
+.vocab-chip,.physiology-vocab .vocab-chip{color:#e1f0ee;font-size:12px;font-weight:500;line-height:1.4}
+.physiology-vocab .vocab-chip{color:#dcebf5}
+.resource-card p{color:#c8d9d7;font-size:17px;font-weight:500;line-height:1.65}
+.search-result p{color:#bed0ce;font-size:15px}.empty-state{color:#c6d7d5}
+footer p{color:#c8d8d6}.source-note{color:#91aaa8}
+
+@media(max-width:680px){.target{font-size:16px}.today-grid p{font-size:16px}.section-heading>p{font-size:16px}.navigator-hero p,.system-hero p,.resources-hero p{font-size:16px}.card-kicker{font-size:15px}.resource-card p{font-size:16px}.meta-box p{font-size:15px}.vocab-card p,.connections-card p,.physiology-vocab p{font-size:15px}}
