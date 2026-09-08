@@ -96,3 +96,17 @@ dialog{background:#0b1d23;color:#e7f5f3;border:1px solid #2d535b}.search-top{bor
 
 @media(max-width:950px){.today-content{grid-template-columns:1fr}.today-primary{border-right:0;border-bottom:1px solid #24444b}.today-grid>div{min-height:150px}.system-layout{grid-template-columns:1fr}nav{background:#071419;border-color:#1d3c43}}
 @media(max-width:680px){.home-today{padding:24px 14px 36px}.home-toolbar h1{font-size:29px}.today-commandbar{align-items:flex-start;flex-direction:column;gap:8px}.command-codes{width:100%;justify-content:space-between}.command-codes span:first-child{padding-left:0;border-left:0}.today-primary{padding:22px 19px}.today-grid{grid-template-columns:1fr}.today-grid>div{min-height:auto;padding:18px 19px}.today-grid>div+div{padding-left:19px;border-left:0;border-top:1px solid #24444b}.systems-grid{grid-template-columns:1fr}.focused-resources{grid-template-columns:1fr}}
+
+/* Readability pass: body copy only; display headings remain unchanged. */
+body{font-size:17px}
+.today-commandbar{font-size:12px}.panel-label{font-size:11px}.target{font-size:16px;line-height:1.62}.today-grid span{font-size:11px}.today-grid p{font-size:15px;line-height:1.62}.topic-jump{font-size:11px}
+.section-heading>p{font-size:16px;line-height:1.6}.card-kicker{font-size:15px;line-height:1.5}.card-link{font-size:13px}
+.navigator-hero p,.system-hero p,.resources-hero p{font-size:16px;line-height:1.6}.breadcrumbs{font-size:13px!important}
+.day-card h3{font-size:17px}.day-card .date-small{font-size:13px}.day-card .mini-target{font-size:15px;line-height:1.55}.day-block b{font-size:11px}.day-block p{font-size:14px;line-height:1.55}
+.topic-item h3{font-size:17px}.i-can{font-size:20px;line-height:1.5}.meta-box p{font-size:14px;line-height:1.55}.resource-pill{font-size:12px}
+.vocab-card p,.connections-card p{font-size:15px;line-height:1.55}.physiology-vocab p{font-size:15px}.vocab-chip,.physiology-vocab .vocab-chip{font-size:11px;line-height:1.35;padding:7px 9px}
+.resource-card p{font-size:16px;line-height:1.6}.resource-card a{font-size:14px}
+footer p{font-size:14px}.source-note{font-size:12px}
+.search-result b{font-size:16px}.search-result p{font-size:14px}.empty-state{font-size:15px}
+
+@media(max-width:680px){body{font-size:16px}.target{font-size:16px}.today-grid p{font-size:15px}.section-heading>p{font-size:15px}.navigator-hero p,.system-hero p,.resources-hero p{font-size:15px}.resource-card p{font-size:15px}}
