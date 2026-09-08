@@ -25,18 +25,23 @@ function renderHome(){
 
 function systemCard(s){return `<a class="system-card" href="#system/${s.unit}" style="--unit-color:${s.color}"><div class="system-art"><span class="system-glyph">${glyphs[s.icon]||'◉'}</span><span class="unit-number">${String(s.unit).padStart(2,'0')}</span></div><div class="system-card-copy"><p class="eyebrow">Unit ${s.unit}</p><h3>${escapeHTML(s.name)}</h3><p class="card-kicker">${escapeHTML(s.kicker)}</p><span class="card-link">Explore ${s.topics.length} topics <b>→</b></span></div></a>`}
 
-function mostRelevantDay(){
+function mostRelevantDay(rows=DATA.dailyFallback){
   const today = new Date(); today.setHours(0,0,0,0);
-  const entries=[...DATA.dailyFallback].sort((a,b)=>a.date.localeCompare(b.date));
-  return entries.find(x=>new Date(`${x.date}T00:00:00`)>=today) || entries.at(-1);
+  const todayIso=`${today.getFullYear()}-${String(today.getMonth()+1).padStart(2,'0')}-${String(today.getDate()).padStart(2,'0')}`;
+  const entries=[...rows].filter(x=>x.date).sort((a,b)=>xDate(a).localeCompare(xDate(b)));
+  return entries.find(x=>xDate(x)===todayIso) || entries.find(x=>xDate(x)>todayIso) || entries.at(-1);
 }
 
-function renderToday(){
+function xDate(entry){return toISODate(entry.date)}
+
+async function renderToday(){
   const host=document.querySelector('#today-panel'); if(!host)return;
-  const d=mostRelevantDay();
+  const source=await loadDaily();
+  if(!document.querySelector('#today-panel'))return;
+  const d=mostRelevantDay(source.rows);
   if(!d){host.innerHTML='<div class="today-card"><div class="today-content"><h2>No daily plan posted yet.</h2><p class="empty-state">Check back when the Navigator is updated.</p></div></div>';return}
   const topic=topicByCode(d.topic);
-  host.innerHTML=`<div class="home-toolbar"><div><p class="eyebrow">Medical learning interface</p><h1>Today’s Briefing</h1></div><div><a class="button" href="#calendar">Full navigator →</a><a class="button secondary" href="#systems">System database</a></div></div><article class="today-card"><div class="today-commandbar"><div class="command-date"><span class="signal-dot" aria-hidden="true"></span><strong>${formatDate(d.date,{weekday:'long',month:'long',day:'numeric'})}</strong></div><div class="command-codes"><span>WK ${escapeHTML(d.week)}</span><span>${topic?`TOPIC ${escapeHTML(topic.code)}`:'DAILY PLAN'}</span><span class="system-online">ONLINE</span></div></div><div class="today-content"><div class="today-primary"><p class="panel-label">Current learning objective</p><h2>${escapeHTML(topic?.title||'Course work')}</h2><p class="target">${escapeHTML(topic?.target||d.topicText||'Review the plan below.')}</p>${topic?`<a class="topic-jump" href="#system/${Number(topic.unit.split(' ')[1])}">Open system file <span>→</span></a>`:''}</div><div class="today-grid"><div><span>01 // In class</span><p>${escapeHTML(d.classwork||'See classroom instructions.')}</p></div><div><span>02 // BIOZONE</span><p>${escapeHTML(d.biozone||'No pages assigned.')}</p></div><div><span>03 // After class</span><p>${escapeHTML(d.home||'No homework posted.')}</p></div></div></div></article>`;
+  host.innerHTML=`<div class="home-toolbar"><div><p class="eyebrow">Medical learning interface</p><h1>Today’s Briefing</h1></div><div><a class="button" href="#calendar">Full navigator →</a><a class="button secondary" href="#systems">System database</a></div></div><article class="today-card"><div class="today-commandbar"><div class="command-date"><span class="signal-dot ${source.live?'':'fallback'}" aria-hidden="true"></span><strong>${formatDate(xDate(d),{weekday:'long',month:'long',day:'numeric'})}</strong></div><div class="command-codes"><span>WK ${escapeHTML(d.week)}</span><span>${topic?`TOPIC ${escapeHTML(topic.code)}`:'DAILY PLAN'}</span><span class="system-online ${source.live?'':'fallback'}">${source.live?'LIVE SHEET':'SAVED BACKUP'}</span></div></div><div class="today-content"><div class="today-primary"><p class="panel-label">Current learning objective</p><h2>${escapeHTML(topic?.title||'Course work')}</h2><p class="target">${escapeHTML(topic?.target||d.topicText||'Review the plan below.')}</p>${topic?`<a class="topic-jump" href="#system/${Number(topic.unit.split(' ')[1])}">Open system file <span>→</span></a>`:''}</div><div class="today-grid"><div><span>01 // In class</span><p>${escapeHTML(d.classwork||'See classroom instructions.')}</p></div><div><span>02 // BIOZONE</span><p>${escapeHTML(d.biozone||'No pages assigned.')}</p></div><div><span>03 // After class</span><p>${escapeHTML(d.home||'No homework posted.')}</p></div></div></div></article>`;
 }
 
 function parseCSV(text){
