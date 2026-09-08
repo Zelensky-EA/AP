@@ -55,7 +55,7 @@ function normalizeLiveRows(rows){
   return rows.slice(headerIndex+1).map(r=>({week:r[col('Week')],day:r[col('Day')],date:toISODate(r[col('Date')]),topic:r[col('Topic')],topicText:r[col('Topic Title / I Can…')],classwork:r[col('Class')],biozone:r[col('BIOZONE')],video:r[col('Crash Course / Video')],home:r[col('HOME After Class')],standard:r[col('A&P Target')]})).filter(x=>x.date&&Object.values(x).some(Boolean));
 }
 async function loadDaily(){
-  try{const res=await fetch(DATA.dailyCsv,{cache:'no-store'});if(!res.ok)throw new Error('Unavailable');const live=normalizeLiveRows(parseCSV(await res.text()));if(!live.length)throw new Error('Empty');return {rows:live,live:true}}catch{return {rows:DATA.dailyFallback,live:false}}
+  try{const separator=DATA.dailyCsv.includes('?')?'&':'?';const liveUrl=`${DATA.dailyCsv}${separator}_=${Date.now()}`;const res=await fetch(liveUrl,{cache:'no-store'});if(!res.ok)throw new Error('Unavailable');const live=normalizeLiveRows(parseCSV(await res.text()));if(!live.length)throw new Error('Empty');return {rows:live,live:true}}catch{return {rows:DATA.dailyFallback,live:false}}
 }
 
 async function renderCalendar(){
