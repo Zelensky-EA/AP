@@ -170,3 +170,6 @@ h1,h2,h3,.brand strong{font-family:"Trebuchet MS",Tahoma,Geneva,Arial,sans-serif
 .topic-item h3{letter-spacing:-.01em}.vocab-card h2,.connections-card h2,.resource-card h2{letter-spacing:-.025em}
 
 @media(max-width:680px){.home-toolbar h1{font-size:30px}.today-content h2{font-size:28px}.system-card h3{font-size:21px}}
+
+/* Complete Daily Navigator fields */
+.day-card{min-height:0}.day-block p{white-space:pre-line}.navigator-video{display:block;margin-top:7px;color:#4d246e;font-size:14px;font-weight:700;line-height:1.45;text-decoration:underline;text-decoration-style:dotted;text-underline-offset:3px}.navigator-video:hover{color:#b22482}.biozone-block{background:rgba(61,177,173,.09);margin-inline:-18px;padding:13px 18px 0}.video-block{background:rgba(164,70,153,.08);margin-inline:-18px;padding:13px 18px 0}.teacher-note-block{background:#fff1b8;border:2px inset #fff8d7!important;margin:14px -8px 0;padding:10px!important;color:#463b27}.teacher-note-block b{color:#7d4b22}.teacher-note-block p{color:#463b27;font-weight:600}.week-grid{align-items:start}
