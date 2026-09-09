@@ -10,6 +10,14 @@ const toISODate = value => {
   if(!value) return '';
   const raw=String(value).trim();
   if(/^\d{4}-\d{2}-\d{2}$/.test(raw)) return raw;
+  const shortUs=raw.match(/^(\d{1,2})\/(\d{1,2})$/);
+  if(shortUs){
+    const now=new Date(),month=Number(shortUs[1]),currentMonth=now.getMonth()+1;
+    let year=now.getFullYear();
+    if(currentMonth>=7&&month<7)year+=1;
+    else if(currentMonth<7&&month>=7)year-=1;
+    return `${year}-${shortUs[1].padStart(2,'0')}-${shortUs[2].padStart(2,'0')}`;
+  }
   const us=raw.match(/^(\d{1,2})\/(\d{1,2})\/(\d{2}|\d{4})(?:\s.*)?$/);
   if(us){const year=us[3].length===2?`20${us[3]}`:us[3];return `${year}-${us[1].padStart(2,'0')}-${us[2].padStart(2,'0')}`}
   const parsed = new Date(raw);
