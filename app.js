@@ -48,6 +48,11 @@ function mostRelevantDay(rows=DATA.dailyFallback){
 
 function xDate(entry){return toISODate(entry.date)}
 function hasLessonData(entry){return [entry.topic,entry.topicText,entry.classwork,entry.biozone,entry.video,entry.home,entry.standard,entry.teacherNote].some(value=>String(value||'').trim())}
+function oddityPanel(topicCode){
+  const item=DATA.oddityFacts?.[String(topicCode)];
+  if(!item)return '';
+  return `<aside class="oddity-panel" aria-labelledby="oddity-title"><div class="oddity-titlebar"><span>ANATOMY_ODDITY.EXE</span><span>VERIFIED FILE</span></div><div class="oddity-body"><div class="oddity-stamp" aria-hidden="true">BELIEVE<br>IT OR NOT</div><div class="oddity-copy"><p class="eyebrow">TODAY'S ANATOMY ODDITY</p><h2 id="oddity-title">${escapeHTML(item.title)}</h2><p>${escapeHTML(item.body)}</p><a href="${escapeHTML(item.url)}" target="_blank" rel="noopener">Source: ${escapeHTML(item.source)} ↗</a></div></div></aside>`;
+}
 
 async function renderToday(){
   const host=document.querySelector('#today-panel'); if(!host)return;
@@ -58,7 +63,9 @@ async function renderToday(){
   const briefingDate=browserToday.toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric'});
   if(!d){host.innerHTML='<div class="today-card"><div class="today-content"><h2>No daily plan posted yet.</h2><p class="empty-state">Check back when the Navigator is updated.</p></div></div>';return}
   const topic=topicByCode(d.topic);
+  const oddity=oddityPanel(d.topic);
   host.innerHTML=`<div class="home-toolbar"><div><p class="eyebrow">ANATOMY_OS // DAILY FILE</p><h1>Today’s Briefing</h1></div><div><a class="button" href="#calendar">Full Navigator</a><a class="button secondary" href="#systems">System Directory</a></div></div><article class="today-card"><div class="today-commandbar"><div class="command-date"><span class="signal-dot ${source.live?'':'fallback'}" aria-hidden="true"></span><strong>${escapeHTML(briefingDate)}</strong></div><div class="command-codes"><span>WK ${escapeHTML(d.week)}</span><span>${topic?`TOPIC ${escapeHTML(topic.code)}`:'DAILY PLAN'}</span><span class="system-online ${source.live?'':'fallback'}">${source.live?'SHEET ONLINE':'BACKUP MODE'}</span></div></div><div class="today-content"><div class="today-primary"><p class="panel-label">CURRENT LEARNING OBJECTIVE</p><h2>${escapeHTML(topic?.title||'Course work')}</h2><p class="target">${escapeHTML(topic?.target||d.topicText||'Review the plan below.')}</p>${topic?`<a class="topic-jump" href="#system/${Number(topic.unit.split(' ')[1])}">OPEN SYSTEM FILE <span>▶</span></a>`:''}</div><div class="today-grid"><div><span>01 // IN CLASS</span><p>${escapeHTML(d.classwork||'See classroom instructions.')}</p></div><div><span>02 // BIOZONE</span><p>${escapeHTML(d.biozone||'No pages assigned.')}</p></div><div><span>03 // AFTER CLASS</span><p>${escapeHTML(d.home||'No homework posted.')}</p></div></div></div></article>`;
+  if(oddity)host.insertAdjacentHTML('beforeend',oddity);
 }
 
 function parseCSV(text){

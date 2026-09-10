@@ -20377,5 +20377,499 @@ window.COURSE_DATA = {
       "standard": "A&P 2.6.A–C",
       "teacherNote": null
     }
-  ]
+  ],
+  "oddityFacts": {
+    "0.1": {
+      "title": "Your body is organized like nested files",
+      "body": "Cells form tissues, tissues form organs, and organs cooperate in systems—but a failure at one level can reshape every level above it.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/1-2-structural-organization-of-the-human-body"
+    },
+    "0.2": {
+      "title": "Left and right always belong to the patient",
+      "body": "Anatomical directions describe the body from the subject's perspective, so a structure on a diagram's left may actually be the patient's right.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/1-6-anatomical-terminology"
+    },
+    "0.3": {
+      "title": "One organ can look completely different in another plane",
+      "body": "A transverse slice of a structure can look unrelated to its sagittal view, which is why medical imaging must label the plane and orientation.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/1-6-anatomical-terminology"
+    },
+    "0.4": {
+      "title": "Your 'arm' is not your whole upper limb",
+      "body": "In anatomical language, the arm is only the region between shoulder and elbow; the region from elbow to wrist is the forearm.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/1-6-anatomical-terminology"
+    },
+    "0.5": {
+      "title": "Your organs slide without scraping",
+      "body": "Serous membranes secrete a thin lubricating fluid that lets moving organs such as the lungs and heart glide against surrounding surfaces.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/1-6-anatomical-terminology"
+    },
+    "1.1": {
+      "title": "Most of a cell is organized water",
+      "body": "Water's polarity makes it the solvent for ions and molecules, allowing thousands of chemical reactions to occur inside the crowded cytoplasm.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/2-2-water"
+    },
+    "1.2": {
+      "title": "A cell membrane behaves like a two-dimensional fluid",
+      "body": "Phospholipids and many proteins move laterally within the bilayer, so the membrane is flexible, self-sealing, and constantly reorganizing.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/3-1-the-cell-membrane"
+    },
+    "1.3": {
+      "title": "Mitochondria carry their own DNA",
+      "body": "Mitochondria contain a small genome and reproduce within cells, evidence of their evolutionary origin from formerly free-living bacteria.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/3-2-the-cytoplasm-and-cellular-organelles"
+    },
+    "1.4": {
+      "title": "Water can make a cell burst without pushing it",
+      "body": "In a hypotonic solution, osmosis drives water into a cell because the membrane allows water to cross more readily than many solutes.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/3-1-the-cell-membrane"
+    },
+    "1.5": {
+      "title": "Cells swallow material",
+      "body": "During endocytosis, the plasma membrane folds inward and pinches off as a vesicle, bringing particles or fluid into the cell.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/3-1-the-cell-membrane"
+    },
+    "1.6": {
+      "title": "Every new cell receives about two meters of DNA",
+      "body": "Human DNA is tightly packaged into chromosomes so an enormous molecular length can be copied, separated, and fitted inside microscopic daughter cells.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/3-5-cell-growth-and-division"
+    },
+    "1.7": {
+      "title": "Your skeleton is connective tissue",
+      "body": "Bone, blood, cartilage, fat, tendons, and ligaments are all classified as connective tissues because their cells occupy an extracellular matrix.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/4-3-connective-tissue-supports-and-protects"
+    },
+    "2.1": {
+      "title": "Normal does not mean motionless",
+      "body": "Homeostasis is a dynamic state: body variables continuously fluctuate around a set range while control systems make constant corrections.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/1-5-homeostasis"
+    },
+    "2.2": {
+      "title": "Childbirth intentionally amplifies change",
+      "body": "Positive feedback strengthens uterine contractions through oxytocin until delivery removes the stimulus and ends the loop.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/1-5-homeostasis"
+    },
+    "2.3": {
+      "title": "The lungs are outside the heart's sac",
+      "body": "The pleural cavities surround the lungs, while the heart occupies its own pericardial cavity inside the central mediastinum.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/1-6-anatomical-terminology"
+    },
+    "2.4": {
+      "title": "Medical images are reconstructed slices",
+      "body": "CT scanners collect many X-ray measurements around the body and computationally reconstruct cross-sectional images of internal anatomy.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/1-7-medical-imaging"
+    },
+    "2.5": {
+      "title": "Most of what you see is already dead",
+      "body": "The exposed surface of the epidermis consists mainly of flattened, keratin-filled cells that have lost their nuclei and protect the living layers below.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin"
+    },
+    "2.6": {
+      "title": "Sweat cools only when it evaporates",
+      "body": "Sweat left dripping from the skin provides little cooling; heat is removed when liquid water absorbs energy and changes into vapor.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system"
+    },
+    "3.1": {
+      "title": "The smallest bone is inside your ear",
+      "body": "The stapes is a stirrup-shaped auditory ossicle only a few millimeters long, yet it transfers vibration into the fluid-filled inner ear.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/7-1-divisions-of-the-skeletal-system"
+    },
+    "3.2": {
+      "title": "Your skeleton is never finished",
+      "body": "Osteoclasts continually remove bone while osteoblasts replace it, allowing the skeleton to repair microdamage and adapt to mechanical stress.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/6-6-exercise-nutrition-hormones-and-bone-tissue"
+    },
+    "3.3": {
+      "title": "The shoulder trades stability for freedom",
+      "body": "Its shallow glenoid cavity allows exceptional movement but provides less bony stability than the deep socket of the hip.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/9-4-synovial-joints"
+    },
+    "3.4": {
+      "title": "A silent disease can shorten the spine",
+      "body": "Osteoporosis can weaken vertebral bodies until they compress, reducing height and exaggerating the thoracic curve.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/6-7-calcium-homeostasis-interactions-of-the-skeletal-system-and-other-organ-systems"
+    },
+    "4.1": {
+      "title": "Some muscles do not attach to bone",
+      "body": "Facial muscles often insert into skin, allowing their contractions to pull the skin into expressions rather than move a joint.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/11-3-axial-muscles-of-the-head-neck-and-back"
+    },
+    "4.2": {
+      "title": "A sarcomere shortens without its filaments shrinking",
+      "body": "Actin and myosin keep their lengths; contraction occurs because the thin filaments slide farther between the thick filaments.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/10-3-muscle-fiber-contraction-and-relaxation"
+    },
+    "4.3": {
+      "title": "A tiny calcium release starts every skeletal contraction",
+      "body": "Calcium binds troponin, shifts tropomyosin away from actin's binding sites, and permits myosin cross-bridges to cycle.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/10-3-muscle-fiber-contraction-and-relaxation"
+    },
+    "4.4": {
+      "title": "Standing still is active work",
+      "body": "Posture depends on continuous low-level contraction called muscle tone, coordinated by sensory feedback and opposing muscle groups.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/10-4-nervous-system-control-of-muscle-tension"
+    },
+    "4.5": {
+      "title": "The burning muscle is not simply 'full of lactic acid'",
+      "body": "Fatigue involves changes in metabolites, ion balance, fuel supply, nervous drive, and contractile function rather than one waste product alone.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/10-5-types-of-muscle-fibers"
+    },
+    "4.6": {
+      "title": "Training can change muscle without adding fibers",
+      "body": "Most strength-related growth comes from hypertrophy—the enlargement of existing fibers and their contractile machinery—not the creation of many new muscle cells.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/10-6-exercise-and-muscle-performance"
+    },
+    "5.1": {
+      "title": "Your gut has its own nervous network",
+      "body": "The enteric nervous system contains extensive neural circuits in the digestive tract and can coordinate many digestive activities independently.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/14-3-motor-responses"
+    },
+    "5.2": {
+      "title": "The wrinkled cortex is a space-saving strategy",
+      "body": "Gyri and sulci greatly increase cerebral cortical surface area without requiring an impossibly large skull.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system"
+    },
+    "5.3": {
+      "title": "A reflex can begin before conscious awareness",
+      "body": "Spinal circuits can activate motor neurons immediately, while sensory information continues upward to the brain for conscious perception.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/13-3-circulation-and-the-central-nervous-system"
+    },
+    "5.4": {
+      "title": "An action potential does not fade as it travels",
+      "body": "Voltage-gated channels regenerate the electrical signal along the axon, preserving its amplitude over distance.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/12-4-the-action-potential"
+    },
+    "5.5": {
+      "title": "One neuron can receive thousands of messages",
+      "body": "A neuron integrates excitatory and inhibitory inputs arriving across many synapses before deciding whether to fire an action potential.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/12-5-communication-between-neurons"
+    },
+    "5.6": {
+      "title": "Your receptors translate physics into electricity",
+      "body": "Pressure, light, chemicals, and temperature are converted into changes in membrane potential that the nervous system can interpret.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/14-1-sensory-perception"
+    },
+    "5.7": {
+      "title": "Your sharpest vision covers a tiny retinal spot",
+      "body": "The fovea contains densely packed cones and provides the highest visual acuity, while peripheral retina is better at detecting dim light and motion.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/14-2-central-processing"
+    },
+    "5.8": {
+      "title": "Balance detectors contain tiny stones",
+      "body": "Calcium-carbonate otoliths add weight to inner-ear membranes, helping sensory cells detect gravity and linear acceleration.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/14-1-sensory-perception"
+    },
+    "6.1": {
+      "title": "Hormones can act at concentrations of parts per billion",
+      "body": "Target cells respond because their receptors recognize specific hormones even when only tiny amounts circulate in the blood.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-2-hormones"
+    },
+    "6.2": {
+      "title": "The posterior pituitary is neural tissue",
+      "body": "It stores and releases hormones made by hypothalamic neurons, making it a direct anatomical bridge between nervous and endocrine control.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-3-the-pituitary-gland-and-hypothalamus"
+    },
+    "6.3": {
+      "title": "Some hormones never enter their target cell",
+      "body": "Water-soluble hormones bind surface receptors and relay their message through intracellular second-messenger systems.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-2-hormones"
+    },
+    "6.4": {
+      "title": "Two pancreatic hormones pull glucose in opposite directions",
+      "body": "Insulin lowers blood glucose, while glucagon raises it; their opposing actions keep fuel available within a narrow physiological range.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-9-the-pancreas"
+    },
+    "6.5": {
+      "title": "Type 1 and type 2 diabetes can share a symptom but not a cause",
+      "body": "Type 1 results from loss of insulin-producing beta cells, whereas type 2 begins mainly with reduced tissue responsiveness to insulin.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-9-the-pancreas"
+    },
+    "6.6": {
+      "title": "A stress response changes with time",
+      "body": "Epinephrine acts within seconds, while the hypothalamic-pituitary-adrenal pathway produces a slower cortisol response that can persist much longer.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-6-the-adrenal-glands"
+    },
+    "7.1": {
+      "title": "Your circulation is two pumps in series",
+      "body": "The right heart sends blood through the lungs, and the left heart sends it through the body; failure of either side backs pressure into the circuit before it.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/20-2-blood-flow-blood-pressure-and-resistance"
+    },
+    "7.2": {
+      "title": "Most vessels are too small to see",
+      "body": "Capillaries are microscopic, but their enormous combined cross-sectional area slows blood and creates the main surface for exchange.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/20-1-structure-and-function-of-blood-vessels"
+    },
+    "7.3": {
+      "title": "A red blood cell discards its nucleus",
+      "body": "Mature erythrocytes lose nuclei and most organelles, maximizing room for hemoglobin but preventing cell division or extensive repair.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/18-3-erythrocytes"
+    },
+    "7.4": {
+      "title": "The heart feeds itself first",
+      "body": "Coronary arteries branch from the ascending aorta just beyond the aortic valve to supply the myocardium with oxygenated blood.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-1-heart-anatomy"
+    },
+    "7.5": {
+      "title": "The ECG records electricity, not the heartbeat sound",
+      "body": "Its waves reflect depolarization and repolarization spreading through the heart; mechanical contraction follows the electrical event.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-2-cardiac-muscle-and-electrical-activity"
+    },
+    "7.6": {
+      "title": "Your heart carries its own starter circuit",
+      "body": "Pacemaker cells in the sinoatrial node spontaneously depolarize, so the heart can beat without a motor command from the brain.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-2-cardiac-muscle-and-electrical-activity"
+    },
+    "7.7": {
+      "title": "Exercise can increase output without an extreme resting pulse",
+      "body": "Endurance training can enlarge stroke volume, allowing a trained heart to deliver adequate blood with fewer beats at rest.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-4-cardiac-physiology"
+    },
+    "7.8": {
+      "title": "A blocked artery can injure tissue downstream within minutes",
+      "body": "When coronary flow stops, oxygen-starved heart muscle rapidly loses ATP and may die unless circulation is restored.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/20-5-circulatory-pathways"
+    },
+    "8.1": {
+      "title": "Your immune system learns what 'self' means",
+      "body": "Developing lymphocytes that react strongly to the body's own molecules are normally removed or inactivated, limiting autoimmune attack.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/21-4-the-adaptive-immune-response-b-lymphocytes-and-antibodies"
+    },
+    "8.2": {
+      "title": "The wrong blood type can make cells clump",
+      "body": "Preexisting antibodies can bind unfamiliar red-cell antigens, producing agglutination and potentially dangerous hemolysis.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/18-6-blood-typing"
+    },
+    "8.3": {
+      "title": "Some immune cells eat for a living",
+      "body": "Neutrophils and macrophages engulf microbes into vesicles, then fuse those vesicles with lysosomes that digest the captured material.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/21-2-barrier-defenses-and-the-innate-immune-response"
+    },
+    "8.4": {
+      "title": "Fever is a controlled reset",
+      "body": "Pyrogens can raise the hypothalamic temperature set point, causing chills and heat conservation until the body reaches the new target.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/21-2-barrier-defenses-and-the-innate-immune-response"
+    },
+    "8.5": {
+      "title": "Lymph has no central pump",
+      "body": "Skeletal-muscle contractions, breathing, and one-way valves move lymph through vessels and return tissue fluid to the bloodstream.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/21-1-anatomy-of-the-lymphatic-and-immune-systems"
+    },
+    "8.6": {
+      "title": "One selected B cell can become an antibody factory",
+      "body": "After recognizing its antigen and receiving proper signals, a B-cell clone produces plasma cells that secrete large quantities of matching antibody.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/21-4-the-adaptive-immune-response-b-lymphocytes-and-antibodies"
+    },
+    "8.7": {
+      "title": "Allergies use defenses meant for parasites",
+      "body": "IgE and mast-cell responses that can help combat multicellular parasites may instead react to harmless substances such as pollen or foods.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/21-5-the-immune-response-against-pathogens"
+    },
+    "9.1": {
+      "title": "The gas-exchange barrier is thinner than a cell",
+      "body": "Alveolar epithelium and capillary endothelium form an extremely thin respiratory membrane that shortens the diffusion distance for oxygen and carbon dioxide.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-4-gas-exchange"
+    },
+    "9.2": {
+      "title": "Most carbon dioxide does not travel as carbon dioxide",
+      "body": "Inside red blood cells, much of it is converted to bicarbonate, which carries carbon dioxide through plasma and helps regulate blood pH.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-5-transport-of-gases"
+    },
+    "9.3": {
+      "title": "You inhale because pressure falls",
+      "body": "Contraction of the diaphragm enlarges the thoracic cavity, lowers pressure inside the lungs, and allows atmospheric pressure to push air inward.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing"
+    },
+    "9.4": {
+      "title": "A spirometer cannot directly measure all lung volume",
+      "body": "Residual volume remains after maximal exhalation, so capacities containing it require indirect measurement methods.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing"
+    },
+    "9.5": {
+      "title": "Alveoli can merge into useless large spaces",
+      "body": "In emphysema, destruction of alveolar walls reduces elastic recoil and gas-exchange surface area even though the lungs may appear overinflated.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-6-modulations-of-the-respiratory-system"
+    },
+    "9.6": {
+      "title": "At altitude, oxygen percentage stays almost the same",
+      "body": "The problem is lower atmospheric and oxygen partial pressure, which reduces the diffusion gradient driving oxygen into blood.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-4-gas-exchange"
+    },
+    "10.1": {
+      "title": "A vitamin can be essential in microscopic amounts",
+      "body": "Vitamins do not supply usable energy, yet many serve as cofactors required for metabolic reactions that release energy from food.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/24-1-overview-of-metabolic-reactions"
+    },
+    "10.2": {
+      "title": "Your digestive tract has its own pacemaker cells",
+      "body": "Interstitial cells of Cajal generate rhythmic electrical activity that helps coordinate smooth-muscle contractions and intestinal motility.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-2-digestive-system-processes-and-regulation"
+    },
+    "10.3": {
+      "title": "The small intestine hides enormous surface area",
+      "body": "Circular folds, villi, and microvilli create progressively smaller projections that dramatically expand the membrane available for absorption.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-5-the-small-and-large-intestines"
+    },
+    "10.4": {
+      "title": "Thinking about food can start digestion",
+      "body": "Sight, smell, taste, or thought can trigger the cephalic phase, activating neural signals that prepare salivary and gastric secretions.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-4-the-stomach"
+    },
+    "10.5": {
+      "title": "The liver receives blood from the intestine before the heart does",
+      "body": "The hepatic portal vein carries absorbed nutrients and potential toxins directly to the liver for processing before blood returns to general circulation.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-6-accessory-organs-in-digestion-the-liver-pancreas-and-gallbladder"
+    },
+    "10.6": {
+      "title": "Fiber feeds organisms you cannot digest",
+      "body": "Certain fibers resist human digestive enzymes but can be fermented by gut microbes, which produce metabolites that influence intestinal physiology.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-7-chemical-digestion-and-absorption-a-closer-look"
+    },
+    "10.7": {
+      "title": "A body can be overfed and malnourished",
+      "body": "A diet can supply excess energy while still lacking essential vitamins, minerals, amino acids, or fatty acids needed for normal function.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/24-7-nutrition-and-diet"
+    },
+    "11.1": {
+      "title": "Your kidneys receive about one-fifth of resting cardiac output",
+      "body": "Their unusually high blood flow supports continuous filtration and precise regulation of water, electrolytes, wastes, and acid-base balance.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-3-gross-anatomy-of-the-kidney"
+    },
+    "11.2": {
+      "title": "The kidneys filter far more fluid than you urinate",
+      "body": "Most filtrate is reclaimed along the nephron, leaving only a small fraction to become urine.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-5-physiology-of-urine-formation"
+    },
+    "11.3": {
+      "title": "Water can follow a hormone command",
+      "body": "Antidiuretic hormone inserts aquaporin channels into collecting-duct cells, increasing water reabsorption and concentrating urine.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-7-regulation-of-renal-blood-flow"
+    },
+    "11.4": {
+      "title": "Urine can reveal disease before symptoms appear",
+      "body": "Abnormal glucose, protein, blood cells, ketones, or microbes can provide clues about metabolic, renal, or urinary disorders.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-8-endocrine-functions-of-the-kidneys"
+    },
+    "11.5": {
+      "title": "Dialysis uses diffusion as an artificial kidney",
+      "body": "Waste solutes move across a semipermeable membrane into dialysis fluid while cells and large proteins remain in the blood.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-8-endocrine-functions-of-the-kidneys"
+    },
+    "12.1": {
+      "title": "One primary sperm cell can produce four gametes",
+      "body": "Meiosis divides one diploid spermatocyte into four haploid spermatids, whereas oogenesis usually produces one large ovum and small polar bodies.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/27-1-anatomy-and-physiology-of-the-testicular-reproductive-system"
+    },
+    "12.2": {
+      "title": "Ovulation is triggered by a hormonal surge",
+      "body": "Sustained high estrogen briefly switches feedback effects and helps produce the luteinizing-hormone surge that releases the oocyte.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/27-2-anatomy-and-physiology-of-the-ovarian-reproductive-system"
+    },
+    "12.3": {
+      "title": "Maternal and fetal blood normally do not mix directly",
+      "body": "Exchange occurs across the placental barrier as the two blood supplies flow close together in separate vessels and spaces.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/28-2-embryonic-development"
+    },
+    "12.4": {
+      "title": "Programmed cell death helps sculpt the body",
+      "body": "Apoptosis removes selected cells during development, including tissue between forming digits, without the inflammation associated with traumatic cell injury.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/28-2-embryonic-development"
+    },
+    "12.5": {
+      "title": "Labor strengthens its own signal",
+      "body": "Cervical stretching promotes oxytocin release, which intensifies uterine contractions and produces more stretching until birth ends the positive-feedback loop.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/28-4-maternal-changes-during-pregnancy-labor-and-birth"
+    },
+    "12.6": {
+      "title": "Contraceptive methods interrupt different biological steps",
+      "body": "Methods may prevent ovulation, block sperm transport, impair fertilization, or alter the reproductive tract rather than all acting in the same way.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/27-4-physiology-of-the-female-sexual-response"
+    },
+    "12.7": {
+      "title": "Bone length stops before bone remodeling does",
+      "body": "Growth plates close after adolescence, but bone tissue continues to renew and respond to stress throughout adult life.",
+      "source": "OpenStax Anatomy & Physiology 2e",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/28-7-fetal-development"
+    }
+  }
 };
