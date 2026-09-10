@@ -3571,7 +3571,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "An named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A deep cup-shaped socket on the lateral hip bone where the ilium, ischium, and pubis meet. It receives the femoral head to form the stable, weight-bearing hip joint.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3580,7 +3580,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "An named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A broad, flattened lateral extension of the scapular spine that forms the highest point of the shoulder. It articulates with the clavicle and is a useful palpable landmark.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3589,7 +3589,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "An named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A slight groove immediately distal to the humeral head. It marks the attachment of the shoulder joint capsule and separates the smooth articular head from the tubercles.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3607,7 +3607,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "An named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A prominent anterior projection at the front end of the iliac crest. It is easily palpated at the front of the hip and anchors the inguinal ligament and sartorius muscle.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3616,7 +3616,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "An named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The 126 bones of the pectoral girdles, upper limbs, pelvic girdle, and lower limbs. These bones attach to the axial skeleton and are specialized for movement, manipulation, and locomotion.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3625,7 +3625,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "An named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "An irregular cervical vertebra (C1) directly below the skull. Its ring shape, lack of a body, and broad lateral masses support the occipital condyles and permit the head's nodding motion.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3634,7 +3634,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "An named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The 80 bones along the body's central axis: skull, auditory ossicles, hyoid, vertebral column, ribs, and sternum. It supports the body and protects the brain, spinal cord, and thoracic organs.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3643,7 +3643,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "An named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "An irregular cervical vertebra (C2) below the atlas. Its toothlike dens projects upward through C1 and acts as the pivot that permits side-to-side rotation of the head.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3652,7 +3652,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The long, flat middle segment of the sternum between the manubrium and xiphoid process. Its lateral notches receive costal cartilages from ribs 2–7.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3661,7 +3661,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A living organ made primarily of mineralized connective tissue, marrow, blood vessels, and nerves. Bone supports and protects the body, provides levers for movement, stores minerals, and houses blood-cell formation.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3670,7 +3670,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A short tarsal bone forming the heel at the posterior foot. It is the largest tarsal, bears body weight, and has a large posterior projection for attachment of the calcaneal tendon.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3679,7 +3679,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A short carpal bone in the center of the distal wrist row, aligned with the third metacarpal. It is the largest carpal and is identified by its rounded head.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3688,7 +3688,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A smooth rounded knob on the lateral distal humerus. It articulates with the disc-shaped head of the radius and is best identified beside the medial, spool-shaped trochlea.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3697,7 +3697,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "One of eight short bones arranged in two rows at the wrist. Carpals form a compact, flexible arch that transfers forces between the forearm and hand while allowing wrist movement.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3706,7 +3706,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "One of seven irregular vertebrae in the neck. Typical cervical vertebrae are small and identified by transverse foramina, a relatively large triangular vertebral foramen, and often a bifid spinous process.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3715,7 +3715,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A slender, S-shaped long bone extending horizontally between the sternum and scapula. It braces the shoulder laterally and transfers upper-limb forces to the axial skeleton.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3724,7 +3724,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A small triangular irregular bone at the inferior end of the vertebral column, usually formed from four fused vertebrae. It anchors pelvic-floor muscles and resembles a short curved tail.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3733,7 +3733,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A projection from a bone or organ, or a defined physiological sequence, as specified by the surrounding anatomical context.",
+          "definition": "A hook-shaped projection from the superior anterior scapula. It points forward below the clavicle and anchors several shoulder muscles and ligaments.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3742,7 +3742,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A jagged fibrous joint crossing the skull from side to side between the frontal bone and the two parietal bones. It resembles a serrated seam just behind the forehead.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3751,7 +3751,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A projection from a bone or organ, or a defined physiological sequence, as specified by the surrounding anatomical context.",
+          "definition": "A triangular anterior projection of the proximal ulna that enters the coronoid fossa during elbow flexion and forms the lower edge of the trochlear notch.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3769,7 +3769,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A horizontal perforated plate of the ethmoid bone forming the roof of the nasal cavity. Its many small holes transmit olfactory nerve fibers to the olfactory bulbs.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3778,7 +3778,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A cube-shaped short tarsal on the lateral side of the distal foot, anterior to the calcaneus and proximal to the fourth and fifth metatarsals. It supports the lateral arch.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3787,7 +3787,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A large, roughened bony projection that commonly serves as a site of tendon or ligament attachment.",
+          "definition": "A rough V-shaped elevation on the lateral middle shaft of the humerus. It is the insertion site of the deltoid muscle and appears as a raised, textured patch.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3796,7 +3796,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A tooth-shaped vertical projection from the body of the axis (C2). It extends into the ring of the atlas and serves as the pivot for rotation of the head.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3805,7 +3805,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A small long bone at the tip of a finger or toe. It has a narrow shaft and expanded tuft that supports the fingertip or toe pad and nail bed.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3814,7 +3814,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "An named skeletal structure composed of mineralized connective tissue that supports, protects, or provides attachment and leverage in the region indicated.",
+          "definition": "A delicate irregular cranial bone between the orbits that forms part of the nasal cavity, nasal septum, orbital walls, and anterior cranial floor. Its cribriform plate is perforated for olfactory nerves.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3823,7 +3823,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "An named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The round canal opening in the temporal bone leading inward from the external ear. It lies posterior to the mandibular fossa and conducts sound toward the tympanic membrane.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3832,7 +3832,7 @@ window.COURSE_DATA = {
           "priority": "Core + Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A curved flat bone of the thoracic cage classified as the false rib. Its arc surrounds the chest, protects thoracic organs, and connects posteriorly to a thoracic vertebra.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3841,7 +3841,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The long bone of the thigh between the hip and knee. It is the body's longest and strongest bone; its spherical head, angled neck, large trochanters, and paired distal condyles make it easy to identify.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3850,7 +3850,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A slender long bone on the lateral side of the lower leg. It stabilizes the ankle and provides muscle attachment but bears little weight; its distal end forms the lateral malleolus.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3859,7 +3859,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named skeletal structure composed of mineralized connective tissue that supports, protects, or provides attachment and leverage in the region indicated.",
+          "definition": "A thin, often curved bone composed of two compact-bone plates enclosing spongy bone. Flat bones such as the sternum, ribs, scapulae, and cranial bones protect organs and provide broad muscle attachment.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3868,7 +3868,7 @@ window.COURSE_DATA = {
           "priority": "Core + Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A curved flat bone of the thoracic cage classified as the floating rib. Its arc surrounds the chest, protects thoracic organs, and connects posteriorly to a thoracic vertebra.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3877,7 +3877,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A flexible fibrous membrane between incompletely fused skull bones in an infant. Its soft, diamond-shaped area permits molding during birth and allows rapid brain growth before it ossifies.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3886,7 +3886,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The large oval opening in the occipital bone at the skull base. The brainstem continues through it as the spinal cord; its size and central position make it unmistakable.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3895,7 +3895,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named skeletal structure composed of mineralized connective tissue that supports, protects, or provides attachment and leverage in the region indicated.",
+          "definition": "A flat cranial bone forming the forehead, roofs of the eye sockets, and much of the anterior cranial floor. Its broad curved plate protects the frontal lobes and often contains frontal sinuses.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3904,7 +3904,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A anatomically defined internal space that contains, surrounds, or separates the organs or structures indicated by its name.",
+          "definition": "A shallow oval socket on the lateral scapula. It receives the humeral head to form the shoulder joint; its shallow depth favors mobility over stability.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3913,7 +3913,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A indentation at the edge of a bone or organ that accommodates another structure.",
+          "definition": "A large curved indentation on the posterior hip bone above the ischial spine. It becomes the greater sciatic foramen when bridged by ligaments and transmits the sciatic nerve.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3922,7 +3922,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A large rough projection on the lateral proximal femur just below the neck. It is readily palpable at the hip and provides attachment for muscles that move and stabilize the femur.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3931,7 +3931,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A large rounded projection on the lateral proximal humerus. It lies beside the humeral head and provides attachment for three rotator-cuff tendons.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3940,7 +3940,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A wedge-shaped short carpal in the distal wrist row on the little-finger side. Its distinctive hook projects toward the palm and helps form the medial boundary of the carpal tunnel.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3949,7 +3949,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The enlarged, smooth articular end of the femur. Its rounded shape fits a neighboring socket or surface to transmit force while permitting movement at the joint.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3958,7 +3958,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The enlarged, smooth articular end of the fibula. Its rounded shape fits a neighboring socket or surface to transmit force while permitting movement at the joint.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3967,7 +3967,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The enlarged, smooth articular end of the humerus. Its rounded shape fits a neighboring socket or surface to transmit force while permitting movement at the joint.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3976,7 +3976,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The enlarged, smooth articular end of the radius. Its rounded shape fits a neighboring socket or surface to transmit force while permitting movement at the joint.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3985,7 +3985,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The long bone of the upper arm between shoulder and elbow. Its rounded proximal head fits the glenoid cavity, and its spool-like trochlea and rounded capitulum articulate with the forearm bones.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -3994,7 +3994,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named skeletal structure composed of mineralized connective tissue that supports, protects, or provides attachment and leverage in the region indicated.",
+          "definition": "A small U-shaped irregular bone in the anterior neck between the mandible and larynx. It does not articulate with another bone; muscles and ligaments suspend it to support the tongue and swallowing.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4003,7 +4003,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "An prominent ridge of bone that serves as an attachment or anatomical landmark.",
+          "definition": "The thick curved superior border of the ilium. It forms the palpable upper rim of the hip and provides broad attachment for abdominal, back, and hip muscles.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4012,7 +4012,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "An named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The broad, superior portion of each hip bone. Its flaring wing, curved iliac crest, and deep contribution to the acetabulum help identify it; it supports abdominal organs and transfers weight to the lower limb.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4021,7 +4021,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "An named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The inferior angle of scapula, a named edge or corner of the triangular scapula. It helps orient the bone and provides attachment for muscles that position the shoulder blade.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4030,7 +4030,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "An projection from a bone or organ, or a defined physiological sequence, as specified by the surrounding anatomical context.",
+          "definition": "A projecting bony landmark identified as the inferior articular process. Its direction, shape, and position distinguish it from nearby projections and provide attachment or articulation.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4039,7 +4039,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "An named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A paired, thin scroll-shaped facial bone on the lateral wall of the nasal cavity. Its curled plate increases mucosal surface area to warm, humidify, and filter inhaled air.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4048,7 +4048,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "An natural opening in a bone or membrane through which nerves, vessels, or other structures pass.",
+          "definition": "A distinct bony opening identified as the infraorbital foramen. Its position on the parent bone marks a passage for named nerves, blood vessels, or other structures.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4057,7 +4057,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "An shallow anatomical depression that accommodates or provides attachment for another structure.",
+          "definition": "A visible depression identified as the infraspinous fossa. Its location and contour accommodate a muscle, gland, or articulating bone and help orient the parent bone.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4066,7 +4066,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "An named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The smallest wedge-shaped cuneiform bone in the distal tarsal row, between the medial and lateral cuneiforms and proximal to the second metatarsal. It helps maintain the transverse foot arch.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4075,7 +4075,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "An named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A deep vertical groove on the anterior proximal humerus between the greater and lesser tubercles. It guides the tendon of the long head of the biceps brachii.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4084,7 +4084,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "An named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A fibrocartilage pad between adjacent vertebral bodies. Its tough outer annulus surrounds a gel-like nucleus, allowing limited movement while absorbing compression and distributing spinal loads.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4093,7 +4093,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "An natural opening in a bone or membrane through which nerves, vessels, or other structures pass.",
+          "definition": "A distinct bony opening identified as the intervertebral foramen. Its position on the parent bone marks a passage for named nerves, blood vessels, or other structures.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4102,7 +4102,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "An named skeletal structure composed of mineralized connective tissue that supports, protects, or provides attachment and leverage in the region indicated.",
+          "definition": "A bone with a complex shape that does not fit the long, short, flat, or sesamoid categories. Vertebrae and many facial bones use projections and openings for protection, attachment, and passage.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4111,7 +4111,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "An named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A projecting bony landmark identified as the ischial spine. Its direction, shape, and position distinguish it from nearby projections and provide attachment or articulation.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4120,7 +4120,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "An large, roughened bony projection that commonly serves as a site of tendon or ligament attachment.",
+          "definition": "A raised, roughened bony landmark identified as the ischial tuberosity. Its surface provides attachment for a specific tendon, muscle, or ligament and helps orient the parent bone.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4129,7 +4129,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "An named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The posteroinferior portion of each hip bone. It forms the lower acetabulum and has a thick, rough ischial tuberosity that bears weight when sitting and anchors the hamstrings.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4138,7 +4138,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named skeletal structure composed of mineralized connective tissue that supports, protects, or provides attachment and leverage in the region indicated.",
+          "definition": "A tiny, thin rectangular facial bone in the medial wall of each orbit. Its groove helps form the nasolacrimal canal, which drains tears into the nasal cavity.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4147,7 +4147,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The lambdoid suture, a serrated immovable fibrous joint between named skull bones. Its location and seamlike pattern help identify the adjacent cranial bones.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4156,7 +4156,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The lateral border of scapula, a named edge or corner of the triangular scapula. It helps orient the bone and provides attachment for muscles that position the shoulder blade.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4165,7 +4165,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A smooth rounded articular prominence identified as the lateral condyle of femur. It lies at the end of its named bone, bears joint forces, and contacts the adjacent bone.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4174,7 +4174,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A smooth rounded articular prominence identified as the lateral condyle of tibia. It lies at the end of its named bone, bears joint forces, and contacts the adjacent bone.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4183,7 +4183,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A wedge-shaped short tarsal between the intermediate cuneiform and cuboid, proximal mainly to the third metatarsal. It contributes to the transverse and longitudinal arches of the foot.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4192,7 +4192,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A bony projection located above a condyle, commonly serving as a muscle or ligament attachment site.",
+          "definition": "A rough nonarticular projection identified as the lateral epicondyle, located immediately above a condyle. It serves primarily as an attachment site for muscles and ligaments.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4201,7 +4201,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A rough nonarticular projection identified as the lateral epicondyle of femur, located immediately above a condyle. It serves primarily as an attachment site for muscles and ligaments.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4210,7 +4210,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A prominent ankle projection identified as the lateral malleolus. Its downward-pointing shape forms one side of the ankle mortise, stabilizes the talus, and provides ligament attachment.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4219,7 +4219,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A small conical projection on the posteromedial proximal femur below the neck. It is the insertion site for iliopsoas and helps identify the posterior-medial orientation of the bone.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4228,7 +4228,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A raised, roughened bony landmark identified as the lesser tubercle. Its surface provides attachment for a specific tendon, muscle, or ligament and helps orient the parent bone.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4237,7 +4237,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A prominent rough longitudinal ridge on the posterior femoral shaft. Its paired lips provide extensive attachment for thigh muscles and help distinguish the posterior surface.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4246,7 +4246,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named skeletal structure composed of mineralized connective tissue that supports, protects, or provides attachment and leverage in the region indicated.",
+          "definition": "A bone longer than it is wide, with a tubular shaft and expanded ends. Long bones such as the femur and humerus act as weight-bearing supports and levers for movement.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4255,7 +4255,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The appendicular region extending from hip to foot and containing the femur, patella, tibia, fibula, tarsals, metatarsals, and phalanges. Its bones are shaped primarily for weight bearing and locomotion.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4264,7 +4264,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "One of five large irregular vertebrae of the lower back. A massive kidney-shaped body, triangular vertebral foramen, and short blunt spinous process reflect its major weight-bearing role.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4273,7 +4273,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A crescent-shaped short carpal in the proximal wrist row, between the scaphoid and triquetrum. Its moonlike profile and central position help identify it; it participates in wrist motion.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4282,7 +4282,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A U-shaped irregular facial bone forming the lower jaw. It is the only freely movable skull bone; its tooth-bearing body and two ascending rami support chewing and articulate with the temporal bones.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4291,7 +4291,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The posteroinferior corner where the horizontal body of the mandible meets its vertical ramus. It forms the visible angle of the jaw and anchors masseter and pterygoid muscles.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4300,7 +4300,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A rounded articular projection at the end of a bone that participates in a joint.",
+          "definition": "The rounded posterior process at the top of the mandibular ramus. Its oval head articulates with the temporal bone to form the temporomandibular joint.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4309,7 +4309,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The broad vertical portion of the mandible rising from the body on each side. Its upper end divides into the anterior coronoid and posterior condylar processes.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4318,7 +4318,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The broad, shield-shaped superior portion of the sternum. It articulates with the clavicles and first ribs and meets the sternal body at the palpable sternal angle.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4327,7 +4327,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A projection from a bone or organ, or a defined physiological sequence, as specified by the surrounding anatomical context.",
+          "definition": "A rounded projection of the temporal bone behind and below the external acoustic meatus. It contains air cells and anchors neck muscles, especially sternocleidomastoid.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4336,7 +4336,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A paired irregular facial bone forming the upper jaw, anterior hard palate, floor of the orbit, and sides of the nasal cavity. It bears the upper teeth and contains a large maxillary sinus.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4345,7 +4345,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The medial border of scapula, a named edge or corner of the triangular scapula. It helps orient the bone and provides attachment for muscles that position the shoulder blade.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4354,7 +4354,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A smooth rounded articular prominence identified as the medial condyle of femur. It lies at the end of its named bone, bears joint forces, and contacts the adjacent bone.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4363,7 +4363,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A smooth rounded articular prominence identified as the medial condyle of tibia. It lies at the end of its named bone, bears joint forces, and contacts the adjacent bone.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4372,7 +4372,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The largest wedge-shaped cuneiform bone on the medial foot, proximal to the first metatarsal. Its broad dorsal surface and narrow plantar edge help support the medial longitudinal arch.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4381,7 +4381,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A bony projection located above a condyle, commonly serving as a muscle or ligament attachment site.",
+          "definition": "A rough nonarticular projection identified as the medial epicondyle, located immediately above a condyle. It serves primarily as an attachment site for muscles and ligaments.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4390,7 +4390,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A rough nonarticular projection identified as the medial epicondyle of femur, located immediately above a condyle. It serves primarily as an attachment site for muscles and ligaments.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4399,7 +4399,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A prominent ankle projection identified as the medial malleolus. Its downward-pointing shape forms one side of the ankle mortise, stabilizes the talus, and provides ligament attachment.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4408,7 +4408,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A natural opening in a bone or membrane through which nerves, vessels, or other structures pass.",
+          "definition": "A small opening on the anterolateral body of the mandible below the premolars. It transmits the mental nerve and vessels to the chin and lower lip.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4417,7 +4417,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "One of five miniature long bones forming the palm. Each has a proximal base, shaft, and rounded distal head; the heads form the knuckles and transmit force from the wrist to the fingers.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4426,7 +4426,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "One of five miniature long bones forming the forefoot between the tarsals and toes. Each has a base, shaft, and head and helps support the longitudinal and transverse arches during standing and walking.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4435,7 +4435,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The middle miniature long bone of digits 2–5, located between the proximal and distal phalanges. It has a short shaft with expanded ends and acts as a lever for digit movement.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4444,7 +4444,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named skeletal structure composed of mineralized connective tissue that supports, protects, or provides attachment and leverage in the region indicated.",
+          "definition": "One of two small rectangular flat bones forming the bony bridge of the nose. They meet at the midline and support the flexible cartilages that shape the lower nose.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4453,7 +4453,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A boat-shaped short tarsal on the medial foot between the talus and cuneiforms. Its prominent medial tuberosity and concave proximal surface help identify it; it supports the medial arch.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4462,7 +4462,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The narrowed angled segment connecting the femoral head to the shaft. It positions the head in the acetabulum and is a common site of fracture, especially in older adults.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4471,7 +4471,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "An natural opening in a bone or membrane through which nerves, vessels, or other structures pass.",
+          "definition": "The large oval opening in each hip bone formed by the pubis and ischium. A membrane covers most of it; the opening reduces pelvic weight and allows passage of obturator nerves and vessels.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4480,7 +4480,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "An named skeletal structure composed of mineralized connective tissue that supports, protects, or provides attachment and leverage in the region indicated.",
+          "definition": "A broad flat cranial bone forming the posterior and inferior skull. It surrounds the foramen magnum, protects the cerebellum and occipital lobes, and articulates with the atlas through paired occipital condyles.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4489,7 +4489,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "An rounded articular projection at the end of a bone that participates in a joint.",
+          "definition": "One of two smooth oval knobs beside the foramen magnum on the occipital bone. They articulate with the atlas and permit flexion and extension of the head.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4498,7 +4498,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "An named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The large hooklike posterior projection of the proximal ulna that forms the point of the elbow. It fits into the humeral olecranon fossa during extension and anchors the triceps tendon.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4507,7 +4507,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "An shallow anatomical depression that accommodates or provides attachment for another structure.",
+          "definition": "A deep triangular depression on the posterior distal humerus above the trochlea. It receives the ulna's olecranon when the elbow fully extends.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4516,7 +4516,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named skeletal structure composed of mineralized connective tissue that supports, protects, or provides attachment and leverage in the region indicated.",
+          "definition": "A paired L-shaped irregular facial bone forming the posterior hard palate, part of the nasal cavity, and a small portion of the orbit. Its horizontal plate is the easiest feature to recognize.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4525,7 +4525,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named skeletal structure composed of mineralized connective tissue that supports, protects, or provides attachment and leverage in the region indicated.",
+          "definition": "One of two large curved flat bones forming the superior and lateral walls of the cranium. Their broad quadrilateral plates meet at the sagittal suture and protect the cerebral hemispheres.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4534,7 +4534,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A triangular sesamoid bone embedded in the quadriceps tendon at the front of the knee. Its broad base is superior and pointed apex inferior; it protects the joint and improves quadriceps leverage.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4543,7 +4543,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The smooth shallow groove on the anterior distal femur between the condyles. The posterior patella glides across it during knee flexion and extension.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4552,7 +4552,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The paired clavicles and scapulae that attach the upper limbs to the axial skeleton. Its lightweight, mobile arrangement positions the shoulder socket while allowing extensive arm movement.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4561,7 +4561,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The paired hip bones joined anteriorly at the pubic symphysis and posteriorly to the sacrum. Its deep sockets and thick bones transfer body weight and provide stable attachment for the lower limbs.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4570,7 +4570,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A miniature long bone of a finger or toe. Each typically has a base, shaft, and head and acts as a small lever; the thumb and great toe have two, while other digits have three.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4579,7 +4579,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A small pea-shaped sesamoid carpal on the palmar surface of the triquetrum. It is embedded in the flexor carpi ulnaris tendon and is easily palpated on the little-finger side of the wrist.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4588,7 +4588,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A projecting bony landmark identified as the posterior superior iliac spine. Its direction, shape, and position distinguish it from nearby projections and provide attachment or articulation.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4597,7 +4597,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The first miniature long bone of a finger or toe, immediately distal to a metacarpal or metatarsal. It has a broad base, slender shaft, and pulley-shaped head for digit movement.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4606,7 +4606,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The slightly movable fibrocartilaginous joint between the left and right pubic bones at the anterior pelvis. Its midline disc absorbs stress and allows limited separation, especially during childbirth.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4615,7 +4615,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The anteroinferior portion of each hip bone. Its body and superior and inferior rami border the obturator foramen, and the two pubic bones meet anteriorly at the pubic symphysis.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4624,7 +4624,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A large, roughened bony projection that commonly serves as a site of tendon or ligament attachment.",
+          "definition": "A raised, roughened bony landmark identified as the radial tuberosity. Its surface provides attachment for a specific tendon, muscle, or ligament and helps orient the parent bone.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4633,7 +4633,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The long bone on the thumb side of the forearm. It has a disc-shaped proximal head and broad distal end; it rotates around the ulna during pronation and supination and carries most wrist load.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4642,7 +4642,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A large triangular irregular bone formed by five fused vertebrae at the base of the spine. It fits between the hip bones, transfers upper-body weight to the pelvis, and has paired sacral foramina.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4651,7 +4651,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The sagittal suture, a serrated immovable fibrous joint between named skull bones. Its location and seamlike pattern help identify the adjacent cranial bones.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4660,7 +4660,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A boat-shaped short carpal on the thumb side of the proximal wrist row. It bridges the two carpal rows, articulates with the radius, and has a palpable tubercle on its palmar surface.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4669,7 +4669,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A flat triangular bone on the posterior thorax. Its spine, acromion, coracoid process, and shallow glenoid cavity are key identifiers; it anchors shoulder muscles and provides the socket for the humerus.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4678,7 +4678,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A saddle-shaped depression on the superior body of the sphenoid bone. Its central hypophyseal fossa houses and protects the pituitary gland.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4687,7 +4687,7 @@ window.COURSE_DATA = {
           "priority": "Honors Extension",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named skeletal structure composed of mineralized connective tissue that supports, protects, or provides attachment and leverage in the region indicated.",
+          "definition": "A small round or oval bone that develops within a tendon where it crosses a joint. It protects the tendon, reduces friction, and changes the muscle's angle of pull; the patella is the largest example.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4696,7 +4696,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named skeletal structure composed of mineralized connective tissue that supports, protects, or provides attachment and leverage in the region indicated.",
+          "definition": "A roughly cube-shaped bone with similar length, width, and thickness, composed mainly of spongy bone with a thin compact shell. Carpals and tarsals provide stability with limited gliding motion.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4714,7 +4714,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The bony framework of the head formed by cranial and facial bones. Its rounded cranium protects the brain, while facial bones shape the orbits, nasal cavity, jaws, and attachment sites for head muscles.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4723,7 +4723,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named skeletal structure composed of mineralized connective tissue that supports, protects, or provides attachment and leverage in the region indicated.",
+          "definition": "A butterfly-shaped irregular cranial bone spanning the skull base behind the eyes. Its central body, greater and lesser wings, pterygoid processes, and saddle-shaped sella turcica make it distinctive.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4732,7 +4732,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A prominent posterior ridge crossing the scapula and expanding laterally into the acromion. It separates the supraspinous and infraspinous fossae and anchors shoulder muscles.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4741,7 +4741,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A projection from a bone or organ, or a defined physiological sequence, as specified by the surrounding anatomical context.",
+          "definition": "A projecting bony landmark identified as the spinous process. Its direction, shape, and position distinguish it from nearby projections and provide attachment or articulation.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4750,7 +4750,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The squamous suture, a serrated immovable fibrous joint between named skull bones. Its location and seamlike pattern help identify the adjacent cranial bones.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4759,7 +4759,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A flat, elongated bone in the anterior midline of the chest. Its manubrium, body, and xiphoid process anchor costal cartilages, form the front of the rib cage, and help protect thoracic organs.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4768,7 +4768,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A projection from a bone or organ, or a defined physiological sequence, as specified by the surrounding anatomical context.",
+          "definition": "A projecting bony landmark identified as the styloid process. Its direction, shape, and position distinguish it from nearby projections and provide attachment or articulation.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4777,7 +4777,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A projecting bony landmark identified as the styloid process of radius. Its direction, shape, and position distinguish it from nearby projections and provide attachment or articulation.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4786,7 +4786,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A projecting bony landmark identified as the styloid process of ulna. Its direction, shape, and position distinguish it from nearby projections and provide attachment or articulation.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4795,7 +4795,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A shallow anatomical depression that accommodates or provides attachment for another structure.",
+          "definition": "A visible depression identified as the subscapular fossa. Its location and contour accommodate a muscle, gland, or articulating bone and help orient the parent bone.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4804,7 +4804,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The superior angle of scapula, a named edge or corner of the triangular scapula. It helps orient the bone and provides attachment for muscles that position the shoulder blade.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4813,7 +4813,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A projection from a bone or organ, or a defined physiological sequence, as specified by the surrounding anatomical context.",
+          "definition": "A projecting bony landmark identified as the superior articular process. Its direction, shape, and position distinguish it from nearby projections and provide attachment or articulation.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4822,7 +4822,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A natural opening in a bone or membrane through which nerves, vessels, or other structures pass.",
+          "definition": "A distinct bony opening identified as the supraorbital foramen. Its position on the parent bone marks a passage for named nerves, blood vessels, or other structures.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4831,7 +4831,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A shallow anatomical depression that accommodates or provides attachment for another structure.",
+          "definition": "A visible depression identified as the supraspinous fossa. Its location and contour accommodate a muscle, gland, or articulating bone and help orient the parent bone.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4840,7 +4840,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The narrowed region of the humerus just distal to the tubercles. It is named for its frequent fractures and lies near the axillary nerve and posterior circumflex humeral vessels.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4849,7 +4849,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The suture, a serrated immovable fibrous joint between named skull bones. Its location and seamlike pattern help identify the adjacent cranial bones.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4858,7 +4858,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A block-shaped short tarsal between the tibia and calcaneus. Its superior pulley-shaped trochlea receives body weight from the leg and forms the main ankle articulation; no muscles attach directly to it.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4867,7 +4867,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "One of seven short bones forming the ankle and posterior foot. Their irregular blocklike arrangement supports body weight, forms the foot arches, and permits limited gliding plus ankle and hindfoot motion.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4876,7 +4876,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named skeletal structure composed of mineralized connective tissue that supports, protects, or provides attachment and leverage in the region indicated.",
+          "definition": "A paired irregular cranial bone forming the lower lateral skull and part of its base. It houses the hearing and balance organs and is identified by the mastoid, styloid, and zygomatic processes.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4885,7 +4885,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The protective framework formed by the thoracic vertebrae, ribs, costal cartilages, and sternum. Its expandable, cone-shaped enclosure protects the heart and lungs and assists breathing.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4894,7 +4894,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "One of twelve irregular vertebrae of the upper and mid-back. Heart-shaped bodies, long downward-pointing spinous processes, and costal facets for ribs distinguish them.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4903,7 +4903,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The large medial long bone of the lower leg and its main weight-bearing bone. Its broad proximal condyles form the knee, sharp anterior crest forms the shin, and distal end forms the medial malleolus.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4912,7 +4912,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A large, roughened bony projection that commonly serves as a site of tendon or ligament attachment.",
+          "definition": "A rough oval projection on the anterior proximal tibia below the condyles. The patellar ligament attaches here, transmitting quadriceps force to extend the knee.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4921,7 +4921,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A projection from a bone or organ, or a defined physiological sequence, as specified by the surrounding anatomical context.",
+          "definition": "A projecting bony landmark identified as the transverse process. Its direction, shape, and position distinguish it from nearby projections and provide attachment or articulation.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4930,7 +4930,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A four-sided short carpal in the distal wrist row at the base of the thumb. Its saddle-shaped surface articulates with the first metacarpal and permits the thumb's wide range of motion.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4939,7 +4939,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A small wedge-shaped short carpal in the distal wrist row between the trapezium and capitate. It articulates mainly with the second metacarpal and stabilizes the index-finger side of the hand.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4948,7 +4948,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A pyramidal short carpal on the little-finger side of the proximal wrist row. It lies beneath the pisiform and articulates with the lunate and hamate during wrist movement.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4957,7 +4957,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The smooth spool-shaped medial articular surface of the distal humerus. It fits the ulna's trochlear notch and guides hinge-like flexion and extension at the elbow.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4966,7 +4966,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A indentation at the edge of a bone or organ that accommodates another structure.",
+          "definition": "A large C-shaped notch between the olecranon and coronoid process of the proximal ulna. It grips the humeral trochlea to form the elbow hinge.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4975,7 +4975,7 @@ window.COURSE_DATA = {
           "priority": "Core + Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A curved flat bone of the thoracic cage classified as the true rib. Its arc surrounds the chest, protects thoracic organs, and connects posteriorly to a thoracic vertebra.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4984,7 +4984,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "An named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The long bone on the little-finger side of the forearm. Its large proximal olecranon and trochlear notch form the elbow hinge; its distal end is narrow and contributes little to the wrist joint.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -4993,7 +4993,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "An named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The appendicular region from shoulder to hand containing the humerus, radius, ulna, carpals, metacarpals, and phalanges. Its relatively light, mobile bones support positioning and manipulation rather than weight bearing.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -5002,7 +5002,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "An irregular bone of the vertebral column. A weight-bearing body lies anteriorly, a vertebral arch surrounds the spinal cord, and processes project for joints and muscle attachment.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -5011,7 +5011,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The thick, cylindrical anterior portion of a vertebra. It is the main weight-bearing region, becomes progressively larger down the spine, and is separated from neighboring bodies by intervertebral discs.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -5020,7 +5020,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The flexible stack of cervical, thoracic, lumbar, sacral, and coccygeal vertebrae extending from skull to pelvis. It supports the head and trunk, protects the spinal cord, and transmits body weight.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -5029,7 +5029,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A natural opening in a bone or membrane through which nerves, vessels, or other structures pass.",
+          "definition": "A distinct bony opening identified as the vertebral foramen. Its position on the parent bone marks a passage for named nerves, blood vessels, or other structures.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -5038,7 +5038,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A thin plow-shaped flat facial bone forming the inferior and posterior portion of the nasal septum. Its vertical plate separates the right and left nasal passages.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -5047,7 +5047,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A projection from a bone or organ, or a defined physiological sequence, as specified by the surrounding anatomical context.",
+          "definition": "The small pointed inferior segment of the sternum. It is cartilaginous in youth, often ossifies later, and anchors the diaphragm and abdominal muscles.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -5056,7 +5056,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named bone, joint component, or bony landmark in organization of the human skeleton that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The curved bony bridge on the lateral skull formed by the zygomatic and temporal bones. It creates the cheek contour and provides attachment for the masseter muscle.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -5065,7 +5065,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.1",
           "topicTitle": "Organization of the Human Skeleton",
-          "definition": "A named skeletal structure composed of mineralized connective tissue that supports, protects, or provides attachment and leverage in the region indicated.",
+          "definition": "A paired irregular facial bone forming the cheek prominence and part of the lateral orbital wall and floor. Its lateral projection joins the temporal bone to form the zygomatic arch.",
           "connection": "Distinguish axial and appendicular skeletons and classify major bones.",
           "teacherNote": ""
         },
@@ -5083,7 +5083,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.2",
           "topicTitle": "Bone Structure, Remodeling & Ossification",
-          "definition": "A named bone, joint component, or bony landmark in bone structure, remodeling & ossification that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The lifelong replacement of old or damaged bone by coordinated osteoclast resorption and osteoblast deposition. It repairs microdamage, adapts bone to stress, and helps regulate blood calcium.",
           "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance.",
           "teacherNote": ""
         },
@@ -5092,7 +5092,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.2",
           "topicTitle": "Bone Structure, Remodeling & Ossification",
-          "definition": "A named bone, joint component, or bony landmark in bone structure, remodeling & ossification that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A peptide hormone released mainly by thyroid parafollicular cells when blood calcium is elevated. It reduces osteoclast activity and favors calcium deposition in bone, although its effect in adult humans is modest.",
           "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance.",
           "teacherNote": ""
         },
@@ -5101,7 +5101,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.2",
           "topicTitle": "Bone Structure, Remodeling & Ossification",
-          "definition": "A named bone, joint component, or bony landmark in bone structure, remodeling & ossification that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The regulation of extracellular calcium concentration through coordinated actions of bone, kidneys, intestines, parathyroid hormone, calcitriol, and calcitonin. Stable calcium is essential for nerves, muscles, clotting, and bone mineralization.",
           "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance.",
           "teacherNote": ""
         },
@@ -5110,7 +5110,7 @@ window.COURSE_DATA = {
           "priority": "Core + Identification",
           "topic": "3.2",
           "topicTitle": "Bone Structure, Remodeling & Ossification",
-          "definition": "A named bone, joint component, or bony landmark in bone structure, remodeling & ossification that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "One of the microscopic hairlike channels radiating between bone lacunae and central canals. Canaliculi contain osteocyte processes and permit diffusion of nutrients, wastes, and signals through mineralized matrix.",
           "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance.",
           "teacherNote": ""
         },
@@ -5128,7 +5128,7 @@ window.COURSE_DATA = {
           "priority": "Core + Identification",
           "topic": "3.2",
           "topicTitle": "Bone Structure, Remodeling & Ossification",
-          "definition": "A named skeletal structure composed of mineralized connective tissue that supports, protects, or provides attachment and leverage in the region indicated.",
+          "definition": "Dense bone tissue forming the hard outer shell of every bone and the thick wall of long-bone shafts. It appears solid and is organized into tightly packed osteons that resist bending and compression.",
           "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance.",
           "teacherNote": ""
         },
@@ -5137,7 +5137,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.2",
           "topicTitle": "Bone Structure, Remodeling & Ossification",
-          "definition": "A named bone, joint component, or bony landmark in bone structure, remodeling & ossification that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A circular layer of mineralized bone matrix arranged around an osteon's central canal. Its collagen fibers alternate direction between layers, increasing resistance to twisting.",
           "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance.",
           "teacherNote": ""
         },
@@ -5146,7 +5146,7 @@ window.COURSE_DATA = {
           "priority": "Core + Identification",
           "topic": "3.2",
           "topicTitle": "Bone Structure, Remodeling & Ossification",
-          "definition": "A named bone, joint component, or bony landmark in bone structure, remodeling & ossification that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The long cylindrical shaft of a long bone. A thick wall of compact bone surrounds the medullary cavity, giving the bone strength with relatively low weight.",
           "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance.",
           "teacherNote": ""
         },
@@ -5155,7 +5155,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.2",
           "topicTitle": "Bone Structure, Remodeling & Ossification",
-          "definition": "A named bone, joint component, or bony landmark in bone structure, remodeling & ossification that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The expanded end of a long bone farthest from the trunk. It contains mostly spongy bone with a thin compact shell and has articular cartilage where it participates in a joint.",
           "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance.",
           "teacherNote": ""
         },
@@ -5164,7 +5164,7 @@ window.COURSE_DATA = {
           "priority": "Honors Extension",
           "topic": "3.2",
           "topicTitle": "Bone Structure, Remodeling & Ossification",
-          "definition": "An named bone, joint component, or bony landmark in bone structure, remodeling & ossification that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "Bone formation that replaces a hyaline-cartilage model. It produces most bones, especially long bones, through primary and secondary ossification centers and continued growth at epiphyseal plates.",
           "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance.",
           "teacherNote": ""
         },
@@ -5173,7 +5173,7 @@ window.COURSE_DATA = {
           "priority": "Core + Identification",
           "topic": "3.2",
           "topicTitle": "Bone Structure, Remodeling & Ossification",
-          "definition": "An named bone, joint component, or bony landmark in bone structure, remodeling & ossification that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A thin cellular membrane lining the medullary cavity, trabeculae, and internal bone canals. It contains osteogenic cells, osteoblasts, and osteoclasts involved in growth, repair, and remodeling.",
           "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance.",
           "teacherNote": ""
         },
@@ -5182,7 +5182,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.2",
           "topicTitle": "Bone Structure, Remodeling & Ossification",
-          "definition": "An named bone, joint component, or bony landmark in bone structure, remodeling & ossification that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A thin bony remnant of a closed epiphyseal growth plate. It appears between the epiphysis and metaphysis after longitudinal bone growth has ended.",
           "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance.",
           "teacherNote": ""
         },
@@ -5191,7 +5191,7 @@ window.COURSE_DATA = {
           "priority": "Core + Identification",
           "topic": "3.2",
           "topicTitle": "Bone Structure, Remodeling & Ossification",
-          "definition": "An named bone, joint component, or bony landmark in bone structure, remodeling & ossification that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A layer of hyaline cartilage between the epiphysis and metaphysis of a growing long bone. Its organized zones of cartilage proliferation and replacement allow the bone to lengthen.",
           "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance.",
           "teacherNote": ""
         },
@@ -5200,7 +5200,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.2",
           "topicTitle": "Bone Structure, Remodeling & Ossification",
-          "definition": "An named bone, joint component, or bony landmark in bone structure, remodeling & ossification that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "An expanded end of a long bone. It consists mainly of spongy bone, has a thin compact exterior, and is covered by articular cartilage where it forms a joint.",
           "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance.",
           "teacherNote": ""
         },
@@ -5209,7 +5209,7 @@ window.COURSE_DATA = {
           "priority": "Honors Extension",
           "topic": "3.2",
           "topicTitle": "Bone Structure, Remodeling & Ossification",
-          "definition": "An named bone, joint component, or bony landmark in bone structure, remodeling & ossification that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "Bone formation directly within a sheet of embryonic connective tissue without a cartilage model. It produces many flat skull bones and part of the clavicle.",
           "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance.",
           "teacherNote": ""
         },
@@ -5218,7 +5218,7 @@ window.COURSE_DATA = {
           "priority": "Core + Identification",
           "topic": "3.2",
           "topicTitle": "Bone Structure, Remodeling & Ossification",
-          "definition": "A named bone, joint component, or bony landmark in bone structure, remodeling & ossification that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A small cavity within mineralized bone matrix that houses an osteocyte. Lacunae appear as tiny dark spaces between lamellae and connect through canaliculi.",
           "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance.",
           "teacherNote": ""
         },
@@ -5227,7 +5227,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.2",
           "topicTitle": "Bone Structure, Remodeling & Ossification",
-          "definition": "A named bone, joint component, or bony landmark in bone structure, remodeling & ossification that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A thin layer of mineralized bone matrix. Lamellae form rings in osteons or sheets along bone surfaces, with alternating collagen orientation that resists stress from multiple directions.",
           "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance.",
           "teacherNote": ""
         },
@@ -5236,7 +5236,7 @@ window.COURSE_DATA = {
           "priority": "Core + Identification",
           "topic": "3.2",
           "topicTitle": "Bone Structure, Remodeling & Ossification",
-          "definition": "A anatomically defined internal space that contains, surrounds, or separates the organs or structures indicated by its name.",
+          "definition": "A visible depression identified as the medullary cavity. Its location and contour accommodate a muscle, gland, or articulating bone and help orient the parent bone.",
           "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance.",
           "teacherNote": ""
         },
@@ -5245,7 +5245,7 @@ window.COURSE_DATA = {
           "priority": "Core + Identification",
           "topic": "3.2",
           "topicTitle": "Bone Structure, Remodeling & Ossification",
-          "definition": "A named bone, joint component, or bony landmark in bone structure, remodeling & ossification that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The flared region of a long bone between its diaphysis and epiphysis. In growing bone it contains the epiphyseal plate and is a site of rapid remodeling and rich blood supply.",
           "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance.",
           "teacherNote": ""
         },
@@ -5254,7 +5254,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.2",
           "topicTitle": "Bone Structure, Remodeling & Ossification",
-          "definition": "An named bone, joint component, or bony landmark in bone structure, remodeling & ossification that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The process of forming bone tissue as osteoblasts secrete osteoid that later mineralizes. It occurs directly in connective tissue or by replacing a cartilage model.",
           "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance.",
           "teacherNote": ""
         },
@@ -5263,7 +5263,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.2",
           "topicTitle": "Bone Structure, Remodeling & Ossification",
-          "definition": "An named bone, joint component, or bony landmark in bone structure, remodeling & ossification that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A bone-forming cell found along bone surfaces. It secretes collagen-rich osteoid and promotes mineralization; a trapped osteoblast may mature into an osteocyte.",
           "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance.",
           "teacherNote": ""
         },
@@ -5272,7 +5272,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.2",
           "topicTitle": "Bone Structure, Remodeling & Ossification",
-          "definition": "An named bone, joint component, or bony landmark in bone structure, remodeling & ossification that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A large multinucleated cell that resorbs bone. Its ruffled border releases acid and enzymes against the bone surface, creating a shallow resorption bay.",
           "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance.",
           "teacherNote": ""
         },
@@ -5281,7 +5281,7 @@ window.COURSE_DATA = {
           "priority": "Core + Identification",
           "topic": "3.2",
           "topicTitle": "Bone Structure, Remodeling & Ossification",
-          "definition": "An named bone, joint component, or bony landmark in bone structure, remodeling & ossification that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A mature bone cell located in a lacuna. Its slender processes extend through canaliculi to sense mechanical strain, exchange materials, and coordinate bone maintenance.",
           "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance.",
           "teacherNote": ""
         },
@@ -5290,7 +5290,7 @@ window.COURSE_DATA = {
           "priority": "Core + Identification",
           "topic": "3.2",
           "topicTitle": "Bone Structure, Remodeling & Ossification",
-          "definition": "An named bone, joint component, or bony landmark in bone structure, remodeling & ossification that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The cylindrical structural unit of compact bone, also called a central or Haversian system. Concentric lamellae surround a central canal containing blood vessels and nerves.",
           "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance.",
           "teacherNote": ""
         },
@@ -5317,7 +5317,7 @@ window.COURSE_DATA = {
           "priority": "Core + Identification",
           "topic": "3.2",
           "topicTitle": "Bone Structure, Remodeling & Ossification",
-          "definition": "A named bone, joint component, or bony landmark in bone structure, remodeling & ossification that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The tough vascular membrane covering the external surface of bone except at articular cartilage. Its fibrous outer layer anchors tendons and ligaments, while its inner layer supports growth and repair.",
           "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance.",
           "teacherNote": ""
         },
@@ -5326,7 +5326,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.2",
           "topicTitle": "Bone Structure, Remodeling & Ossification",
-          "definition": "A named bone, joint component, or bony landmark in bone structure, remodeling & ossification that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The expanded end of a long bone nearest the trunk. It contains mostly spongy bone and presents a cartilage-covered surface that articulates with a neighboring bone.",
           "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance.",
           "teacherNote": ""
         },
@@ -5344,7 +5344,7 @@ window.COURSE_DATA = {
           "priority": "Core + Identification",
           "topic": "3.2",
           "topicTitle": "Bone Structure, Remodeling & Ossification",
-          "definition": "A named skeletal structure composed of mineralized connective tissue that supports, protects, or provides attachment and leverage in the region indicated.",
+          "definition": "Light, porous bone tissue made of a lattice of trabeculae with marrow-filled spaces. It is prominent inside epiphyses and flat bones, aligns with stress, and reduces skeletal weight.",
           "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance.",
           "teacherNote": ""
         },
@@ -5353,7 +5353,7 @@ window.COURSE_DATA = {
           "priority": "Core + Identification",
           "topic": "3.2",
           "topicTitle": "Bone Structure, Remodeling & Ossification",
-          "definition": "A named bone, joint component, or bony landmark in bone structure, remodeling & ossification that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A thin plate or strut of spongy bone arranged along lines of stress. Interconnected trabeculae form a lightweight lattice with marrow-filled spaces rather than solid osteons.",
           "connection": "Relate bone structure, ossification, and remodeling to growth, repair, and mineral balance.",
           "teacherNote": ""
         },
@@ -5371,7 +5371,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.3",
           "topicTitle": "Joints & Movement",
-          "definition": "An anatomically defined movement in which the named body part changes position in the direction specified by the term.",
+          "definition": "Movement of a body part away from the midline, such as raising the arm laterally. For fingers or toes, it means spreading the digits away from the central digit.",
           "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements.",
           "teacherNote": ""
         },
@@ -5380,7 +5380,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.3",
           "topicTitle": "Joints & Movement",
-          "definition": "An anatomically defined movement in which the named body part changes position in the direction specified by the term.",
+          "definition": "Movement of a body part toward the midline, such as lowering a raised arm to the side. For digits, it means bringing them toward the central digit.",
           "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements.",
           "teacherNote": ""
         },
@@ -5389,7 +5389,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.3",
           "topicTitle": "Joints & Movement",
-          "definition": "An named bone, joint component, or bony landmark in joints & movement that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A site where two bones or a bone and cartilage meet. Its structure ranges from nearly immovable fibrous unions to freely movable synovial joints.",
           "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements.",
           "teacherNote": ""
         },
@@ -5398,7 +5398,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.3",
           "topicTitle": "Joints & Movement",
-          "definition": "A articulation where two or more skeletal elements meet, permitting or restricting movement according to its structure.",
+          "definition": "A multiaxial synovial joint in which a spherical bone head fits into a cup-shaped socket, as at the shoulder or hip. It permits movement in all planes plus rotation.",
           "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements.",
           "teacherNote": ""
         },
@@ -5407,7 +5407,7 @@ window.COURSE_DATA = {
           "priority": "Core + Identification",
           "topic": "3.3",
           "topicTitle": "Joints & Movement",
-          "definition": "A named bone, joint component, or bony landmark in joints & movement that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A small flattened sac lined by synovial membrane and containing synovial fluid. It lies where tendons, muscles, skin, or ligaments rub against bone and reduces friction.",
           "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements.",
           "teacherNote": ""
         },
@@ -5416,7 +5416,7 @@ window.COURSE_DATA = {
           "priority": "Core + Identification",
           "topic": "3.3",
           "topicTitle": "Joints & Movement",
-          "definition": "A articulation where two or more skeletal elements meet, permitting or restricting movement according to its structure.",
+          "definition": "A joint in which bones are united by hyaline cartilage or fibrocartilage and no joint cavity is present. Its firm connection allows little or limited movement.",
           "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements.",
           "teacherNote": ""
         },
@@ -5425,7 +5425,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.3",
           "topicTitle": "Joints & Movement",
-          "definition": "A named bone, joint component, or bony landmark in joints & movement that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A cone-shaped movement in which the distal end of a limb travels in a circle while the proximal end remains relatively fixed. It combines flexion, abduction, extension, and adduction.",
           "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements.",
           "teacherNote": ""
         },
@@ -5434,7 +5434,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.3",
           "topicTitle": "Joints & Movement",
-          "definition": "A articulation where two or more skeletal elements meet, permitting or restricting movement according to its structure.",
+          "definition": "A biaxial synovial joint in which an oval convex surface fits an oval depression, as at the knuckles. It permits flexion, extension, abduction, adduction, and circumduction but little rotation.",
           "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements.",
           "teacherNote": ""
         },
@@ -5443,7 +5443,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.3",
           "topicTitle": "Joints & Movement",
-          "definition": "An anatomically defined movement in which the named body part changes position in the direction specified by the term.",
+          "definition": "Movement at the ankle that lifts the top of the foot toward the shin, decreasing the angle between the foot and anterior leg. Standing on the heels demonstrates it.",
           "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements.",
           "teacherNote": ""
         },
@@ -5452,7 +5452,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.3",
           "topicTitle": "Joints & Movement",
-          "definition": "An named bone, joint component, or bony landmark in joints & movement that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "Movement that turns the sole of the foot laterally, away from the body's midline. It occurs mainly at intertarsal joints and raises the medial border of the foot.",
           "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements.",
           "teacherNote": ""
         },
@@ -5461,7 +5461,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.3",
           "topicTitle": "Joints & Movement",
-          "definition": "An anatomically defined movement in which the named body part changes position in the direction specified by the term.",
+          "definition": "A movement that increases the angle between articulating bones, usually straightening a joint. Returning the forearm from a flexed elbow to anatomical position is extension.",
           "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements.",
           "teacherNote": ""
         },
@@ -5470,7 +5470,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.3",
           "topicTitle": "Joints & Movement",
-          "definition": "A named bone, joint component, or bony landmark in joints & movement that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The tough outer layer of a synovial joint capsule, made of dense irregular connective tissue. It encloses the joint cavity and blends with periosteum to stabilize the articulating bones.",
           "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements.",
           "teacherNote": ""
         },
@@ -5479,7 +5479,7 @@ window.COURSE_DATA = {
           "priority": "Core + Identification",
           "topic": "3.3",
           "topicTitle": "Joints & Movement",
-          "definition": "A articulation where two or more skeletal elements meet, permitting or restricting movement according to its structure.",
+          "definition": "A joint in which bones are connected by dense fibrous connective tissue and lack a joint cavity. Sutures and syndesmoses are identified by their tight, usually minimally movable union.",
           "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements.",
           "teacherNote": ""
         },
@@ -5488,7 +5488,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.3",
           "topicTitle": "Joints & Movement",
-          "definition": "An anatomically defined movement in which the named body part changes position in the direction specified by the term.",
+          "definition": "A movement that decreases the angle between articulating bones, usually bending a joint. Bringing the forearm toward the upper arm at the elbow is flexion.",
           "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements.",
           "teacherNote": ""
         },
@@ -5497,7 +5497,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.3",
           "topicTitle": "Joints & Movement",
-          "definition": "A articulation where two or more skeletal elements meet, permitting or restricting movement according to its structure.",
+          "definition": "A uniaxial synovial joint with a convex, spool-like surface fitting a concave surface. It primarily permits flexion and extension, as at the elbow and interphalangeal joints.",
           "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements.",
           "teacherNote": ""
         },
@@ -5515,7 +5515,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.3",
           "topicTitle": "Joints & Movement",
-          "definition": "An named bone, joint component, or bony landmark in joints & movement that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "Movement that turns the sole of the foot medially toward the body's midline. It occurs mainly at intertarsal joints and raises the lateral border of the foot.",
           "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements.",
           "teacherNote": ""
         },
@@ -5524,7 +5524,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.3",
           "topicTitle": "Joints & Movement",
-          "definition": "A named bone, joint component, or bony landmark in joints & movement that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A junction between skeletal elements. Joint structure determines stability and movement: fibrous and cartilaginous joints allow little motion, while synovial joints contain a cavity and move freely.",
           "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements.",
           "teacherNote": ""
         },
@@ -5533,7 +5533,7 @@ window.COURSE_DATA = {
           "priority": "Core + Identification",
           "topic": "3.3",
           "topicTitle": "Joints & Movement",
-          "definition": "A anatomically defined internal space that contains, surrounds, or separates the organs or structures indicated by its name.",
+          "definition": "A visible depression identified as the joint cavity. Its location and contour accommodate a muscle, gland, or articulating bone and help orient the parent bone.",
           "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements.",
           "teacherNote": ""
         },
@@ -5542,7 +5542,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.3",
           "topicTitle": "Joints & Movement",
-          "definition": "A named bone, joint component, or bony landmark in joints & movement that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A strong band or sheet of dense regular connective tissue connecting bone to bone. Ligaments reinforce joints, guide motion, and resist movement beyond a safe range.",
           "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements.",
           "teacherNote": ""
         },
@@ -5551,7 +5551,7 @@ window.COURSE_DATA = {
           "priority": "Core + Identification",
           "topic": "3.3",
           "topicTitle": "Joints & Movement",
-          "definition": "A named bone, joint component, or bony landmark in joints & movement that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A crescent-shaped pad of fibrocartilage within certain synovial joints, especially the knee. It improves surface fit, distributes load, absorbs shock, and guides movement.",
           "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements.",
           "teacherNote": ""
         },
@@ -5560,7 +5560,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.3",
           "topicTitle": "Joints & Movement",
-          "definition": "A articulation where two or more skeletal elements meet, permitting or restricting movement according to its structure.",
+          "definition": "A uniaxial synovial joint in which a rounded bone surface rotates within a ring of bone and ligament. It permits rotation, as between the atlas and axis or radius and ulna.",
           "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements.",
           "teacherNote": ""
         },
@@ -5569,7 +5569,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.3",
           "topicTitle": "Joints & Movement",
-          "definition": "A articulation where two or more skeletal elements meet, permitting or restricting movement according to its structure.",
+          "definition": "A nonaxial synovial joint between nearly flat articular surfaces. The bones slide short distances past one another, as between many carpal and tarsal bones.",
           "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements.",
           "teacherNote": ""
         },
@@ -5578,7 +5578,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.3",
           "topicTitle": "Joints & Movement",
-          "definition": "An anatomically defined movement in which the named body part changes position in the direction specified by the term.",
+          "definition": "Movement at the ankle that points the foot and toes downward, increasing the angle between the foot and anterior leg. Standing on tiptoe demonstrates it.",
           "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements.",
           "teacherNote": ""
         },
@@ -5587,7 +5587,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.3",
           "topicTitle": "Joints & Movement",
-          "definition": "An anatomically defined movement in which the named body part changes position in the direction specified by the term.",
+          "definition": "Rotation of the forearm that turns the palm posteriorly in anatomical position or downward when the elbow is flexed. The radius crosses over the ulna.",
           "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements.",
           "teacherNote": ""
         },
@@ -5605,7 +5605,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.3",
           "topicTitle": "Joints & Movement",
-          "definition": "An anatomically defined movement in which the named body part changes position in the direction specified by the term.",
+          "definition": "Movement of a bone around its longitudinal axis. Medial rotation turns the anterior surface toward the midline, while lateral rotation turns it away.",
           "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements.",
           "teacherNote": ""
         },
@@ -5614,7 +5614,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.3",
           "topicTitle": "Joints & Movement",
-          "definition": "A articulation where two or more skeletal elements meet, permitting or restricting movement according to its structure.",
+          "definition": "A biaxial synovial joint whose opposing surfaces are each concave in one direction and convex in the other, resembling a rider and saddle. The thumb carpometacarpal joint permits opposition.",
           "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements.",
           "teacherNote": ""
         },
@@ -5623,7 +5623,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.3",
           "topicTitle": "Joints & Movement",
-          "definition": "An anatomically defined movement in which the named body part changes position in the direction specified by the term.",
+          "definition": "Rotation of the forearm that turns the palm anteriorly in anatomical position or upward when the elbow is flexed. The radius and ulna become parallel.",
           "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements.",
           "teacherNote": ""
         },
@@ -5632,7 +5632,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.3",
           "topicTitle": "Joints & Movement",
-          "definition": "A named bone, joint component, or bony landmark in joints & movement that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A slightly movable cartilaginous joint in which bones are united by a fibrocartilage pad, such as an intervertebral disc or the pubic symphysis. It combines strength with limited flexibility.",
           "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements.",
           "teacherNote": ""
         },
@@ -5641,7 +5641,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.3",
           "topicTitle": "Joints & Movement",
-          "definition": "A pathological condition or physiological process involving the tissue, substance, or change identified by the root of the term.",
+          "definition": "An immovable cartilaginous joint in which bones are joined by hyaline cartilage. The epiphyseal plate and first sternocostal joint are standard examples.",
           "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements.",
           "teacherNote": ""
         },
@@ -5650,7 +5650,7 @@ window.COURSE_DATA = {
           "priority": "Core + Identification",
           "topic": "3.3",
           "topicTitle": "Joints & Movement",
-          "definition": "A named bone, joint component, or bony landmark in joints & movement that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A viscous filtrate of blood plasma enriched with hyaluronic acid and lubricin within a synovial joint. It lubricates articular surfaces, nourishes cartilage, and absorbs shock.",
           "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements.",
           "teacherNote": ""
         },
@@ -5659,7 +5659,7 @@ window.COURSE_DATA = {
           "priority": "Core + Identification",
           "topic": "3.3",
           "topicTitle": "Joints & Movement",
-          "definition": "A articulation where two or more skeletal elements meet, permitting or restricting movement according to its structure.",
+          "definition": "A freely movable joint with articular cartilage, a fluid-filled joint cavity, and an enclosing capsule. Its smooth surfaces and synovial fluid reduce friction during movement.",
           "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements.",
           "teacherNote": ""
         },
@@ -5677,7 +5677,7 @@ window.COURSE_DATA = {
           "priority": "Identification",
           "topic": "3.3",
           "topicTitle": "Joints & Movement",
-          "definition": "A named bone, joint component, or bony landmark in joints & movement that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A cord or sheet of dense regular connective tissue connecting muscle to bone. Parallel collagen bundles transmit muscular force and appear shiny white on specimens.",
           "connection": "Compare fibrous, cartilaginous, and synovial joints and their movements.",
           "teacherNote": ""
         },
@@ -5686,7 +5686,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.4",
           "topicTitle": "Aging & Skeletal Disease",
-          "definition": "A named bone, joint component, or bony landmark in aging & skeletal disease that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The amount of mineral, primarily calcium hydroxyapatite, contained in a defined volume or area of bone. Greater density generally increases resistance to fracture.",
           "connection": "Relate aging and altered remodeling to skeletal disease.",
           "teacherNote": ""
         },
@@ -5695,7 +5695,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.4",
           "topicTitle": "Aging & Skeletal Disease",
-          "definition": "A named bone, joint component, or bony landmark in aging & skeletal disease that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The breakdown and removal of mineralized bone by osteoclasts. Acid dissolves mineral and enzymes digest matrix, releasing calcium and phosphate into extracellular fluid.",
           "connection": "Relate aging and altered remodeling to skeletal disease.",
           "teacherNote": ""
         },
@@ -5704,7 +5704,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.4",
           "topicTitle": "Aging & Skeletal Disease",
-          "definition": "A named bone, joint component, or bony landmark in aging & skeletal disease that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A fracture in which a bone collapses under axial load, commonly affecting osteoporotic vertebral bodies. The vertebra often develops a shortened, wedge-shaped appearance.",
           "connection": "Relate aging and altered remodeling to skeletal disease.",
           "teacherNote": ""
         },
@@ -5713,7 +5713,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.4",
           "topicTitle": "Aging & Skeletal Disease",
-          "definition": "A named bone, joint component, or bony landmark in aging & skeletal disease that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A low-dose imaging test that passes two X-ray energies through bone to estimate bone mineral density, usually at the hip and lumbar spine. Results help diagnose osteopenia and osteoporosis.",
           "connection": "Relate aging and altered remodeling to skeletal disease.",
           "teacherNote": ""
         },
@@ -5722,7 +5722,7 @@ window.COURSE_DATA = {
           "priority": "Honors Extension",
           "topic": "3.4",
           "topicTitle": "Aging & Skeletal Disease",
-          "definition": "A named bone, joint component, or bony landmark in aging & skeletal disease that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The full name for DEXA or DXA, a low-radiation test using two X-ray energies to calculate bone mineral density and assess fracture risk.",
           "connection": "Relate aging and altered remodeling to skeletal disease.",
           "teacherNote": ""
         },
@@ -5731,7 +5731,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.4",
           "topicTitle": "Aging & Skeletal Disease",
-          "definition": "A named bone, joint component, or bony landmark in aging & skeletal disease that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A partial or complete break in bone caused by force, repetitive stress, or disease. Fractures are described by their pattern, displacement, skin involvement, and anatomical location.",
           "connection": "Relate aging and altered remodeling to skeletal disease.",
           "teacherNote": ""
         },
@@ -5740,7 +5740,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.4",
           "topicTitle": "Aging & Skeletal Disease",
-          "definition": "A pathological condition or physiological process involving the tissue, substance, or change identified by the root of the term.",
+          "definition": "An excessive posterior curvature of the thoracic spine that produces a rounded upper back. On lateral view, the thoracic curve appears more convex posteriorly than normal.",
           "connection": "Relate aging and altered remodeling to skeletal disease.",
           "teacherNote": ""
         },
@@ -5749,7 +5749,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.4",
           "topicTitle": "Aging & Skeletal Disease",
-          "definition": "A pathological condition or physiological process involving the tissue, substance, or change identified by the root of the term.",
+          "definition": "An excessive anterior curvature of the lumbar spine. On lateral view, the lower back shows an exaggerated inward curve, often with an anteriorly tilted pelvis.",
           "connection": "Relate aging and altered remodeling to skeletal disease.",
           "teacherNote": ""
         },
@@ -5758,7 +5758,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.4",
           "topicTitle": "Aging & Skeletal Disease",
-          "definition": "Inflammation of the tissue or organ identified by the root of the term, producing local cellular and vascular responses.",
+          "definition": "A degenerative joint disease involving progressive loss of articular cartilage, remodeling of underlying bone, and osteophyte formation. It causes pain, stiffness, and reduced motion, especially in weight-bearing joints.",
           "connection": "Relate aging and altered remodeling to skeletal disease.",
           "teacherNote": ""
         },
@@ -5767,7 +5767,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.4",
           "topicTitle": "Aging & Skeletal Disease",
-          "definition": "An named bone, joint component, or bony landmark in aging & skeletal disease that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "Defective mineralization of newly formed adult bone, most often from vitamin D deficiency. Bones become soft and painful and may bend or fracture despite normal collagen production.",
           "connection": "Relate aging and altered remodeling to skeletal disease.",
           "teacherNote": ""
         },
@@ -5776,7 +5776,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.4",
           "topicTitle": "Aging & Skeletal Disease",
-          "definition": "An named bone, joint component, or bony landmark in aging & skeletal disease that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "Bone mineral density below that of healthy young adults but not low enough to meet the diagnostic threshold for osteoporosis. It indicates increased future fracture risk.",
           "connection": "Relate aging and altered remodeling to skeletal disease.",
           "teacherNote": ""
         },
@@ -5785,7 +5785,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.4",
           "topicTitle": "Aging & Skeletal Disease",
-          "definition": "A pathological condition or physiological process involving the tissue, substance, or change identified by the root of the term.",
+          "definition": "A skeletal disorder characterized by reduced bone mass and deterioration of bone microarchitecture, increasing fragility and fracture risk. Vertebrae, hip, and wrist are common fracture sites.",
           "connection": "Relate aging and altered remodeling to skeletal disease.",
           "teacherNote": ""
         },
@@ -5794,7 +5794,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.4",
           "topicTitle": "Aging & Skeletal Disease",
-          "definition": "A named bone, joint component, or bony landmark in aging & skeletal disease that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "A break caused by ordinary or minimal force in bone weakened by disease such as osteoporosis, cancer, infection, or a metabolic disorder.",
           "connection": "Relate aging and altered remodeling to skeletal disease.",
           "teacherNote": ""
         },
@@ -5803,7 +5803,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.4",
           "topicTitle": "Aging & Skeletal Disease",
-          "definition": "A named bone, joint component, or bony landmark in aging & skeletal disease that contributes to support, protection, articulation, passage, or soft-tissue attachment according to its form.",
+          "definition": "The greatest amount of bone tissue accumulated during growth, usually reached in early adulthood. Genetics, nutrition, hormones, and weight-bearing activity influence this reserve against later bone loss.",
           "connection": "Relate aging and altered remodeling to skeletal disease.",
           "teacherNote": ""
         },
@@ -5812,7 +5812,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.4",
           "topicTitle": "Aging & Skeletal Disease",
-          "definition": "Inflammation of the tissue or organ identified by the root of the term, producing local cellular and vascular responses.",
+          "definition": "A systemic autoimmune disease in which persistent synovial inflammation damages cartilage, bone, and supporting tissues. It commonly produces symmetric swollen joints and progressive deformity.",
           "connection": "Relate aging and altered remodeling to skeletal disease.",
           "teacherNote": ""
         },
@@ -5821,7 +5821,7 @@ window.COURSE_DATA = {
           "priority": "Core",
           "topic": "3.4",
           "topicTitle": "Aging & Skeletal Disease",
-          "definition": "A pathological condition or physiological process involving the tissue, substance, or change identified by the root of the term.",
+          "definition": "An abnormal lateral curvature of the vertebral column accompanied by vertebral rotation. From behind, the spine forms a C- or S-shaped curve rather than a straight vertical line.",
           "connection": "Relate aging and altered remodeling to skeletal disease.",
           "teacherNote": ""
         }
